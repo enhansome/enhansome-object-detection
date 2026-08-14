@@ -1,0 +1,1225 @@
+{
+  "items": [
+    {
+      "description": "Rich feature hierarchies for accurate object detection and semantic segmentation",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "caffe-pr(\"Make R-CNN the Caffe detection example\"): https://github.com/BVLC/caffe/pull/482",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-07-31T23:10:28Z",
+            "owner": "BVLC",
+            "repo": "caffe",
+            "stars": 34572
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github: https://github.com/rbgirshick/rcnn",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Matlab",
+            "last_commit": "2017-04-03T16:16:14Z",
+            "owner": "rbgirshick",
+            "repo": "rcnn",
+            "stars": 2417
+          }
+        }
+      ],
+      "title": "R-CNN"
+    },
+    {
+      "description": "Fast R-CNN",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "github: https://github.com/rbgirshick/fast-rcnn",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-01-23T05:59:26Z",
+            "owner": "rbgirshick",
+            "repo": "fast-rcnn",
+            "stars": 3461
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github(COCO-branch): https://github.com/rbgirshick/fast-rcnn/tree/coco",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-01-23T05:59:26Z",
+            "owner": "rbgirshick",
+            "repo": "fast-rcnn",
+            "stars": 3461
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "webcam demo: https://github.com/rbgirshick/fast-rcnn/pull/29",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-01-23T05:59:26Z",
+            "owner": "rbgirshick",
+            "repo": "fast-rcnn",
+            "stars": 3461
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github(\"Fast R-CNN in MXNet\"): https://github.com/precedenceguo/mx-rcnn",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-08-25T17:46:48Z",
+            "owner": "ijkguo",
+            "repo": "mx-rcnn",
+            "stars": 666
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github: https://github.com/zplizzi/tensorflow-fast-rcnn",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2016-09-24T22:36:15Z",
+            "owner": "zplizzi",
+            "repo": "tensorflow-fast-rcnn",
+            "stars": 172
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github: https://github.com/mahyarnajibi/fast-rcnn-torch",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2017-04-25T16:51:46Z",
+            "owner": "mahyarnajibi",
+            "repo": "fast-rcnn-torch",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github: https://github.com/apple2373/chainer-simple-fast-rnn",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-04-16T07:04:15Z",
+            "owner": "apple2373",
+            "repo": "chainer-simple-fast-rnn",
+            "stars": 43
+          }
+        }
+      ],
+      "title": "Fast R-CNN"
+    },
+    {
+      "description": "Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "github(Caffe): https://github.com/rbgirshick/py-faster-rcnn",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-11-07T04:31:35Z",
+            "owner": "rbgirshick",
+            "repo": "py-faster-rcnn",
+            "stars": 8289
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github(PyTorch--recommend): https://github.com//jwyang/faster-rcnn.pytorch",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-05-20T09:01:28Z",
+            "owner": "jwyang",
+            "repo": "faster-rcnn.pytorch",
+            "stars": 7856
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github(MXNet): https://github.com/msracver/Deformable-ConvNets/tree/master/faster_rcnn",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-09-27T01:43:43Z",
+            "owner": "msracver",
+            "repo": "Deformable-ConvNets",
+            "stars": 4119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github(official, Matlab): https://github.com/ShaoqingRen/faster_rcnn",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Matlab",
+            "last_commit": "2018-07-26T04:26:32Z",
+            "owner": "ShaoqingRen",
+            "repo": "faster_rcnn",
+            "stars": 2835
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github(TensorFlow): https://github.com/smallcorgi/Faster-RCNN_TF",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-10-28T09:17:08Z",
+            "owner": "smallcorgi",
+            "repo": "Faster-RCNN_TF",
+            "stars": 2342
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github(TensorFlow): https://github.com/CharlesShang/TFFRCNN",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-06-07T07:45:18Z",
+            "owner": "CharlesShang",
+            "repo": "TFFRCNN",
+            "stars": 871
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github: https://github.com/mitmul/chainer-faster-rcnn",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-07-08T01:35:21Z",
+            "owner": "mitmul",
+            "repo": "chainer-faster-rcnn",
+            "stars": 288
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github: https://github.com/Eniac-Xie/faster-rcnn-resnet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-04-28T04:43:25Z",
+            "owner": "Eniac-Xie",
+            "repo": "faster-rcnn-resnet",
+            "stars": 209
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github(C++ demo): https://github.com/YihangLou/FasterRCNN-Encapsulation-Cplusplus",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2021-10-14T13:46:43Z",
+            "owner": "YihangLou",
+            "repo": "FasterRCNN-Encapsulation-Cplusplus",
+            "stars": 187
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github(Torch):: https://github.com/andreaskoepf/faster-rcnn.torch",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2016-10-05T07:40:39Z",
+            "owner": "andreaskoepf",
+            "repo": "faster-rcnn.torch",
+            "stars": 122
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github(Torch):: https://github.com/ruotianluo/Faster-RCNN-Densecap-torch",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2016-09-12T00:43:19Z",
+            "owner": "ruotianluo",
+            "repo": "Faster-RCNN-Densecap-torch",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github(Keras): https://github.com/yhenon/keras-frcnn",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "github(C++): https://github.com/D-X-Y/caffe-faster-rcnn/tree/dev",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Faster R-CNN"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "github(Caffe2): https://github.com/facebookresearch/Detectron",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-11-20T09:13:34Z",
+            "owner": "facebookresearch",
+            "repo": "Detectron",
+            "stars": 26368
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github(Keras): https://github.com/matterport/Mask_RCNN",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-07T02:36:21Z",
+            "owner": "matterport",
+            "repo": "Mask_RCNN",
+            "stars": 25570
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github(MXNet): https://github.com/TuSimple/mx-maskrcnn",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-02-28T02:51:13Z",
+            "owner": "TuSimple",
+            "repo": "mx-maskrcnn",
+            "stars": 1753
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github(Pytorch): https://github.com/wannabeOG/Mask-RCNN",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-11-05T06:10:55Z",
+            "owner": "wannabeOG",
+            "repo": "Mask-RCNN",
+            "stars": 987
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github(Chainer): https://github.com/DeNA/Chainer_Mask_R-CNN",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2018-07-24T10:44:15Z",
+            "owner": "DeNA",
+            "repo": "Chainer_Mask_R-CNN",
+            "stars": 138
+          }
+        }
+      ],
+      "title": "Mask R-CNN"
+    },
+    {
+      "description": "Light-Head R-CNN: In Defense of Two-Stage Object Detector",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "github(offical): https://github.com/zengarden/light_head_rcnn",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2018-12-24T11:03:46Z",
+            "owner": "zengarden",
+            "repo": "light_head_rcnn",
+            "stars": 829
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github: https://github.com/terrychenism/Deformable-ConvNets/blob/master/rfcn/symbols/resnet_v1_101_rfcn_light.py#L784",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-12-02T07:17:48Z",
+            "owner": "terrychenism",
+            "repo": "Deformable-ConvNets",
+            "stars": 158
+          }
+        }
+      ],
+      "title": "Light-Head R-CNN"
+    },
+    {
+      "description": "You Only Look Once: Unified, Real-Time Object Detection\n",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "github: https://github.com/pjreddie/darknet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-05-03T13:53:58Z",
+            "owner": "pjreddie",
+            "repo": "darknet",
+            "stars": 26489
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github: https://github.com/gliese581gg/YOLO_tensorflow",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-01-05T07:57:00Z",
+            "owner": "gliese581gg",
+            "repo": "YOLO_tensorflow",
+            "stars": 1708
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github: https://github.com/nilboy/tensorflow-yolo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-10-22T09:16:43Z",
+            "owner": "nilboy",
+            "repo": "tensorflow-yolo",
+            "stars": 768
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github: https://github.com/xingwangsfu/caffe-yolo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-01-05T06:11:59Z",
+            "owner": "xingwangsfu",
+            "repo": "caffe-yolo",
+            "stars": 515
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github: https://github.com/AlexeyAB/yolo-windows",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2017-01-18T11:15:39Z",
+            "owner": "AlexeyAB",
+            "repo": "yolo-windows",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github: https://github.com/frischzenger/yolo-windows",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2015-09-18T03:32:19Z",
+            "owner": "frischzenger",
+            "repo": "yolo-windows",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github: https://github.com/frankzhangrui/Darknet-Yolo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2016-03-22T04:03:00Z",
+            "owner": "frankzhangrui",
+            "repo": "Darknet-Yolo",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github: https://github.com/BriSkyHekun/py-darknet-yolo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2016-07-10T16:36:13Z",
+            "owner": "HeKun-NVIDIA",
+            "repo": "py-darknet-yolo",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github: https://github.com/tommy-qichang/yolo.torch",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Lua",
+            "last_commit": "2016-07-27T00:27:29Z",
+            "owner": "tommy-qichang",
+            "repo": "yolo.torch",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "YOLO"
+    },
+    {
+      "description": "YOLO9000: Better, Faster, Stronger",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "github(Windows): https://github.com/AlexeyAB/darknet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-12-15T16:10:05Z",
+            "owner": "AlexeyAB",
+            "repo": "darknet",
+            "stars": 22153
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github(Keras): https://github.com/allanzelener/YAD2K",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-12-16T17:18:51Z",
+            "owner": "allanzelener",
+            "repo": "YAD2K",
+            "stars": 2727
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github(Keras): https://github.com/experiencor/keras-yolo2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-03-24T22:26:55Z",
+            "owner": "experiencor",
+            "repo": "keras-yolo2",
+            "stars": 1733
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github(PyTorch): https://github.com/longcw/yolo2-pytorch",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-09-29T09:54:02Z",
+            "owner": "longcw",
+            "repo": "yolo2-pytorch",
+            "stars": 1560
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github: https://github.com/philipperemy/yolo-9000",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-03-24T11:59:33Z",
+            "owner": "philipperemy",
+            "repo": "yolo-9000",
+            "stars": 1194
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github(Tensorflow): https://github.com/hizhangp/yolo_tensorflow",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-05-22T05:22:26Z",
+            "owner": "hizhangp",
+            "repo": "yolo_tensorflow",
+            "stars": 805
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github(Chainer): https://github.com/leetenki/YOLOv2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-09-26T19:28:17Z",
+            "owner": "leetenki",
+            "repo": "YOLOv2",
+            "stars": 340
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github: https://github.com/choasUp/caffe-yolo9000",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2018-07-02T07:49:40Z",
+            "owner": "choasup",
+            "repo": "caffe-yolo9000",
+            "stars": 166
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github(Keras): https://github.com/yhcc/yolo2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2017-10-07T14:14:14Z",
+            "owner": "yhcc",
+            "repo": "yolo2",
+            "stars": 159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github(TensorFlow): https://github.com/WojciechMormul/yolo2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-04-03T21:13:57Z",
+            "owner": "wojciechmo",
+            "repo": "yolo2",
+            "stars": 137
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github(TensorFlow): https://github.com/KOD-Chen/YOLOv2-Tensorflow",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-06-07T13:08:36Z",
+            "owner": "KOD-Chen",
+            "repo": "YOLOv2-Tensorflow",
+            "stars": 97
+          }
+        }
+      ],
+      "title": "YOLOv2"
+    },
+    {
+      "description": "YOLOv3: An Incremental Improvement",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "github(Official):https://github.com/pjreddie/darknet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-05-03T13:53:58Z",
+            "owner": "pjreddie",
+            "repo": "darknet",
+            "stars": 26489
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github:https://github.com/ultralytics/yolov3",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-02T18:57:39Z",
+            "owner": "ultralytics",
+            "repo": "yolov3",
+            "stars": 10590
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github:https://github.com/eriklindernoren/PyTorch-YOLOv3",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-17T15:24:57Z",
+            "owner": "eriklindernoren",
+            "repo": "PyTorch-YOLOv3",
+            "stars": 7441
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github:https://github.com/qqwweee/keras-yolo3",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-12T02:57:19Z",
+            "owner": "qqwweee",
+            "repo": "keras-yolo3",
+            "stars": 7115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github:https://github.com/ayooshkathuria/pytorch-yolo-v3",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-16T12:30:23Z",
+            "owner": "ayooshkathuria",
+            "repo": "pytorch-yolo-v3",
+            "stars": 3312
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github:https://github.com/ayooshkathuria/YOLO_v3_tutorial_from_scratch",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-11-17T07:09:38Z",
+            "owner": "ayooshkathuria",
+            "repo": "YOLO_v3_tutorial_from_scratch",
+            "stars": 2317
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github:https://github.com/experiencor/keras-yolo3",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-05T07:29:29Z",
+            "owner": "experiencor",
+            "repo": "keras-yolo3",
+            "stars": 1608
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github:https://github.com/mystic123/tensorflow-yolo-v3",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-15T12:29:48Z",
+            "owner": "mystic123",
+            "repo": "tensorflow-yolo-v3",
+            "stars": 878
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github:https://github.com/BobLiu20/YOLOv3_PyTorch",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2019-12-31T09:54:47Z",
+            "owner": "BobLiu20",
+            "repo": "YOLOv3_PyTorch",
+            "stars": 641
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github:https://github.com/DeNA/PyTorch_YOLOv3",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2021-10-12T22:55:11Z",
+            "owner": "DeNA",
+            "repo": "PyTorch_YOLOv3",
+            "stars": 431
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github:https://github.com/andy-yun/pytorch-0.4-yolov3",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-05-09T14:00:26Z",
+            "owner": "andy-yun",
+            "repo": "pytorch-0.4-yolov3",
+            "stars": 276
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github:https://github.com/marvis/pytorch-yolo3",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "YOLOv3"
+    },
+    {
+      "description": "SSD: Single Shot MultiBox Detector\n",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "github: https://github.com/amdegroot/ssd.pytorch",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-12-29T03:19:26Z",
+            "owner": "amdegroot",
+            "repo": "ssd.pytorch",
+            "stars": 5221
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github(Official): https://github.com/weiliu89/caffe/tree/ssd",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-04-21T17:17:09Z",
+            "owner": "weiliu89",
+            "repo": "caffe",
+            "stars": 4808
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github: https://github.com/balancap/SSD-Tensorflow",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-08-12T11:13:20Z",
+            "owner": "balancap",
+            "repo": "SSD-Tensorflow",
+            "stars": 4101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github(Caffe): https://github.com/chuanqi305/MobileNet-SSD",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-13T06:43:16Z",
+            "owner": "chuanqi305",
+            "repo": "MobileNet-SSD",
+            "stars": 2127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github: https://github.com/rykov8/ssd_keras",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-06-01T16:00:23Z",
+            "owner": "rykov8",
+            "repo": "ssd_keras",
+            "stars": 1083
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github: https://github.com/zhreshold/mxnet-ssd",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-16T18:17:10Z",
+            "owner": "zhreshold",
+            "repo": "mxnet-ssd",
+            "stars": 757
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github: https://github.com/zhreshold/mxnet-ssd.cpp",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2017-03-21T22:11:48Z",
+            "owner": "zhreshold",
+            "repo": "mxnet-ssd.cpp",
+            "stars": 96
+          }
+        }
+      ],
+      "title": "SSD"
+    },
+    {
+      "description": "DSSD : Deconvolutional Single Shot Detector",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "github: https://github.com/chengyangfu/caffe/tree/dssd",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2017-04-11T15:56:19Z",
+            "owner": "chengyangfu",
+            "repo": "caffe",
+            "stars": 169
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github: https://github.com/MTCloudVision/mxnet-dssd",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-02-09T03:51:54Z",
+            "owner": "MTCloudVision",
+            "repo": "mxnet-dssd",
+            "stars": 113
+          }
+        }
+      ],
+      "title": "DSSD"
+    },
+    {
+      "description": "Extend the shallow part of Single Shot MultiBox Detector via Convolutional Neural Network\nhttps://arxiv.org/abs/1801.05918\nTiny SSD: A Tiny Single-shot Detection Deep Convolutional Neural Network for Real-time Embedded Object Detection\nhttps://arxiv.org/abs/1802.06488",
+      "items": [],
+      "title": "ESSD"
+    },
+    {
+      "description": "R-FCN: Object Detection via Region-based Fully Convolutional Networks",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "github(MXNet): https://github.com/msracver/Deformable-ConvNets/tree/master/rfcn",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-09-27T01:43:43Z",
+            "owner": "msracver",
+            "repo": "Deformable-ConvNets",
+            "stars": 4119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github: https://github.com/daijifeng001/R-FCN",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Matlab",
+            "last_commit": "2017-05-05T15:50:59Z",
+            "owner": "daijifeng001",
+            "repo": "R-FCN",
+            "stars": 1248
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github: https://github.com/Orpine/py-R-FCN",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-12-31T01:44:16Z",
+            "owner": "YuwenXiong",
+            "repo": "py-R-FCN",
+            "stars": 1043
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github: https://github.com/xdever/RFCN-tensorflow",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-12-26T17:50:11Z",
+            "owner": "RobertCsordas",
+            "repo": "RFCN-tensorflow",
+            "stars": 290
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github: https://github.com/PureDiors/pytorch_RFCN",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-03-12T11:32:40Z",
+            "owner": "xiong-zhitong",
+            "repo": "pytorch_RFCN",
+            "stars": 276
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github: https://github.com/bharatsingh430/py-R-FCN-multiGPU",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2017-06-06T02:59:43Z",
+            "owner": "bharatsingh430",
+            "repo": "py-R-FCN-multiGPU",
+            "stars": 191
+          }
+        }
+      ],
+      "title": "R-FCN"
+    },
+    {
+      "description": "DSOD: Learning Deeply Supervised Object Detectors from Scratch\n",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "github: https://github.com/szq0214/DSOD",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-12-28T19:07:04Z",
+            "owner": "szq0214",
+            "repo": "DSOD",
+            "stars": 710
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github:https://github.com/chenyuntc/dsod.pytorch",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-01-14T18:48:28Z",
+            "owner": "chenyuntc",
+            "repo": "dsod.pytorch",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github:https://github.com/Windaway/DSOD-Tensorflow",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-02-24T06:36:21Z",
+            "owner": "Windaway",
+            "repo": "DSOD-Tensorflow",
+            "stars": 42
+          }
+        }
+      ],
+      "title": "DSOD"
+    },
+    {
+      "description": "Single-Shot Refinement Neural Network for Object Detection",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "github: https://github.com/sfzhang15/RefineDet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2019-03-18T12:42:45Z",
+            "owner": "sfzhang15",
+            "repo": "RefineDet",
+            "stars": 1424
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github: https://github.com/lzx1413/PytorchSSD",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-03-27T10:35:05Z",
+            "owner": "lzx1413",
+            "repo": "PytorchSSD",
+            "stars": 704
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github: https://github.com/MTCloudVision/RefineDet-Mxnet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-07-11T10:21:56Z",
+            "owner": "MTCloudVision",
+            "repo": "RefineDet-Mxnet",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github: https://github.com/ddlee96/RefineDet_mxnet",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "RefineNet"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T03:10:55.020Z",
+    "original_repository": "amusi/awesome-object-detection",
+    "original_repository_sha": "6d39aede560dbd4220fe52f5241ea332c8de5e01",
+    "enhanced_repository": "enhansome/enhansome-object-detection",
+    "enhanced_repository_description": null,
+    "title": "Awesome object-detection with stars"
+  }
+}
