@@ -14,7 +14,7 @@
             "last_commit": "2024-07-31T23:10:28Z",
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34574
+            "stars": 34576
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2021-09-27T01:43:43Z",
             "owner": "msracver",
             "repo": "Deformable-ConvNets",
-            "stars": 4119
+            "stars": 4120
           }
         },
         {
@@ -324,7 +324,7 @@
             "last_commit": "2023-11-20T09:13:34Z",
             "owner": "facebookresearch",
             "repo": "Detectron",
-            "stars": 26366
+            "stars": 26365
           }
         },
         {
@@ -434,7 +434,7 @@
             "last_commit": "2024-05-03T13:53:58Z",
             "owner": "pjreddie",
             "repo": "darknet",
-            "stars": 26488
+            "stars": 26490
           }
         },
         {
@@ -566,7 +566,7 @@
             "last_commit": "2025-12-15T16:10:05Z",
             "owner": "AlexeyAB",
             "repo": "darknet",
-            "stars": 22154
+            "stars": 22156
           }
         },
         {
@@ -726,7 +726,7 @@
             "last_commit": "2024-05-03T13:53:58Z",
             "owner": "pjreddie",
             "repo": "darknet",
-            "stars": 26488
+            "stars": 26490
           }
         },
         {
@@ -737,7 +737,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-02T18:57:39Z",
+            "last_commit": "2026-08-15T17:32:13Z",
             "owner": "ultralytics",
             "repo": "yolov3",
             "stars": 10590
@@ -1035,7 +1035,7 @@
             "last_commit": "2021-09-27T01:43:43Z",
             "owner": "msracver",
             "repo": "Deformable-ConvNets",
-            "stars": 4119
+            "stars": 4120
           }
         },
         {
@@ -1215,7 +1215,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T02:03:23.993Z",
+    "last_updated": "2026-08-16T02:10:48.001Z",
     "original_repository": "amusi/awesome-object-detection",
     "original_repository_sha": "6d39aede560dbd4220fe52f5241ea332c8de5e01",
     "enhanced_repository": "enhansome/enhansome-object-detection",
