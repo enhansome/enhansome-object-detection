@@ -17,7 +17,7 @@
                 "last_commit": "2024-07-31T23:10:28Z",
                 "owner": "BVLC",
                 "repo": "caffe",
-                "stars": 34561
+                "stars": 34559
               }
             },
             {
@@ -146,6 +146,21 @@
                 "repo": "chainer-simple-fast-rnn",
                 "stars": 43
               }
+            },
+            {
+              "node_type": "item",
+              "title": "github(Caffe): https://github.com/xiaolonw/adversarial-frcnn",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 87662162,
+                "language": "Python",
+                "last_commit": "2018-01-29T11:39:37Z",
+                "owner": "xiaolonw",
+                "repo": "adversarial-frcnn",
+                "stars": 479
+              }
             }
           ],
           "description": "Fast R-CNN\nA-Fast-RCNN: Hard Positive Generation via Adversary for Object Detection",
@@ -196,7 +211,7 @@
                 "last_commit": "2021-09-27T01:43:43Z",
                 "owner": "msracver",
                 "repo": "Deformable-ConvNets",
-                "stars": 4120
+                "stars": 4121
               }
             },
             {
@@ -321,6 +336,21 @@
             },
             {
               "node_type": "item",
+              "title": "github: https://github.com/dmlc/mxnet/tree/master/example/rcnn",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 34864402,
+                "language": "C++",
+                "last_commit": "2023-10-25T21:28:33Z",
+                "owner": "apache",
+                "repo": "mxnet",
+                "stars": 20810
+              }
+            },
+            {
+              "node_type": "item",
               "title": "github: https://github.com/endernewton/tf-faster-rcnn",
               "description": null,
               "children": [],
@@ -368,7 +398,7 @@
                 "last_commit": "2023-11-20T09:13:34Z",
                 "owner": "facebookresearch",
                 "repo": "Detectron",
-                "stars": 26360
+                "stars": 26359
               }
             },
             {
@@ -383,7 +413,7 @@
                 "last_commit": "2024-06-07T02:36:21Z",
                 "owner": "matterport",
                 "repo": "Mask_RCNN",
-                "stars": 25566
+                "stars": 25565
               }
             },
             {
@@ -472,6 +502,95 @@
           "description": "Light-Head R-CNN: In Defense of Two-Stage Object Detector",
           "node_type": "group",
           "title": "Light-Head R-CNN"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "github: https://github.com/zhaoweicai/cascade-rcnn",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 112993117,
+                "language": "C++",
+                "last_commit": "2019-09-10T01:56:40Z",
+                "owner": "zhaoweicai",
+                "repo": "cascade-rcnn",
+                "stars": 1061
+              }
+            }
+          ],
+          "description": "Cascade R-CNN: Delving into High Quality Object Detection",
+          "node_type": "group",
+          "title": "Cascade R-CNN"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "github: https://github.com/ShaoqingRen/SPP_net",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24419330,
+                "language": "Matlab",
+                "last_commit": "2016-07-11T08:56:26Z",
+                "owner": "ShaoqingRen",
+                "repo": "SPP_net",
+                "stars": 366
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "github: https://github.com/YknZhu/segDeepM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 34492395,
+                "language": "Matlab",
+                "last_commit": "2015-06-12T10:09:51Z",
+                "owner": "YknZhu",
+                "repo": "segDeepM",
+                "stars": 27
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "github: https://github.com/YutingZhang/fgs-obj",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 36891312,
+                "language": "C++",
+                "last_commit": "2016-10-17T14:37:53Z",
+                "owner": "YutingZhang",
+                "repo": "fgs-obj",
+                "stars": 51
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "github: https://github.com/weichengkuo/DeepBox",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 43603907,
+                "language": "C++",
+                "last_commit": "2016-09-30T16:07:22Z",
+                "owner": "weichengkuo",
+                "repo": "DeepBox",
+                "stars": 125
+              }
+            }
+          ],
+          "description": "Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition\nDeepID-Net: Deformable Deep Convolutional Neural Networks for Object Detection\nObject Detectors Emerge in Deep Scene CNNs\nsegDeepM: Exploiting Segmentation and Context in Deep Neural Networks for Object Detection\nObject Detection Networks on Convolutional Feature Maps\nImproving Object Detection with Deep Convolutional Networks via Bayesian Optimization and Structured Prediction\nDeepBox: Learning Objectness with Convolutional Networks",
+          "node_type": "group",
+          "title": "SPP-Net"
         },
         {
           "children": [
@@ -608,6 +727,81 @@
                 "owner": "tommy-qichang",
                 "repo": "yolo.torch",
                 "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "github: https://github.com/thtrieu/darkflow",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 65791375,
+                "language": "Python",
+                "last_commit": "2023-10-23T23:26:26Z",
+                "owner": "thtrieu",
+                "repo": "darkflow",
+                "stars": 6141
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "github: https://github.com/Guanghan/darknet",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 48401488,
+                "language": "C",
+                "last_commit": "2018-07-12T18:00:15Z",
+                "owner": "Guanghan",
+                "repo": "darknet",
+                "stars": 247
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "github: https://github.com/hollance/YOLO-CoreML-MPSNNGraph",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 94986293,
+                "language": "Swift",
+                "last_commit": "2019-11-19T20:19:55Z",
+                "owner": "hollance",
+                "repo": "YOLO-CoreML-MPSNNGraph",
+                "stars": 943
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "github: https://github.com/natanielruiz/android-yolo",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 75443905,
+                "language": "C++",
+                "last_commit": "2022-10-15T11:34:11Z",
+                "owner": "natanielruiz",
+                "repo": "android-yolo",
+                "stars": 691
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "github:https://github.com/r4ghu/iOS-CoreML-Yolo",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 96832943,
+                "language": "Jupyter Notebook",
+                "last_commit": "2018-01-16T08:44:56Z",
+                "owner": "r4ghu",
+                "repo": "iOS-CoreML-Yolo",
+                "stars": 167
               }
             }
           ],
@@ -766,9 +960,69 @@
                 "repo": "YOLOv2-Tensorflow",
                 "stars": 97
               }
+            },
+            {
+              "node_type": "item",
+              "title": "github: https://github.com/Jumabek/darknet_scripts",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 88107367,
+                "language": "Python",
+                "last_commit": "2023-08-09T08:32:08Z",
+                "owner": "Jumabek",
+                "repo": "darknet_scripts",
+                "stars": 222
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "github: https://github.com/AlexeyAB/Yolo_mark",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 76747577,
+                "language": "C++",
+                "last_commit": "2020-12-11T00:29:20Z",
+                "owner": "AlexeyAB",
+                "repo": "Yolo_mark",
+                "stars": 1840
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com//explosion/lightnet",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 111338172,
+                "language": "C",
+                "last_commit": "2018-10-28T16:27:14Z",
+                "owner": "explosion",
+                "repo": "lightnet",
+                "stars": 320
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "github: https://github.com/Cartucho/yolo-boundingbox-labeler-GUI",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 118135147,
+                "language": "Python",
+                "last_commit": "2022-07-06T19:58:48Z",
+                "owner": "Cartucho",
+                "repo": "OpenLabeling",
+                "stars": 965
+              }
             }
           ],
-          "description": "YOLO9000: Better, Faster, Stronger\ndarknet_scripts\nYolo_mark: GUI for marking bounded boxes of objects in images for training Yolo v2\nLightNet: Bringing pjreddie's DarkNet out of the shadows\nhttps://github.com//explosion/lightnet\nYOLO v2 Bounding Box Tool\nLoss Rank Mining: A General Hard Example Mining Method for Real-time Detectors\nObject detection at 200 Frames Per Second\nEvent-based Convolutional Networks for Object Detection in Neuromorphic Cameras\nOmniDetector: With Neural Networks to Bounding Boxes",
+          "description": "YOLO9000: Better, Faster, Stronger\ndarknet_scripts\nYolo_mark: GUI for marking bounded boxes of objects in images for training Yolo v2\nLightNet: Bringing pjreddie's DarkNet out of the shadows\nYOLO v2 Bounding Box Tool\nLoss Rank Mining: A General Hard Example Mining Method for Real-time Detectors\nObject detection at 200 Frames Per Second\nEvent-based Convolutional Networks for Object Detection in Neuromorphic Cameras\nOmniDetector: With Neural Networks to Bounding Boxes",
           "node_type": "group",
           "title": "YOLOv2"
         },
@@ -948,6 +1202,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "github:https://github.com/avanetten/yolt",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 134618881,
+                "language": "C",
+                "last_commit": "2019-12-09T03:46:12Z",
+                "owner": "avanetten",
+                "repo": "yolt",
+                "stars": 279
+              }
+            }
+          ],
+          "description": "You Only Look Twice: Rapid Multi-Scale Object Detection In Satellite Imagery",
+          "node_type": "group",
+          "title": "YOLT"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "github: https://github.com/amdegroot/ssd.pytorch",
               "description": null,
               "children": [],
@@ -1050,9 +1326,24 @@
                 "repo": "mxnet-ssd.cpp",
                 "stars": 96
               }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/weiliu89/caffe/issues/327",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 33213787,
+                "language": "C++",
+                "last_commit": "2023-04-21T17:17:09Z",
+                "owner": "weiliu89",
+                "repo": "caffe",
+                "stars": 4808
+              }
             }
           ],
-          "description": "SSD: Single Shot MultiBox Detector\nWhat's the diffience in performance between this new code you pushed and the previous code? #327\nhttps://github.com/weiliu89/caffe/issues/327",
+          "description": "SSD: Single Shot MultiBox Detector\nWhat's the diffience in performance between this new code you pushed and the previous code? #327",
           "node_type": "group",
           "title": "SSD"
         },
@@ -1097,6 +1388,43 @@
           "children": [
             {
               "node_type": "item",
+              "title": "https://github.com/Robert-JunWang/Pelee",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 117862554,
+                "language": "Jupyter Notebook",
+                "last_commit": "2019-01-04T05:52:11Z",
+                "owner": "Robert-JunWang",
+                "repo": "Pelee",
+                "stars": 884
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "github: https://github.com/Robert-JunWang/Pelee",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 117862554,
+                "language": "Jupyter Notebook",
+                "last_commit": "2019-01-04T05:52:11Z",
+                "owner": "Robert-JunWang",
+                "repo": "Pelee",
+                "stars": 884
+              }
+            }
+          ],
+          "description": "Pelee: A Real-Time Object Detection System on Mobile Devices",
+          "node_type": "group",
+          "title": "Pelee"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "github(MXNet): https://github.com/msracver/Deformable-ConvNets/tree/master/rfcn",
               "description": null,
               "children": [],
@@ -1107,7 +1435,7 @@
                 "last_commit": "2021-09-27T01:43:43Z",
                 "owner": "msracver",
                 "repo": "Deformable-ConvNets",
-                "stars": 4120
+                "stars": 4121
               }
             },
             {
@@ -1194,6 +1522,58 @@
           "children": [
             {
               "node_type": "item",
+              "title": "github: https://github.com/xiaohaoChen/rrc_detection",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 87285336,
+                "language": "C++",
+                "last_commit": "2017-05-20T08:05:51Z",
+                "owner": "xiaohaoChen",
+                "repo": "rrc_detection",
+                "stars": 358
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "github: https://github.com/taokong/RON",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 96069916,
+                "language": "Python",
+                "last_commit": "2018-03-22T08:23:53Z",
+                "owner": "taokong",
+                "repo": "RON",
+                "stars": 353
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "github: https://github.com/sciencefans/RSA-for-object-detection",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 99429381,
+                "language": "Matlab",
+                "last_commit": "2017-11-23T08:51:43Z",
+                "owner": "liuyuisanai",
+                "repo": "RSA-for-object-detection",
+                "stars": 236
+              }
+            }
+          ],
+          "description": "Feature Pyramid Networks for Object Detection\nAction-Driven Object Detection with Top-Down Visual Attentions\nBeyond Skip Connections: Top-Down Modulation for Object Detection\nWide-Residual-Inception Networks for Real-time Object Detection\nAttentional Network for Visual Object Detection\nLearning Chained Deep Features and Classifiers for Cascade in Object Detection\nDeNet: Scalable Real-time Object Detection with Directed Sparse Sampling\nDiscriminative Bimodal Networks for Visual Localization and Detection with Natural Language Queries\nSpatial Memory for Context Reasoning in Object Detection\nAccurate Single Stage Detector Using Recurrent Rolling Convolution\nDeep Occlusion Reasoning for Multi-Camera Multi-Target Detection\nhttps://arxiv.org/abs/1704.05775\nLCDet: Low-Complexity Fully-Convolutional Neural Networks for Object Detection in Embedded Systems\nPoint Linking Network for Object Detection\nPerceptual Generative Adversarial Networks for Small Object Detection\nhttps://arxiv.org/abs/1706.05274\nFew-shot Object Detection\nhttps://arxiv.org/abs/1706.08249\nYes-Net: An effective Detector Based on Global Information\nhttps://arxiv.org/abs/1706.09180\nSMC Faster R-CNN: Toward a scene-specialized multi-object detector\nhttps://arxiv.org/abs/1706.10217\nTowards lightweight convolutional neural networks for object detection\nhttps://arxiv.org/abs/1707.01395\nRON: Reverse Connection with Objectness Prior Networks for Object Detection\nMimicking Very Efficient Network for Object Detection\nResidual Features and Unified Prediction Network for Single Stage Detection\nhttps://arxiv.org/abs/1707.05031\nDeformable Part-based Fully Convolutional Network for Object Detection\nAdaptive Feeding: Achieving Fast and Accurate Detections by Adaptively Combining Object Detectors\nRecurrent Scale Approximation for Object Detection in CNN",
+          "node_type": "group",
+          "title": "FPN"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "github: https://github.com/szq0214/DSOD",
               "description": null,
               "children": [],
@@ -1236,11 +1616,108 @@
                 "repo": "DSOD-Tensorflow",
                 "stars": 42
               }
+            },
+            {
+              "node_type": "item",
+              "title": "github:https://github.com/szq0214/GRP-DSOD",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 112972526,
+                "language": "Python",
+                "last_commit": "2020-05-09T04:26:17Z",
+                "owner": "SHI-Labs",
+                "repo": "GFR-DSOD",
+                "stars": 66
+              }
             }
           ],
           "description": "DSOD: Learning Deeply Supervised Object Detectors from Scratch\nLearning Object Detectors from Scratch with Gated Recurrent Feature Pyramids\nTiny-DSOD: Lightweight Object Detection for Resource-Restricted Usages\nObject Detection from Scratch with Deep Supervision",
           "node_type": "group",
           "title": "DSOD"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "github: https://github.com//ruinmessi/RFBNet",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 111989231,
+                "language": "Python",
+                "last_commit": "2021-11-02T18:19:57Z",
+                "owner": "GOATmessi8",
+                "repo": "RFBNet",
+                "stars": 1419
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "github: https://github.com/bharatsingh430/snip",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 111315563,
+                "language": null,
+                "last_commit": "2018-06-19T01:44:59Z",
+                "owner": "bharatsingh430",
+                "repo": "snip",
+                "stars": 171
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "github: https://github.com/liulei01/DRBox",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 112066738,
+                "language": "C++",
+                "last_commit": "2017-12-09T13:15:02Z",
+                "owner": "liulei01",
+                "repo": "DRBox",
+                "stars": 426
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "github: https://github.com/szq0214/GRP-DSOD",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 112972526,
+                "language": "Python",
+                "last_commit": "2020-05-09T04:26:17Z",
+                "owner": "SHI-Labs",
+                "repo": "GFR-DSOD",
+                "stars": 66
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "github: https://github.com/Hwang64/MLKP",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 125634953,
+                "language": "Python",
+                "last_commit": "2021-06-16T01:49:13Z",
+                "owner": "Hwang64",
+                "repo": "MLKP",
+                "stars": 107
+              }
+            }
+          ],
+          "description": "MegDet: A Large Mini-Batch Object Detector\nReceptive Field Block Net for Accurate and Fast Object Detection\nAn Analysis of Scale Invariance in Object Detection - SNIP\nFeature Selective Networks for Object Detection\nhttps://arxiv.org/abs/1711.08879\nLearning a Rotation Invariant Detector with Rotatable Bounding Box\nScalable Object Detection for Stylized Objects\nLearning Object Detectors from Scratch with Gated Recurrent Feature Pyramids\nDeep Regionlets for Object Detection\nTraining and Testing Object Detectors with Virtual Images\nLarge-Scale Object Discovery and Detector Adaptation from Unlabeled Video\nSpot the Difference by Object Detection\nLocalization-Aware Active Learning for Object Detection\nObject Detection with Mask-based Feature Encoding\nLSTD: A Low-Shot Transfer Detector for Object Detection\nPseudo Mask Augmented Object Detection\nhttps://arxiv.org/abs/1803.05858\nRevisiting RCNN: On Awakening the Classification Power of Faster RCNN\nhttps://arxiv.org/abs/1803.06799\nLearning Region Features for Object Detection\nSingle-Shot Bidirectional Pyramid Networks for High-Quality Object Detection\nObject Detection for Comics using Manga109 Annotations\nTask-Driven Super Resolution: Object Detection in Low-resolution Images\nTransferring Common-Sense Knowledge for Object Detection\nMulti-scale Location-aware Kernel Representation for Object Detection\nLoss Rank Mining: A General Hard Example Mining Method for Real-time Detectors\nRobust Physical Adversarial Attack on Faster R-CNN Object Detector",
+          "node_type": "group",
+          "title": "MegDet"
         },
         {
           "children": [
@@ -1293,6 +1770,265 @@
           "description": "Single-Shot Refinement Neural Network for Object Detection",
           "node_type": "group",
           "title": "RefineNet"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "github: https://github.com/umich-vl/CornerNet",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 143365050,
+                "language": "Python",
+                "last_commit": "2020-09-18T18:59:28Z",
+                "owner": "princeton-vl",
+                "repo": "CornerNet",
+                "stars": 2369
+              }
+            }
+          ],
+          "description": "CornerNet: Detecting Objects as Paired Keypoints",
+          "node_type": "group",
+          "title": "CornerNet"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "github: https://github.com/qijiezhao/M2Det",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 148000383,
+                "language": "Python",
+                "last_commit": "2019-11-14T10:21:38Z",
+                "owner": "VDIGPKU",
+                "repo": "M2Det",
+                "stars": 1438
+              }
+            }
+          ],
+          "description": "M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network",
+          "node_type": "group",
+          "title": "M2Det"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "github: https://github.com/CPFL/Autoware/tree/feature/cnn_lidar_detection",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41331761,
+                "language": "Dockerfile",
+                "last_commit": "2026-08-24T08:19:48Z",
+                "owner": "autowarefoundation",
+                "repo": "autoware",
+                "stars": 12007
+              }
+            }
+          ],
+          "description": "3D Backbone Network for 3D Object Detection\nLMNet: Real-time Multiclass Object Detection on CPU using 3D LiDARs",
+          "node_type": "group",
+          "title": "3D Object Detection"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "github: https://github.com/naoto0804/cross-domain-detection",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 124737291,
+                "language": "Python",
+                "last_commit": "2024-03-16T05:41:18Z",
+                "owner": "naoto0804",
+                "repo": "cross-domain-detection",
+                "stars": 437
+              }
+            }
+          ],
+          "description": "Weakly Supervised Object Detection in Artworks\nCross-Domain Weakly-Supervised Object Detection through Progressive Domain Adaptation",
+          "node_type": "group",
+          "title": "Weakly Supervised Object Detection"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "github: https://github.com/yihui-he/softer-NMS",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 149854106,
+                "language": "Python",
+                "last_commit": "2024-05-02T06:40:17Z",
+                "owner": "ethanhe42",
+                "repo": "softer-NMS",
+                "stars": 366
+              }
+            }
+          ],
+          "description": "《Softer-NMS: Rethinking Bounding Box Regression for Accurate Object Detection》",
+          "node_type": "group",
+          "title": "Softer-NMS"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "github: https://github.com/xingyizhou/ExtremeNet",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 164359756,
+                "language": "Python",
+                "last_commit": "2019-04-19T02:32:30Z",
+                "owner": "xingyizhou",
+                "repo": "ExtremeNet",
+                "stars": 1031
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "github: https://github.com/chengyangfu/retinamask",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 154896295,
+                "language": "Python",
+                "last_commit": "2019-03-15T16:07:28Z",
+                "owner": "chengyangfu",
+                "repo": "retinamask",
+                "stars": 340
+              }
+            }
+          ],
+          "description": "Feature Selective Anchor-Free Module for Single-Shot Object Detection\nObject Detection based on Region Decomposition and Assembly\nBottom-up Object Detection by Grouping Extreme and Center Points\nORSIm Detector: A Novel Object Detection Framework in Optical Remote Sensing Imagery Using Spatial-Frequency Channel Features\nConsistent Optimization for Single-Shot Object Detection\nLearning Pairwise Relationship for Multi-object Detection in Crowded Scenes\nRetinaMask: Learning to predict masks improves state-of-the-art single-shot detection for free\nRegion Proposal by Guided Anchoring\nScale-Aware Trident Networks for Object Detection",
+          "node_type": "group",
+          "title": "2019"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "github: https://github.com/qijiezhao/CFENet",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 149215657,
+                "language": null,
+                "last_commit": "2018-12-19T02:28:07Z",
+                "owner": "VDIGPKU",
+                "repo": "CFENet",
+                "stars": 197
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "github: https://github.com/HCIILAB/DeRPN",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 156976657,
+                "language": "Python",
+                "last_commit": "2019-03-13T05:24:53Z",
+                "owner": "HCIILAB",
+                "repo": "DeRPN",
+                "stars": 155
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "github: https://github.com/chanyn/HKRM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 153102940,
+                "language": "Python",
+                "last_commit": "2021-03-19T14:26:52Z",
+                "owner": "chanyn",
+                "repo": "HKRM",
+                "stars": 104
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "github: https://github.com/ruinmessi/RFBNet",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 111989231,
+                "language": "Python",
+                "last_commit": "2021-11-02T18:19:57Z",
+                "owner": "GOATmessi8",
+                "repo": "RFBNet",
+                "stars": 1419
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "github: https://github.com/vacancy/PreciseRoIPooling",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 140886938,
+                "language": "C++",
+                "last_commit": "2022-12-12T17:54:53Z",
+                "owner": "vacancy",
+                "repo": "PreciseRoIPooling",
+                "stars": 781
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "github:https://github.com/msracver/Relation-Networks-for-Object-Detection",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 137312864,
+                "language": "Python",
+                "last_commit": "2021-09-27T04:22:40Z",
+                "owner": "msracver",
+                "repo": "Relation-Networks-for-Object-Detection",
+                "stars": 1104
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "github:https://github.com/mahyarnajibi/SNIPER",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 117351329,
+                "language": "Python",
+                "last_commit": "2021-08-22T01:17:53Z",
+                "owner": "mahyarnajibi",
+                "repo": "SNIPER",
+                "stars": 2690
+              }
+            }
+          ],
+          "description": "Large-Scale Object Detection of Images from Network Cameras in Variable Ambient Lighting Conditions\nStrong-Weak Distribution Alignment for Adaptive Object Detection\nAutoFocus: Efficient Multi-Scale Inference\nNOTE-RCNN: NOise Tolerant Ensemble RCNN for Semi-Supervised Object Detection\nSPLAT: Semantic Pixel-Level Adaptation Transforms for Detection\nGrid R-CNN\nDeformable ConvNets v2: More Deformable, Better Results\nAnchor Box Optimization for Object Detection\nEfficient Coarse-to-Fine Non-Local Module for the Detection of Small Objects\nNOTE-RCNN: NOise Tolerant Ensemble RCNN for Semi-Supervised Object Detection\nLearning RoI Transformer for Detecting Oriented Objects in Aerial Images\nIntegrated Object Detection and Tracking with Tracklet-Conditioned Detection\nDeep Regionlets: Blended Representation and Deep Learning for Generic Object Detection\nGradient Harmonized Single-stage Detector\nCFENet: Object Detection with Comprehensive Feature Enhancement Module\nDeRPN: Taking a further step toward more general object detection\nHybrid Knowledge Routed Modules for Large-scale Object Detection\n《Receptive Field Block Net for Accurate and Fast Object Detection》\nDeep Feature Pyramid Reconfiguration for Object Detection\nUnsupervised Hard Example Mining from Videos for Improved Object Detection\nAcquisition of Localization Confidence for Accurate Object Detection\nToward Scale-Invariance and Position-Sensitive Region Proposal Networks\nMetaAnchor: Learning to Detect Objects with Customized Anchors\nRelation Network for Object Detection\nQuantization Mimic: Towards Very Tiny CNN for Object Detection\nLearning Rich Features for Image Manipulation Detection\nSNIPER: Efficient Multi-Scale Training\nSoft Sampling for Robust Object Detection\nCost-effective Object Detection: Active Sample Mining with Switchable Selection Criteria",
+          "node_type": "group",
+          "title": "2018"
         }
       ],
       "title": "Papers&Codes"
@@ -1312,7 +2048,7 @@
             "last_commit": "2026-08-19T05:38:53Z",
             "owner": "facebookresearch",
             "repo": "detectron2",
-            "stars": 34684
+            "stars": 34685
           }
         },
         {
@@ -1342,7 +2078,7 @@
             "last_commit": "2023-11-20T09:13:34Z",
             "owner": "facebookresearch",
             "repo": "Detectron",
-            "stars": 26360
+            "stars": 26359
           }
         },
         {
@@ -1365,7 +2101,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T02:11:08.843Z",
+    "last_updated": "2026-08-24T13:53:42.824Z",
     "original_repository": "amusi/awesome-object-detection",
     "original_repository_id": 128416044,
     "original_repository_sha": "6d39aede560dbd4220fe52f5241ea332c8de5e01",

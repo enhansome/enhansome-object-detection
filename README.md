@@ -83,7 +83,7 @@ Based on handong1587's github: <https://handong1587.github.io/deep_learning/2015
 
 **Rich feature hierarchies for accurate object detection and semantic segmentation**
 
-* caffe-pr("Make R-CNN the Caffe detection example"): <https://github.com/BVLC/caffe/pull/482> ⭐ 34,561 | 🐛 1,542 | 🌐 C++ | 📅 2024-07-31
+* caffe-pr("Make R-CNN the Caffe detection example"): <https://github.com/BVLC/caffe/pull/482> ⭐ 34,559 | 🐛 1,543 | 🌐 C++ | 📅 2024-07-31
 * github: <https://github.com/rbgirshick/rcnn> ⭐ 2,417 | 🐛 54 | 🌐 Matlab | 📅 2017-04-03
 * intro: R-CNN
 * arxiv: <http://arxiv.org/abs/1311.2524>
@@ -110,10 +110,10 @@ Based on handong1587's github: <https://handong1587.github.io/deep_learning/2015
 
 **A-Fast-RCNN: Hard Positive Generation via Adversary for Object Detection**
 
+* github(Caffe): <https://github.com/xiaolonw/adversarial-frcnn> ⭐ 479 | 🐛 18 | 🌐 Python | 📅 2018-01-29
 * intro: CVPR 2017
 * arxiv: <https://arxiv.org/abs/1704.03414>
 * paper: <http://abhinavsh.info/papers/pdfs/adversarial_object_detection.pdf>
-* github(Caffe): <https://github.com/xiaolonw/adversarial-frcnn> ⭐ 479 | 🐛 18 | 🌐 Python | 📅 2018-01-29
 
 ## Faster R-CNN
 
@@ -121,7 +121,7 @@ Based on handong1587's github: <https://handong1587.github.io/deep_learning/2015
 
 * github(Caffe): <https://github.com/rbgirshick/py-faster-rcnn> ⭐ 8,289 | 🐛 667 | 🌐 Python | 📅 2019-11-07
 * github(PyTorch--recommend): <https://github.com//jwyang/faster-rcnn.pytorch> ⭐ 7,856 | 🐛 422 | 🌐 Python | 📅 2022-05-20
-* github(MXNet): <https://github.com/msracver/Deformable-ConvNets/tree/master/faster_rcnn> ⭐ 4,120 | 🐛 159 | 🌐 Python | 📅 2021-09-27
+* github(MXNet): <https://github.com/msracver/Deformable-ConvNets/tree/master/faster_rcnn> ⭐ 4,121 | 🐛 159 | 🌐 Python | 📅 2021-09-27
 * github(official, Matlab): <https://github.com/ShaoqingRen/faster_rcnn> ⭐ 2,835 | 🐛 141 | 🌐 Matlab | 📅 2018-07-26
 * github(TensorFlow): <https://github.com/smallcorgi/Faster-RCNN_TF> ⭐ 2,342 | 🐛 271 | 🌐 Python | 📅 2021-10-28
 * github(TensorFlow): <https://github.com/CharlesShang/TFFRCNN> ⭐ 871 | 🐛 102 | 🌐 Python | 📅 2018-06-07
@@ -173,7 +173,7 @@ Based on handong1587's github: <https://handong1587.github.io/deep_learning/2015
 ## Mask R-CNN
 
 * github(Caffe2): <https://github.com/facebookresearch/Detectron> ⚠️ Archived
-* github(Keras): <https://github.com/matterport/Mask_RCNN> ⭐ 25,566 | 🐛 2,022 | 🌐 Python | 📅 2024-06-07
+* github(Keras): <https://github.com/matterport/Mask_RCNN> ⭐ 25,565 | 🐛 2,022 | 🌐 Python | 📅 2024-06-07
 * github(MXNet): <https://github.com/TuSimple/mx-maskrcnn> ⭐ 1,753 | 🐛 54 | 🌐 Python | 📅 2018-02-28
 * github(Pytorch): <https://github.com/wannabeOG/Mask-RCNN> ⭐ 987 | 🐛 17 | 🌐 Python | 📅 2019-11-05
 * github(Chainer): <https://github.com/DeNA/Chainer_Mask_R-CNN> ⚠️ Archived
@@ -192,16 +192,16 @@ Based on handong1587's github: <https://handong1587.github.io/deep_learning/2015
 
 **Cascade R-CNN: Delving into High Quality Object Detection**
 
-* arxiv: <https://arxiv.org/abs/1712.00726>
 * github: <https://github.com/zhaoweicai/cascade-rcnn> ⭐ 1,061 | 🐛 50 | 🌐 C++ | 📅 2019-09-10
+* arxiv: <https://arxiv.org/abs/1712.00726>
 
 ## SPP-Net
 
 **Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition**
 
+* github: <https://github.com/ShaoqingRen/SPP_net> ⭐ 366 | 🐛 19 | 🌐 Matlab | 📅 2016-07-11
 * intro: ECCV 2014 / TPAMI 2015
 * arxiv: <http://arxiv.org/abs/1406.4729>
-* github: <https://github.com/ShaoqingRen/SPP_net> ⭐ 366 | 🐛 19 | 🌐 Matlab | 📅 2016-07-11
 * notes: <http://zhangliliang.com/2014/09/13/paper-note-sppnet/>
 
 **DeepID-Net: Deformable Deep Convolutional Neural Networks for Object Detection**
@@ -221,10 +221,10 @@ Based on handong1587's github: <https://handong1587.github.io/deep_learning/2015
 
 **segDeepM: Exploiting Segmentation and Context in Deep Neural Networks for Object Detection**
 
+* github: <https://github.com/YknZhu/segDeepM> ⭐ 27 | 🐛 0 | 🌐 Matlab | 📅 2015-06-12
 * intro: CVPR 2015
 * project(code+data): <https://www.cs.toronto.edu/~yukun/segdeepm.html>
 * arxiv: <https://arxiv.org/abs/1502.04275>
-* github: <https://github.com/YknZhu/segDeepM> ⭐ 27 | 🐛 0 | 🌐 Matlab | 📅 2015-06-12
 
 **Object Detection Networks on Convolutional Feature Maps**
 
@@ -234,15 +234,15 @@ Based on handong1587's github: <https://handong1587.github.io/deep_learning/2015
 
 **Improving Object Detection with Deep Convolutional Networks via Bayesian Optimization and Structured Prediction**
 
+* github: <https://github.com/YutingZhang/fgs-obj> ⭐ 51 | 🐛 5 | 🌐 C++ | 📅 2016-10-17
 * arxiv: <http://arxiv.org/abs/1504.03293>
 * slides: <http://www.ytzhang.net/files/publications/2015-cvpr-det-slides.pdf>
-* github: <https://github.com/YutingZhang/fgs-obj> ⭐ 51 | 🐛 5 | 🌐 C++ | 📅 2016-10-17
 
 **DeepBox: Learning Objectness with Convolutional Networks**
 
+* github: <https://github.com/weichengkuo/DeepBox> ⭐ 125 | 🐛 9 | 🌐 C++ | 📅 2016-09-30
 * keywords: DeepBox
 * arxiv: <http://arxiv.org/abs/1505.02146>
-* github: <https://github.com/weichengkuo/DeepBox> ⭐ 125 | 🐛 9 | 🌐 C++ | 📅 2016-09-30
 
 ## YOLO
 
@@ -267,32 +267,32 @@ Based on handong1587's github: <https://handong1587.github.io/deep_learning/2015
 
 **darkflow - translate darknet to tensorflow. Load trained weights, retrain/fine-tune them using tensorflow, export constant graph def to C++**
 
-* blog: <https://thtrieu.github.io/notes/yolo-tensorflow-graph-buffer-cpp>
 * github: <https://github.com/thtrieu/darkflow> ⭐ 6,141 | 🐛 642 | 🌐 Python | 📅 2023-10-23
+* blog: <https://thtrieu.github.io/notes/yolo-tensorflow-graph-buffer-cpp>
 
 **Start Training YOLO with Our Own Data**
 
 [![img](https://camo.githubusercontent.com/2f99b692dd7ce47d7832385f3e8a6654e680d92a/687474703a2f2f6775616e6768616e2e696e666f2f626c6f672f656e2f77702d636f6e74656e742f75706c6f6164732f323031352f31322f696d616765732d34302e6a7067)](https://camo.githubusercontent.com/2f99b692dd7ce47d7832385f3e8a6654e680d92a/687474703a2f2f6775616e6768616e2e696e666f2f626c6f672f656e2f77702d636f6e74656e742f75706c6f6164732f323031352f31322f696d616765732d34302e6a7067)
 
+* github: <https://github.com/Guanghan/darknet> ⭐ 247 | 🐛 5 | 🌐 C | 📅 2018-07-12
 * intro: train with customized data and class numbers/labels. Linux / Windows version for darknet.
 * blog: <http://guanghan.info/blog/en/my-works/train-yolo/>
-* github: <https://github.com/Guanghan/darknet> ⭐ 247 | 🐛 5 | 🌐 C | 📅 2018-07-12
 
 **YOLO: Core ML versus MPSNNGraph**
 
+* github: <https://github.com/hollance/YOLO-CoreML-MPSNNGraph> ⭐ 943 | 🐛 27 | 🌐 Swift | 📅 2019-11-19
 * intro: Tiny YOLO for iOS implemented using CoreML but also using the new MPS graph API.
 * blog: <http://machinethink.net/blog/yolo-coreml-versus-mps-graph/>
-* github: <https://github.com/hollance/YOLO-CoreML-MPSNNGraph> ⭐ 943 | 🐛 27 | 🌐 Swift | 📅 2019-11-19
 
 **TensorFlow YOLO object detection on Android**
 
-* intro: Real-time object detection on Android using the YOLO network with TensorFlow
 * github: <https://github.com/natanielruiz/android-yolo> ⭐ 691 | 🐛 13 | 🌐 C++ | 📅 2022-10-15
+* intro: Real-time object detection on Android using the YOLO network with TensorFlow
 
 **Computer Vision in iOS – Object Detection**
 
-* blog: <https://sriraghu.com/2017/07/12/computer-vision-in-ios-object-detection/>
 * github:<https://github.com/r4ghu/iOS-CoreML-Yolo> ⭐ 167 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2018-01-16
+* blog: <https://sriraghu.com/2017/07/12/computer-vision-in-ios-object-detection/>
 
 ## YOLOv2
 
@@ -314,8 +314,8 @@ Based on handong1587's github: <https://handong1587.github.io/deep_learning/2015
 
 **darknet\_scripts**
 
-* intro: Auxilary scripts to work with (YOLO) darknet deep learning famework. AKA -> How to generate YOLO anchors?
 * github: <https://github.com/Jumabek/darknet_scripts> ⭐ 222 | 🐛 19 | 🌐 Python | 📅 2023-08-09
+* intro: Auxilary scripts to work with (YOLO) darknet deep learning famework. AKA -> How to generate YOLO anchors?
 
 **Yolo\_mark: GUI for marking bounded boxes of objects in images for training Yolo v2**
 
@@ -327,8 +327,8 @@ Based on handong1587's github: <https://handong1587.github.io/deep_learning/2015
 
 **YOLO v2 Bounding Box Tool**
 
-* intro: Bounding box labeler tool to generate the training data in the format YOLO v2 requires.
 * github: <https://github.com/Cartucho/yolo-boundingbox-labeler-GUI> ⭐ 965 | 🐛 18 | 🌐 Python | 📅 2022-07-06
+* intro: Bounding box labeler tool to generate the training data in the format YOLO v2 requires.
 
 **Loss Rank Mining: A General Hard Example Mining Method for Real-time Detectors**
 
@@ -375,11 +375,11 @@ Based on handong1587's github: <https://handong1587.github.io/deep_learning/2015
 
 **You Only Look Twice: Rapid Multi-Scale Object Detection In Satellite Imagery**
 
+* github:<https://github.com/avanetten/yolt> ⭐ 279 | 🐛 15 | 🌐 C | 📅 2019-12-09
+
 * intro: Small Object Detection
 
 * arxiv:<https://arxiv.org/abs/1805.09512>
-
-* github:<https://github.com/avanetten/yolt> ⭐ 279 | 🐛 15 | 🌐 C | 📅 2019-12-09
 
 ## SSD
 
@@ -462,11 +462,11 @@ Based on handong1587's github: <https://handong1587.github.io/deep_learning/2015
 
 <https://github.com/Robert-JunWang/Pelee> ⭐ 884 | 🐛 54 | 🌐 Jupyter Notebook | 📅 2019-01-04
 
+* github: <https://github.com/Robert-JunWang/Pelee> ⭐ 884 | 🐛 54 | 🌐 Jupyter Notebook | 📅 2019-01-04
+
 * intro: (ICLR 2018 workshop track)
 
 * arxiv: <https://arxiv.org/abs/1804.06882>
-
-* github: <https://github.com/Robert-JunWang/Pelee> ⭐ 884 | 🐛 54 | 🌐 Jupyter Notebook | 📅 2019-01-04
 
 ## Fire SSD
 
@@ -480,7 +480,7 @@ Based on handong1587's github: <https://handong1587.github.io/deep_learning/2015
 
 **R-FCN: Object Detection via Region-based Fully Convolutional Networks**
 
-* github(MXNet): <https://github.com/msracver/Deformable-ConvNets/tree/master/rfcn> ⭐ 4,120 | 🐛 159 | 🌐 Python | 📅 2021-09-27
+* github(MXNet): <https://github.com/msracver/Deformable-ConvNets/tree/master/rfcn> ⭐ 4,121 | 🐛 159 | 🌐 Python | 📅 2021-09-27
 * github: <https://github.com/daijifeng001/R-FCN> ⭐ 1,248 | 🐛 30 | 🌐 Matlab | 📅 2017-05-05
 * github: <https://github.com/Orpine/py-R-FCN> ⭐ 1,043 | 🐛 73 | 🌐 Python | 📅 2020-12-31
 * github: <https://github.com/xdever/RFCN-tensorflow> ⭐ 290 | 🐛 30 | 🌐 Python | 📅 2017-12-26
@@ -544,10 +544,10 @@ Based on handong1587's github: <https://handong1587.github.io/deep_learning/2015
 
 **Accurate Single Stage Detector Using Recurrent Rolling Convolution**
 
+* github: <https://github.com/xiaohaoChen/rrc_detection> ⭐ 358 | 🐛 36 | 🌐 C++ | 📅 2017-05-20
 * intro: CVPR 2017. SenseTime
 * keywords: Recurrent Rolling Convolution (RRC)
 * arxiv: <https://arxiv.org/abs/1704.05776>
-* github: <https://github.com/xiaohaoChen/rrc_detection> ⭐ 358 | 🐛 36 | 🌐 C++ | 📅 2017-05-20
 
 **Deep Occlusion Reasoning for Multi-Camera Multi-Target Detection**
 
@@ -585,9 +585,9 @@ Based on handong1587's github: <https://handong1587.github.io/deep_learning/2015
 
 **RON: Reverse Connection with Objectness Prior Networks for Object Detection**
 
+* github: <https://github.com/taokong/RON> ⭐ 353 | 🐛 5 | 🌐 Python | 📅 2018-03-22
 * intro: CVPR 2017
 * arxiv: <https://arxiv.org/abs/1707.01691>
-* github: <https://github.com/taokong/RON> ⭐ 353 | 🐛 5 | 🌐 Python | 📅 2018-03-22
 
 **Mimicking Very Efficient Network for Object Detection**
 
@@ -610,10 +610,10 @@ Based on handong1587's github: <https://handong1587.github.io/deep_learning/2015
 
 **Recurrent Scale Approximation for Object Detection in CNN**
 
+* github: <https://github.com/sciencefans/RSA-for-object-detection> ⭐ 236 | 🐛 3 | 🌐 Matlab | 📅 2017-11-23
 * intro: ICCV 2017
 * keywords: Recurrent Scale Approximation (RSA)
 * arxiv: <https://arxiv.org/abs/1707.09531>
-* github: <https://github.com/sciencefans/RSA-for-object-detection> ⭐ 236 | 🐛 3 | 🌐 Matlab | 📅 2017-11-23
 
 ## DSOD
 
@@ -629,8 +629,8 @@ Based on handong1587's github: <https://handong1587.github.io/deep_learning/2015
 
 **Learning Object Detectors from Scratch with Gated Recurrent Feature Pyramids**
 
-* arxiv:<https://arxiv.org/abs/1712.00886>
 * github:<https://github.com/szq0214/GRP-DSOD> ⭐ 66 | 🐛 5 | 🌐 Python | 📅 2020-05-09
+* arxiv:<https://arxiv.org/abs/1712.00886>
 
 **Tiny-DSOD: Lightweight Object Detection for Resource-Restricted Usages**
 
@@ -687,14 +687,14 @@ Based on handong1587's github: <https://handong1587.github.io/deep_learning/2015
 
 **Receptive Field Block Net for Accurate and Fast Object Detection**
 
+* github: <https://github.com//ruinmessi/RFBNet> ⭐ 1,419 | 🐛 58 | 🌐 Python | 📅 2021-11-02
 * intro: RFBNet
 * arxiv: <https://arxiv.org/abs/1711.07767>
-* github: <https://github.com//ruinmessi/RFBNet> ⭐ 1,419 | 🐛 58 | 🌐 Python | 📅 2021-11-02
 
 **An Analysis of Scale Invariance in Object Detection - SNIP**
 
-* arxiv: <https://arxiv.org/abs/1711.08189>
 * github: <https://github.com/bharatsingh430/snip> ⭐ 171 | 🐛 1 | 📅 2018-06-19
+* arxiv: <https://arxiv.org/abs/1711.08189>
 
 **Feature Selective Networks for Object Detection**
 
@@ -702,8 +702,8 @@ Based on handong1587's github: <https://handong1587.github.io/deep_learning/2015
 
 **Learning a Rotation Invariant Detector with Rotatable Bounding Box**
 
-* arxiv: <https://arxiv.org/abs/1711.09405>
 * github: <https://github.com/liulei01/DRBox> ⭐ 426 | 🐛 41 | 🌐 C++ | 📅 2017-12-09
+* arxiv: <https://arxiv.org/abs/1711.09405>
 
 **Scalable Object Detection for Stylized Objects**
 
@@ -712,8 +712,8 @@ Based on handong1587's github: <https://handong1587.github.io/deep_learning/2015
 
 **Learning Object Detectors from Scratch with Gated Recurrent Feature Pyramids**
 
-* arxiv: <https://arxiv.org/abs/1712.00886>
 * github: <https://github.com/szq0214/GRP-DSOD> ⭐ 66 | 🐛 5 | 🌐 Python | 📅 2020-05-09
+* arxiv: <https://arxiv.org/abs/1712.00886>
 
 **Deep Regionlets for Object Detection**
 
@@ -781,9 +781,9 @@ Based on handong1587's github: <https://handong1587.github.io/deep_learning/2015
 
 **Multi-scale Location-aware Kernel Representation for Object Detection**
 
+* github: <https://github.com/Hwang64/MLKP> ⭐ 107 | 🐛 6 | 🌐 Python | 📅 2021-06-16
 * intro: CVPR 2018
 * arxiv: <https://arxiv.org/abs/1804.00428>
-* github: <https://github.com/Hwang64/MLKP> ⭐ 107 | 🐛 6 | 🌐 Python | 📅 2021-06-16
 
 **Loss Rank Mining: A General Hard Example Mining Method for Real-time Detectors**
 
@@ -828,17 +828,17 @@ Based on handong1587's github: <https://handong1587.github.io/deep_learning/2015
 
 **CornerNet: Detecting Objects as Paired Keypoints**
 
+* github: <https://github.com/umich-vl/CornerNet> ⭐ 2,369 | 🐛 134 | 🌐 Python | 📅 2020-09-18
 * intro: ECCV 2018
 * arXiv: <https://arxiv.org/abs/1808.01244>
-* github: <https://github.com/umich-vl/CornerNet> ⭐ 2,369 | 🐛 134 | 🌐 Python | 📅 2020-09-18
 
 ## M2Det
 
 **M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network**
 
+* github: <https://github.com/qijiezhao/M2Det> ⭐ 1,438 | 🐛 72 | 🌐 Python | 📅 2019-11-14
 * intro: AAAI 2019
 * arXiv: <https://arxiv.org/abs/1811.04533>
-* github: <https://github.com/qijiezhao/M2Det> ⭐ 1,438 | 🐛 72 | 🌐 Python | 📅 2019-11-14
 
 ## 3D Object Detection
 
@@ -848,8 +848,8 @@ Based on handong1587's github: <https://handong1587.github.io/deep_learning/2015
 
 **LMNet: Real-time Multiclass Object Detection on CPU using 3D LiDARs**
 
+* github: <https://github.com/CPFL/Autoware/tree/feature/cnn_lidar_detection> ⭐ 12,007 | 🐛 73 | 🌐 Dockerfile | 📅 2026-08-24
 * arxiv: <https://arxiv.org/abs/1805.04902>
-* github: <https://github.com/CPFL/Autoware/tree/feature/cnn_lidar_detection> ⭐ 12,007 | 🐛 74 | 🌐 Dockerfile | 📅 2026-08-21
 
 ## ZSD（Zero-Shot Object Detection）
 
@@ -895,19 +895,19 @@ RepMet: Representative-based metric learning for classification and one-shot obj
 
 **Cross-Domain Weakly-Supervised Object Detection through Progressive Domain Adaptation**
 
+* github: <https://github.com/naoto0804/cross-domain-detection> ⭐ 437 | 🐛 8 | 🌐 Python | 📅 2024-03-16
 * intro: CVPR 2018
 * arXiv: <https://arxiv.org/abs/1803.11365>
 * homepage: <https://naoto0804.github.io/cross_domain_detection/>
 * paper: <http://openaccess.thecvf.com/content_cvpr_2018/html/Inoue_Cross-Domain_Weakly-Supervised_Object_CVPR_2018_paper.html>
-* github: <https://github.com/naoto0804/cross-domain-detection> ⭐ 437 | 🐛 8 | 🌐 Python | 📅 2024-03-16
 
 ## Softer-NMS
 
 **《Softer-NMS: Rethinking Bounding Box Regression for Accurate Object Detection》**
 
+* github: <https://github.com/yihui-he/softer-NMS> ⭐ 366 | 🐛 1 | 🌐 Python | 📅 2024-05-02
 * intro: CMU & Face++
 * arXiv: <https://arxiv.org/abs/1809.08545>
-* github: <https://github.com/yihui-he/softer-NMS> ⭐ 366 | 🐛 1 | 🌐 Python | 📅 2024-05-02
 
 ## 2019
 
@@ -925,9 +925,9 @@ RepMet: Representative-based metric learning for classification and one-shot obj
 
 **Bottom-up Object Detection by Grouping Extreme and Center Points**
 
+* github: <https://github.com/xingyizhou/ExtremeNet> ⭐ 1,031 | 🐛 32 | 🌐 Python | 📅 2019-04-19
 * intro: one stage 43.2% on COCO test-dev
 * arXiv: <https://arxiv.org/abs/1901.08043>
-* github: <https://github.com/xingyizhou/ExtremeNet> ⭐ 1,031 | 🐛 32 | 🌐 Python | 📅 2019-04-19
 
 **ORSIm Detector: A Novel Object Detection Framework in Optical Remote Sensing Imagery Using Spatial-Frequency Channel Features**
 
@@ -947,8 +947,8 @@ RepMet: Representative-based metric learning for classification and one-shot obj
 
 **RetinaMask: Learning to predict masks improves state-of-the-art single-shot detection for free**
 
-* arXiv: <https://arxiv.org/abs/1901.03353>
 * github: <https://github.com/chengyangfu/retinamask> ⭐ 340 | 🐛 11 | 🌐 Python | 📅 2019-03-15
+* arXiv: <https://arxiv.org/abs/1901.03353>
 
 **Region Proposal by Guided Anchoring**
 
@@ -1029,26 +1029,26 @@ RepMet: Representative-based metric learning for classification and one-shot obj
 
 **CFENet: Object Detection with Comprehensive Feature Enhancement Module**
 
-* intro: ACCV 2018
 * github: <https://github.com/qijiezhao/CFENet> ⭐ 197 | 🐛 19 | 📅 2018-12-19
+* intro: ACCV 2018
 
 **DeRPN: Taking a further step toward more general object detection**
 
+* github: <https://github.com/HCIILAB/DeRPN> ⭐ 155 | 🐛 2 | 🌐 Python | 📅 2019-03-13
 * intro: AAAI 2019
 * arXiv: <https://arxiv.org/abs/1811.06700>
-* github: <https://github.com/HCIILAB/DeRPN> ⭐ 155 | 🐛 2 | 🌐 Python | 📅 2019-03-13
 
 **Hybrid Knowledge Routed Modules for Large-scale Object Detection**
 
+* github: <https://github.com/chanyn/HKRM> ⭐ 104 | 🐛 16 | 🌐 Python | 📅 2021-03-19
 * intro: Sun Yat-Sen University & Huawei Noah’s Ark Lab
 * arXiv: <https://arxiv.org/abs/1810.12681>
-* github: <https://github.com/chanyn/HKRM> ⭐ 104 | 🐛 16 | 🌐 Python | 📅 2021-03-19
 
 **《Receptive Field Block Net for Accurate and Fast Object Detection》**
 
+* github: <https://github.com/ruinmessi/RFBNet> ⭐ 1,419 | 🐛 58 | 🌐 Python | 📅 2021-11-02
 * intro: ECCV 2018
 * arXiv: <https://arxiv.org/abs/1711.07767>
-* github: <https://github.com/ruinmessi/RFBNet> ⭐ 1,419 | 🐛 58 | 🌐 Python | 📅 2021-11-02
 
 **Deep Feature Pyramid Reconfiguration for Object Detection**
 
@@ -1062,9 +1062,9 @@ RepMet: Representative-based metric learning for classification and one-shot obj
 
 **Acquisition of Localization Confidence for Accurate Object Detection**
 
+* github: <https://github.com/vacancy/PreciseRoIPooling> ⭐ 781 | 🐛 25 | 🌐 C++ | 📅 2022-12-12
 * intro: ECCV 2018
 * arXiv: <https://arxiv.org/abs/1807.11590>
-* github: <https://github.com/vacancy/PreciseRoIPooling> ⭐ 781 | 🐛 25 | 🌐 C++ | 📅 2022-12-12
 
 **Toward Scale-Invariance and Position-Sensitive Region Proposal Networks**
 
@@ -1077,9 +1077,9 @@ RepMet: Representative-based metric learning for classification and one-shot obj
 
 **Relation Network for Object Detection**
 
+* github:<https://github.com/msracver/Relation-Networks-for-Object-Detection> ⭐ 1,104 | 🐛 17 | 🌐 Python | 📅 2021-09-27
 * intro: CVPR 2018
 * arxiv: <https://arxiv.org/abs/1711.11575>
-* github:<https://github.com/msracver/Relation-Networks-for-Object-Detection> ⭐ 1,104 | 🐛 17 | 🌐 Python | 📅 2021-09-27
 
 **Quantization Mimic: Towards Very Tiny CNN for Object Detection**
 
@@ -1093,8 +1093,8 @@ RepMet: Representative-based metric learning for classification and one-shot obj
 
 **SNIPER: Efficient Multi-Scale Training**
 
-* arxiv:<https://arxiv.org/abs/1805.09300>
 * github:<https://github.com/mahyarnajibi/SNIPER> ⭐ 2,690 | 🐛 115 | 🌐 Python | 📅 2021-08-22
+* arxiv:<https://arxiv.org/abs/1805.09300>
 
 **Soft Sampling for Robust Object Detection**
 
@@ -1116,7 +1116,7 @@ RepMet: Representative-based metric learning for classification and one-shot obj
 
 # Detection Toolbox
 
-* [Detectron2](https://github.com/facebookresearch/detectron2) ⭐ 34,684 | 🐛 586 | 🌐 Python | 📅 2026-08-19: Detectron2 is FAIR's next-generation research platform for object detection and segmentation.
+* [Detectron2](https://github.com/facebookresearch/detectron2) ⭐ 34,685 | 🐛 586 | 🌐 Python | 📅 2026-08-19: Detectron2 is FAIR's next-generation research platform for object detection and segmentation.
 * [mmdetection(SenseTime\&CUHK)](https://github.com/open-mmlab/mmdetection) ⭐ 32,888 | 🐛 1,960 | 🌐 Python | 📅 2024-08-21: mmdetection is an open source object detection toolbox based on PyTorch. It is a part of the open-mmlab project developed by [Multimedia Laboratory, CUHK](http://mmlab.ie.cuhk.edu.hk/).
 * [Detectron(FAIR)](https://github.com/facebookresearch/Detectron) ⚠️ Archived: Detectron is Facebook AI Research's software system that implements state-of-the-art object detection algorithms, including [Mask R-CNN](https://arxiv.org/abs/1703.06870). It is written in Python and powered by the [Caffe2](https://github.com/caffe2/caffe2) ⚠️ Archived deep learning framework.
 * [maskrcnn-benchmark(FAIR)](https://github.com/facebookresearch/maskrcnn-benchmark) ⚠️ Archived: Fast, modular reference implementation of Instance Segmentation and Object Detection algorithms in PyTorch.
