@@ -993,7 +993,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com//explosion/lightnet",
+              "title": "explosion/lightnet",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1329,7 +1329,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/weiliu89/caffe/issues/327",
+              "title": "weiliu89/caffe",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1388,7 +1388,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/Robert-JunWang/Pelee",
+              "title": "Robert-JunWang/Pelee",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1829,7 +1829,7 @@
                 "last_commit": "2026-08-24T08:19:48Z",
                 "owner": "autowarefoundation",
                 "repo": "autoware",
-                "stars": 12007
+                "stars": 12008
               }
             }
           ],
@@ -2101,7 +2101,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T02:07:19.029Z",
+    "last_updated": "2026-08-25T05:53:19.095Z",
     "original_repository": "amusi/awesome-object-detection",
     "original_repository_id": 128416044,
     "original_repository_sha": "6d39aede560dbd4220fe52f5241ea332c8de5e01",

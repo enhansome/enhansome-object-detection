@@ -83,7 +83,7 @@ Based on handong1587's github: <https://handong1587.github.io/deep_learning/2015
 
 **Rich feature hierarchies for accurate object detection and semantic segmentation**
 
-* caffe-pr("Make R-CNN the Caffe detection example"): <https://github.com/BVLC/caffe/pull/482> ⭐ 34,558 | 🐛 1,545 | 🌐 C++ | 📅 2024-07-31
+* caffe-pr("Make R-CNN the Caffe detection example"): <https://github.com/BVLC/caffe/pull/482> ⭐ 34,558 | 🐛 1,582 | 🌐 C++ | 📅 2024-07-31
 * github: <https://github.com/rbgirshick/rcnn> ⭐ 2,417 | 🐛 54 | 🌐 Matlab | 📅 2017-04-03
 * intro: R-CNN
 * arxiv: <http://arxiv.org/abs/1311.2524>
@@ -848,7 +848,7 @@ Based on handong1587's github: <https://handong1587.github.io/deep_learning/2015
 
 **LMNet: Real-time Multiclass Object Detection on CPU using 3D LiDARs**
 
-* github: <https://github.com/CPFL/Autoware/tree/feature/cnn_lidar_detection> ⭐ 12,007 | 🐛 73 | 🌐 Dockerfile | 📅 2026-08-24
+* github: <https://github.com/CPFL/Autoware/tree/feature/cnn_lidar_detection> ⭐ 12,008 | 🐛 73 | 🌐 Dockerfile | 📅 2026-08-24
 * arxiv: <https://arxiv.org/abs/1805.04902>
 
 ## ZSD（Zero-Shot Object Detection）
