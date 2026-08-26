@@ -17,7 +17,7 @@
                 "last_commit": "2024-07-31T23:10:28Z",
                 "owner": "BVLC",
                 "repo": "caffe",
-                "stars": 34558
+                "stars": 34556
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2017-04-03T16:16:14Z",
                 "owner": "rbgirshick",
                 "repo": "rcnn",
-                "stars": 2417
+                "stars": 2416
               }
             }
           ],
@@ -346,7 +346,7 @@
                 "last_commit": "2023-10-25T21:28:33Z",
                 "owner": "apache",
                 "repo": "mxnet",
-                "stars": 20810
+                "stars": 20811
               }
             },
             {
@@ -1055,7 +1055,7 @@
                 "last_commit": "2026-08-20T20:13:23Z",
                 "owner": "ultralytics",
                 "repo": "yolov3",
-                "stars": 10595
+                "stars": 10594
               }
             },
             {
@@ -1829,7 +1829,7 @@
                 "last_commit": "2026-08-24T08:19:48Z",
                 "owner": "autowarefoundation",
                 "repo": "autoware",
-                "stars": 12008
+                "stars": 12013
               }
             }
           ],
@@ -2048,7 +2048,7 @@
             "last_commit": "2026-08-19T05:38:53Z",
             "owner": "facebookresearch",
             "repo": "detectron2",
-            "stars": 34685
+            "stars": 34687
           }
         },
         {
@@ -2063,7 +2063,7 @@
             "last_commit": "2024-08-21T02:01:07Z",
             "owner": "open-mmlab",
             "repo": "mmdetection",
-            "stars": 32888
+            "stars": 32893
           }
         },
         {
@@ -2101,7 +2101,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:53:19.095Z",
+    "last_updated": "2026-08-26T02:12:53.287Z",
     "original_repository": "amusi/awesome-object-detection",
     "original_repository_id": 128416044,
     "original_repository_sha": "6d39aede560dbd4220fe52f5241ea332c8de5e01",
