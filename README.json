@@ -99,7 +99,7 @@
                 "last_commit": "2018-08-25T17:46:48Z",
                 "owner": "ijkguo",
                 "repo": "mx-rcnn",
-                "stars": 666
+                "stars": 667
               }
             },
             {
@@ -196,7 +196,7 @@
                 "last_commit": "2022-05-20T09:01:28Z",
                 "owner": "jwyang",
                 "repo": "faster-rcnn.pytorch",
-                "stars": 7856
+                "stars": 7858
               }
             },
             {
@@ -398,7 +398,7 @@
                 "last_commit": "2023-11-20T09:13:34Z",
                 "owner": "facebookresearch",
                 "repo": "Detectron",
-                "stars": 26359
+                "stars": 26358
               }
             },
             {
@@ -413,7 +413,7 @@
                 "last_commit": "2024-06-07T02:36:21Z",
                 "owner": "matterport",
                 "repo": "Mask_RCNN",
-                "stars": 25566
+                "stars": 25569
               }
             },
             {
@@ -741,7 +741,7 @@
                 "last_commit": "2023-10-23T23:26:26Z",
                 "owner": "thtrieu",
                 "repo": "darkflow",
-                "stars": 6141
+                "stars": 6139
               }
             },
             {
@@ -823,7 +823,7 @@
                 "last_commit": "2025-12-15T16:10:05Z",
                 "owner": "AlexeyAB",
                 "repo": "darknet",
-                "stars": 22153
+                "stars": 22152
               }
             },
             {
@@ -1055,7 +1055,7 @@
                 "last_commit": "2026-08-20T20:13:23Z",
                 "owner": "ultralytics",
                 "repo": "yolov3",
-                "stars": 10594
+                "stars": 10597
               }
             },
             {
@@ -1829,7 +1829,7 @@
                 "last_commit": "2026-08-24T08:19:48Z",
                 "owner": "autowarefoundation",
                 "repo": "autoware",
-                "stars": 12013
+                "stars": 12019
               }
             }
           ],
@@ -2048,7 +2048,7 @@
             "last_commit": "2026-08-19T05:38:53Z",
             "owner": "facebookresearch",
             "repo": "detectron2",
-            "stars": 34687
+            "stars": 34690
           }
         },
         {
@@ -2063,7 +2063,7 @@
             "last_commit": "2024-08-21T02:01:07Z",
             "owner": "open-mmlab",
             "repo": "mmdetection",
-            "stars": 32893
+            "stars": 32894
           }
         },
         {
@@ -2078,7 +2078,7 @@
             "last_commit": "2023-11-20T09:13:34Z",
             "owner": "facebookresearch",
             "repo": "Detectron",
-            "stars": 26359
+            "stars": 26358
           }
         },
         {
@@ -2093,7 +2093,7 @@
             "last_commit": "2023-02-16T04:01:32Z",
             "owner": "facebookresearch",
             "repo": "maskrcnn-benchmark",
-            "stars": 9360
+            "stars": 9361
           }
         }
       ],
@@ -2101,7 +2101,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T02:12:53.287Z",
+    "last_updated": "2026-08-27T10:29:42.577Z",
     "original_repository": "amusi/awesome-object-detection",
     "original_repository_id": 128416044,
     "original_repository_sha": "6d39aede560dbd4220fe52f5241ea332c8de5e01",
