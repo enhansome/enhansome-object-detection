@@ -1829,7 +1829,7 @@
                 "last_commit": "2026-08-24T08:19:48Z",
                 "owner": "autowarefoundation",
                 "repo": "autoware",
-                "stars": 12019
+                "stars": 12017
               }
             }
           ],
@@ -2101,9 +2101,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T10:29:42.577Z",
-    "original_repository": "amusi/awesome-object-detection",
-    "original_repository_id": 128416044,
+    "last_updated": "2026-08-27T11:53:01.902Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 128416044,
+      "language": null,
+      "last_commit": "2022-12-17T04:28:58Z",
+      "owner": "amusi",
+      "repo": "awesome-object-detection",
+      "stars": 7506
+    },
     "original_repository_sha": "6d39aede560dbd4220fe52f5241ea332c8de5e01",
     "enhanced_repository": "enhansome/enhansome-object-detection",
     "enhanced_repository_description": null,
