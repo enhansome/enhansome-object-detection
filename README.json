@@ -18,7 +18,8 @@
                 "owner": "BVLC",
                 "repo": "caffe",
                 "stars": 34556
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "rbgirshick",
                 "repo": "rcnn",
                 "stars": 2416
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             }
           ],
           "description": "Rich feature hierarchies for accurate object detection and semantic segmentation",
@@ -55,7 +57,8 @@
                 "owner": "rbgirshick",
                 "repo": "fast-rcnn",
                 "stars": 3460
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -70,7 +73,8 @@
                 "owner": "rbgirshick",
                 "repo": "fast-rcnn",
                 "stars": 3460
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -85,7 +89,8 @@
                 "owner": "rbgirshick",
                 "repo": "fast-rcnn",
                 "stars": 3460
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -100,7 +105,8 @@
                 "owner": "ijkguo",
                 "repo": "mx-rcnn",
                 "stars": 667
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -115,7 +121,8 @@
                 "owner": "zplizzi",
                 "repo": "tensorflow-fast-rcnn",
                 "stars": 172
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -130,7 +137,8 @@
                 "owner": "mahyarnajibi",
                 "repo": "fast-rcnn-torch",
                 "stars": 135
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -145,7 +153,8 @@
                 "owner": "apple2373",
                 "repo": "chainer-simple-fast-rnn",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -160,7 +169,8 @@
                 "owner": "xiaolonw",
                 "repo": "adversarial-frcnn",
                 "stars": 479
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             }
           ],
           "description": "Fast R-CNN\nA-Fast-RCNN: Hard Positive Generation via Adversary for Object Detection",
@@ -182,7 +192,8 @@
                 "owner": "rbgirshick",
                 "repo": "py-faster-rcnn",
                 "stars": 8289
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -197,7 +208,8 @@
                 "owner": "jwyang",
                 "repo": "faster-rcnn.pytorch",
                 "stars": 7858
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -212,7 +224,8 @@
                 "owner": "msracver",
                 "repo": "Deformable-ConvNets",
                 "stars": 4121
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -227,7 +240,8 @@
                 "owner": "ShaoqingRen",
                 "repo": "faster_rcnn",
                 "stars": 2835
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -242,7 +256,8 @@
                 "owner": "smallcorgi",
                 "repo": "Faster-RCNN_TF",
                 "stars": 2342
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -257,7 +272,8 @@
                 "owner": "CharlesShang",
                 "repo": "TFFRCNN",
                 "stars": 871
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -272,7 +288,8 @@
                 "owner": "mitmul",
                 "repo": "chainer-faster-rcnn",
                 "stars": 288
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -287,7 +304,8 @@
                 "owner": "Eniac-Xie",
                 "repo": "faster-rcnn-resnet",
                 "stars": 209
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -302,7 +320,8 @@
                 "owner": "YihangLou",
                 "repo": "FasterRCNN-Encapsulation-Cplusplus",
                 "stars": 187
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -317,7 +336,8 @@
                 "owner": "andreaskoepf",
                 "repo": "faster-rcnn.torch",
                 "stars": 122
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -332,7 +352,8 @@
                 "owner": "ruotianluo",
                 "repo": "Faster-RCNN-Densecap-torch",
                 "stars": 84
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -347,7 +368,8 @@
                 "owner": "apache",
                 "repo": "mxnet",
                 "stars": 20811
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -362,7 +384,8 @@
                 "owner": "endernewton",
                 "repo": "tf-faster-rcnn",
                 "stars": 3646
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -377,7 +400,8 @@
                 "owner": "ruotianluo",
                 "repo": "pytorch-faster-rcnn",
                 "stars": 1811
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             }
           ],
           "description": "Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks\nR-CNN minus R\nFaster R-CNN in MXNet with distributed implementation and data parallelization\nContextual Priming and Feedback for Faster R-CNN\nAn Implementation of Faster RCNN with Study for Region Sampling\nInterpretable R-CNN\nDomain Adaptive Faster R-CNN for Object Detection in the Wild",
@@ -398,8 +422,9 @@
                 "last_commit": "2023-11-20T09:13:34Z",
                 "owner": "facebookresearch",
                 "repo": "Detectron",
-                "stars": 26358
-              }
+                "stars": 26359
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -413,8 +438,9 @@
                 "last_commit": "2024-06-07T02:36:21Z",
                 "owner": "matterport",
                 "repo": "Mask_RCNN",
-                "stars": 25569
-              }
+                "stars": 25570
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -429,7 +455,8 @@
                 "owner": "TuSimple",
                 "repo": "mx-maskrcnn",
                 "stars": 1753
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -443,8 +470,9 @@
                 "last_commit": "2019-11-05T06:10:55Z",
                 "owner": "wannabeOG",
                 "repo": "Mask-RCNN",
-                "stars": 987
-              }
+                "stars": 988
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -459,7 +487,8 @@
                 "owner": "DeNA",
                 "repo": "Chainer_Mask_R-CNN",
                 "stars": 138
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             }
           ],
           "description": null,
@@ -481,7 +510,8 @@
                 "owner": "zengarden",
                 "repo": "light_head_rcnn",
                 "stars": 829
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -496,7 +526,8 @@
                 "owner": "terrychenism",
                 "repo": "Deformable-ConvNets",
                 "stars": 158
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             }
           ],
           "description": "Light-Head R-CNN: In Defense of Two-Stage Object Detector",
@@ -518,7 +549,8 @@
                 "owner": "zhaoweicai",
                 "repo": "cascade-rcnn",
                 "stars": 1061
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             }
           ],
           "description": "Cascade R-CNN: Delving into High Quality Object Detection",
@@ -540,7 +572,8 @@
                 "owner": "ShaoqingRen",
                 "repo": "SPP_net",
                 "stars": 366
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -555,7 +588,8 @@
                 "owner": "YknZhu",
                 "repo": "segDeepM",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -570,7 +604,8 @@
                 "owner": "YutingZhang",
                 "repo": "fgs-obj",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -585,7 +620,8 @@
                 "owner": "weichengkuo",
                 "repo": "DeepBox",
                 "stars": 125
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             }
           ],
           "description": "Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition\nDeepID-Net: Deformable Deep Convolutional Neural Networks for Object Detection\nObject Detectors Emerge in Deep Scene CNNs\nsegDeepM: Exploiting Segmentation and Context in Deep Neural Networks for Object Detection\nObject Detection Networks on Convolutional Feature Maps\nImproving Object Detection with Deep Convolutional Networks via Bayesian Optimization and Structured Prediction\nDeepBox: Learning Objectness with Convolutional Networks",
@@ -606,8 +642,9 @@
                 "last_commit": "2024-05-03T13:53:58Z",
                 "owner": "pjreddie",
                 "repo": "darknet",
-                "stars": 26493
-              }
+                "stars": 26494
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -622,7 +659,8 @@
                 "owner": "gliese581gg",
                 "repo": "YOLO_tensorflow",
                 "stars": 1708
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -637,7 +675,8 @@
                 "owner": "nilboy",
                 "repo": "tensorflow-yolo",
                 "stars": 768
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -652,7 +691,8 @@
                 "owner": "xingwangsfu",
                 "repo": "caffe-yolo",
                 "stars": 515
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -667,7 +707,8 @@
                 "owner": "AlexeyAB",
                 "repo": "yolo-windows",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -682,7 +723,8 @@
                 "owner": "frischzenger",
                 "repo": "yolo-windows",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -697,7 +739,8 @@
                 "owner": "frankzhangrui",
                 "repo": "Darknet-Yolo",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -712,7 +755,8 @@
                 "owner": "HeKun-NVIDIA",
                 "repo": "py-darknet-yolo",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -727,7 +771,8 @@
                 "owner": "tommy-qichang",
                 "repo": "yolo.torch",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -742,7 +787,8 @@
                 "owner": "thtrieu",
                 "repo": "darkflow",
                 "stars": 6139
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -757,7 +803,8 @@
                 "owner": "Guanghan",
                 "repo": "darknet",
                 "stars": 247
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -772,7 +819,8 @@
                 "owner": "hollance",
                 "repo": "YOLO-CoreML-MPSNNGraph",
                 "stars": 943
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -787,7 +835,8 @@
                 "owner": "natanielruiz",
                 "repo": "android-yolo",
                 "stars": 691
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -802,7 +851,8 @@
                 "owner": "r4ghu",
                 "repo": "iOS-CoreML-Yolo",
                 "stars": 167
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             }
           ],
           "description": "You Only Look Once: Unified, Real-Time Object Detection\ndarkflow - translate darknet to tensorflow. Load trained weights, retrain/fine-tune them using tensorflow, export constant graph def to C++\nStart Training YOLO with Our Own Data\nYOLO: Core ML versus MPSNNGraph\nTensorFlow YOLO object detection on Android\nComputer Vision in iOS – Object Detection",
@@ -823,8 +873,9 @@
                 "last_commit": "2025-12-15T16:10:05Z",
                 "owner": "AlexeyAB",
                 "repo": "darknet",
-                "stars": 22152
-              }
+                "stars": 22153
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -839,7 +890,8 @@
                 "owner": "allanzelener",
                 "repo": "YAD2K",
                 "stars": 2728
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -854,7 +906,8 @@
                 "owner": "experiencor",
                 "repo": "keras-yolo2",
                 "stars": 1733
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -869,7 +922,8 @@
                 "owner": "longcw",
                 "repo": "yolo2-pytorch",
                 "stars": 1560
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -884,7 +938,8 @@
                 "owner": "philipperemy",
                 "repo": "yolo-9000",
                 "stars": 1194
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -899,7 +954,8 @@
                 "owner": "hizhangp",
                 "repo": "yolo_tensorflow",
                 "stars": 805
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -914,7 +970,8 @@
                 "owner": "leetenki",
                 "repo": "YOLOv2",
                 "stars": 340
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -929,7 +986,8 @@
                 "owner": "choasup",
                 "repo": "caffe-yolo9000",
                 "stars": 166
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -944,7 +1002,8 @@
                 "owner": "yhcc",
                 "repo": "yolo2",
                 "stars": 159
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -959,7 +1018,8 @@
                 "owner": "KOD-Chen",
                 "repo": "YOLOv2-Tensorflow",
                 "stars": 97
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -974,7 +1034,8 @@
                 "owner": "Jumabek",
                 "repo": "darknet_scripts",
                 "stars": 222
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -989,7 +1050,8 @@
                 "owner": "AlexeyAB",
                 "repo": "Yolo_mark",
                 "stars": 1840
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -1004,7 +1066,8 @@
                 "owner": "explosion",
                 "repo": "lightnet",
                 "stars": 320
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -1019,7 +1082,8 @@
                 "owner": "Cartucho",
                 "repo": "OpenLabeling",
                 "stars": 965
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             }
           ],
           "description": "YOLO9000: Better, Faster, Stronger\ndarknet_scripts\nYolo_mark: GUI for marking bounded boxes of objects in images for training Yolo v2\nLightNet: Bringing pjreddie's DarkNet out of the shadows\nYOLO v2 Bounding Box Tool\nLoss Rank Mining: A General Hard Example Mining Method for Real-time Detectors\nObject detection at 200 Frames Per Second\nEvent-based Convolutional Networks for Object Detection in Neuromorphic Cameras\nOmniDetector: With Neural Networks to Bounding Boxes",
@@ -1040,8 +1104,9 @@
                 "last_commit": "2024-05-03T13:53:58Z",
                 "owner": "pjreddie",
                 "repo": "darknet",
-                "stars": 26493
-              }
+                "stars": 26494
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -1052,11 +1117,12 @@
                 "archived": false,
                 "id": 146165888,
                 "language": "Python",
-                "last_commit": "2026-08-20T20:13:23Z",
+                "last_commit": "2026-08-28T11:04:58Z",
                 "owner": "ultralytics",
                 "repo": "yolov3",
-                "stars": 10597
-              }
+                "stars": 10598
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -1071,7 +1137,8 @@
                 "owner": "eriklindernoren",
                 "repo": "PyTorch-YOLOv3",
                 "stars": 7440
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -1086,7 +1153,8 @@
                 "owner": "qqwweee",
                 "repo": "keras-yolo3",
                 "stars": 7114
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -1101,7 +1169,8 @@
                 "owner": "ayooshkathuria",
                 "repo": "pytorch-yolo-v3",
                 "stars": 3312
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -1116,7 +1185,8 @@
                 "owner": "ayooshkathuria",
                 "repo": "YOLO_v3_tutorial_from_scratch",
                 "stars": 2317
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -1131,7 +1201,8 @@
                 "owner": "experiencor",
                 "repo": "keras-yolo3",
                 "stars": 1608
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -1146,7 +1217,8 @@
                 "owner": "mystic123",
                 "repo": "tensorflow-yolo-v3",
                 "stars": 878
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -1161,7 +1233,8 @@
                 "owner": "BobLiu20",
                 "repo": "YOLOv3_PyTorch",
                 "stars": 641
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -1176,7 +1249,8 @@
                 "owner": "DeNA",
                 "repo": "PyTorch_YOLOv3",
                 "stars": 431
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -1191,7 +1265,8 @@
                 "owner": "andy-yun",
                 "repo": "pytorch-0.4-yolov3",
                 "stars": 276
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             }
           ],
           "description": "YOLOv3: An Incremental Improvement",
@@ -1213,7 +1288,8 @@
                 "owner": "avanetten",
                 "repo": "yolt",
                 "stars": 279
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             }
           ],
           "description": "You Only Look Twice: Rapid Multi-Scale Object Detection In Satellite Imagery",
@@ -1235,7 +1311,8 @@
                 "owner": "amdegroot",
                 "repo": "ssd.pytorch",
                 "stars": 5221
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -1250,7 +1327,8 @@
                 "owner": "weiliu89",
                 "repo": "caffe",
                 "stars": 4808
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -1265,7 +1343,8 @@
                 "owner": "balancap",
                 "repo": "SSD-Tensorflow",
                 "stars": 4101
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -1280,7 +1359,8 @@
                 "owner": "chuanqi305",
                 "repo": "MobileNet-SSD",
                 "stars": 2127
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -1295,7 +1375,8 @@
                 "owner": "rykov8",
                 "repo": "ssd_keras",
                 "stars": 1083
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -1310,7 +1391,8 @@
                 "owner": "zhreshold",
                 "repo": "mxnet-ssd",
                 "stars": 757
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -1325,7 +1407,8 @@
                 "owner": "zhreshold",
                 "repo": "mxnet-ssd.cpp",
                 "stars": 95
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -1340,7 +1423,8 @@
                 "owner": "weiliu89",
                 "repo": "caffe",
                 "stars": 4808
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             }
           ],
           "description": "SSD: Single Shot MultiBox Detector\nWhat's the diffience in performance between this new code you pushed and the previous code? #327",
@@ -1362,7 +1446,8 @@
                 "owner": "chengyangfu",
                 "repo": "caffe",
                 "stars": 169
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -1377,7 +1462,8 @@
                 "owner": "MTCloudVision",
                 "repo": "mxnet-dssd",
                 "stars": 113
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             }
           ],
           "description": "DSSD : Deconvolutional Single Shot Detector\nEnhancement of SSD by concatenating feature maps for object detection\nContext-aware Single-Shot Detector\nFeature-Fused SSD: Fast Detection for Small Objects\nhttps://arxiv.org/abs/1709.05054",
@@ -1399,7 +1485,8 @@
                 "owner": "Robert-JunWang",
                 "repo": "Pelee",
                 "stars": 884
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -1414,7 +1501,8 @@
                 "owner": "Robert-JunWang",
                 "repo": "Pelee",
                 "stars": 884
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             }
           ],
           "description": "Pelee: A Real-Time Object Detection System on Mobile Devices",
@@ -1436,7 +1524,8 @@
                 "owner": "msracver",
                 "repo": "Deformable-ConvNets",
                 "stars": 4121
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -1451,7 +1540,8 @@
                 "owner": "daijifeng001",
                 "repo": "R-FCN",
                 "stars": 1248
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -1466,7 +1556,8 @@
                 "owner": "YuwenXiong",
                 "repo": "py-R-FCN",
                 "stars": 1043
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -1481,7 +1572,8 @@
                 "owner": "RobertCsordas",
                 "repo": "RFCN-tensorflow",
                 "stars": 290
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -1496,7 +1588,8 @@
                 "owner": "xiong-zhitong",
                 "repo": "pytorch_RFCN",
                 "stars": 276
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -1511,7 +1604,8 @@
                 "owner": "bharatsingh430",
                 "repo": "py-R-FCN-multiGPU",
                 "stars": 191
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             }
           ],
           "description": "R-FCN: Object Detection via Region-based Fully Convolutional Networks\nR-FCN-3000 at 30fps: Decoupling Detection and Classification\nhttps://arxiv.org/abs/1712.01802\nRecycle deep features for better object detection",
@@ -1533,7 +1627,8 @@
                 "owner": "xiaohaoChen",
                 "repo": "rrc_detection",
                 "stars": 358
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -1548,7 +1643,8 @@
                 "owner": "taokong",
                 "repo": "RON",
                 "stars": 353
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -1563,7 +1659,8 @@
                 "owner": "liuyuisanai",
                 "repo": "RSA-for-object-detection",
                 "stars": 236
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             }
           ],
           "description": "Feature Pyramid Networks for Object Detection\nAction-Driven Object Detection with Top-Down Visual Attentions\nBeyond Skip Connections: Top-Down Modulation for Object Detection\nWide-Residual-Inception Networks for Real-time Object Detection\nAttentional Network for Visual Object Detection\nLearning Chained Deep Features and Classifiers for Cascade in Object Detection\nDeNet: Scalable Real-time Object Detection with Directed Sparse Sampling\nDiscriminative Bimodal Networks for Visual Localization and Detection with Natural Language Queries\nSpatial Memory for Context Reasoning in Object Detection\nAccurate Single Stage Detector Using Recurrent Rolling Convolution\nDeep Occlusion Reasoning for Multi-Camera Multi-Target Detection\nhttps://arxiv.org/abs/1704.05775\nLCDet: Low-Complexity Fully-Convolutional Neural Networks for Object Detection in Embedded Systems\nPoint Linking Network for Object Detection\nPerceptual Generative Adversarial Networks for Small Object Detection\nhttps://arxiv.org/abs/1706.05274\nFew-shot Object Detection\nhttps://arxiv.org/abs/1706.08249\nYes-Net: An effective Detector Based on Global Information\nhttps://arxiv.org/abs/1706.09180\nSMC Faster R-CNN: Toward a scene-specialized multi-object detector\nhttps://arxiv.org/abs/1706.10217\nTowards lightweight convolutional neural networks for object detection\nhttps://arxiv.org/abs/1707.01395\nRON: Reverse Connection with Objectness Prior Networks for Object Detection\nMimicking Very Efficient Network for Object Detection\nResidual Features and Unified Prediction Network for Single Stage Detection\nhttps://arxiv.org/abs/1707.05031\nDeformable Part-based Fully Convolutional Network for Object Detection\nAdaptive Feeding: Achieving Fast and Accurate Detections by Adaptively Combining Object Detectors\nRecurrent Scale Approximation for Object Detection in CNN",
@@ -1585,7 +1682,8 @@
                 "owner": "szq0214",
                 "repo": "DSOD",
                 "stars": 710
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -1600,7 +1698,8 @@
                 "owner": "chenyuntc",
                 "repo": "dsod.pytorch",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -1615,7 +1714,8 @@
                 "owner": "Windaway",
                 "repo": "DSOD-Tensorflow",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -1630,7 +1730,8 @@
                 "owner": "SHI-Labs",
                 "repo": "GFR-DSOD",
                 "stars": 66
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             }
           ],
           "description": "DSOD: Learning Deeply Supervised Object Detectors from Scratch\nLearning Object Detectors from Scratch with Gated Recurrent Feature Pyramids\nTiny-DSOD: Lightweight Object Detection for Resource-Restricted Usages\nObject Detection from Scratch with Deep Supervision",
@@ -1652,7 +1753,8 @@
                 "owner": "GOATmessi8",
                 "repo": "RFBNet",
                 "stars": 1419
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -1667,7 +1769,8 @@
                 "owner": "bharatsingh430",
                 "repo": "snip",
                 "stars": 171
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -1682,7 +1785,8 @@
                 "owner": "liulei01",
                 "repo": "DRBox",
                 "stars": 426
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -1697,7 +1801,8 @@
                 "owner": "SHI-Labs",
                 "repo": "GFR-DSOD",
                 "stars": 66
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -1712,7 +1817,8 @@
                 "owner": "Hwang64",
                 "repo": "MLKP",
                 "stars": 107
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             }
           ],
           "description": "MegDet: A Large Mini-Batch Object Detector\nReceptive Field Block Net for Accurate and Fast Object Detection\nAn Analysis of Scale Invariance in Object Detection - SNIP\nFeature Selective Networks for Object Detection\nhttps://arxiv.org/abs/1711.08879\nLearning a Rotation Invariant Detector with Rotatable Bounding Box\nScalable Object Detection for Stylized Objects\nLearning Object Detectors from Scratch with Gated Recurrent Feature Pyramids\nDeep Regionlets for Object Detection\nTraining and Testing Object Detectors with Virtual Images\nLarge-Scale Object Discovery and Detector Adaptation from Unlabeled Video\nSpot the Difference by Object Detection\nLocalization-Aware Active Learning for Object Detection\nObject Detection with Mask-based Feature Encoding\nLSTD: A Low-Shot Transfer Detector for Object Detection\nPseudo Mask Augmented Object Detection\nhttps://arxiv.org/abs/1803.05858\nRevisiting RCNN: On Awakening the Classification Power of Faster RCNN\nhttps://arxiv.org/abs/1803.06799\nLearning Region Features for Object Detection\nSingle-Shot Bidirectional Pyramid Networks for High-Quality Object Detection\nObject Detection for Comics using Manga109 Annotations\nTask-Driven Super Resolution: Object Detection in Low-resolution Images\nTransferring Common-Sense Knowledge for Object Detection\nMulti-scale Location-aware Kernel Representation for Object Detection\nLoss Rank Mining: A General Hard Example Mining Method for Real-time Detectors\nRobust Physical Adversarial Attack on Faster R-CNN Object Detector",
@@ -1734,7 +1840,8 @@
                 "owner": "sfzhang15",
                 "repo": "RefineDet",
                 "stars": 1424
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -1749,7 +1856,8 @@
                 "owner": "lzx1413",
                 "repo": "PytorchSSD",
                 "stars": 704
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -1764,7 +1872,8 @@
                 "owner": "MTCloudVision",
                 "repo": "RefineDet-Mxnet",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             }
           ],
           "description": "Single-Shot Refinement Neural Network for Object Detection",
@@ -1786,7 +1895,8 @@
                 "owner": "princeton-vl",
                 "repo": "CornerNet",
                 "stars": 2369
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             }
           ],
           "description": "CornerNet: Detecting Objects as Paired Keypoints",
@@ -1808,7 +1918,8 @@
                 "owner": "VDIGPKU",
                 "repo": "M2Det",
                 "stars": 1438
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             }
           ],
           "description": "M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network",
@@ -1829,8 +1940,9 @@
                 "last_commit": "2026-08-24T08:19:48Z",
                 "owner": "autowarefoundation",
                 "repo": "autoware",
-                "stars": 12017
-              }
+                "stars": 12028
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             }
           ],
           "description": "3D Backbone Network for 3D Object Detection\nLMNet: Real-time Multiclass Object Detection on CPU using 3D LiDARs",
@@ -1852,7 +1964,8 @@
                 "owner": "naoto0804",
                 "repo": "cross-domain-detection",
                 "stars": 437
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             }
           ],
           "description": "Weakly Supervised Object Detection in Artworks\nCross-Domain Weakly-Supervised Object Detection through Progressive Domain Adaptation",
@@ -1874,7 +1987,8 @@
                 "owner": "ethanhe42",
                 "repo": "softer-NMS",
                 "stars": 366
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             }
           ],
           "description": "《Softer-NMS: Rethinking Bounding Box Regression for Accurate Object Detection》",
@@ -1896,7 +2010,8 @@
                 "owner": "xingyizhou",
                 "repo": "ExtremeNet",
                 "stars": 1031
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -1911,7 +2026,8 @@
                 "owner": "chengyangfu",
                 "repo": "retinamask",
                 "stars": 340
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             }
           ],
           "description": "Feature Selective Anchor-Free Module for Single-Shot Object Detection\nObject Detection based on Region Decomposition and Assembly\nBottom-up Object Detection by Grouping Extreme and Center Points\nORSIm Detector: A Novel Object Detection Framework in Optical Remote Sensing Imagery Using Spatial-Frequency Channel Features\nConsistent Optimization for Single-Shot Object Detection\nLearning Pairwise Relationship for Multi-object Detection in Crowded Scenes\nRetinaMask: Learning to predict masks improves state-of-the-art single-shot detection for free\nRegion Proposal by Guided Anchoring\nScale-Aware Trident Networks for Object Detection",
@@ -1933,7 +2049,8 @@
                 "owner": "VDIGPKU",
                 "repo": "CFENet",
                 "stars": 197
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -1948,7 +2065,8 @@
                 "owner": "HCIILAB",
                 "repo": "DeRPN",
                 "stars": 155
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -1963,7 +2081,8 @@
                 "owner": "chanyn",
                 "repo": "HKRM",
                 "stars": 104
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -1978,7 +2097,8 @@
                 "owner": "GOATmessi8",
                 "repo": "RFBNet",
                 "stars": 1419
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -1993,7 +2113,8 @@
                 "owner": "vacancy",
                 "repo": "PreciseRoIPooling",
                 "stars": 781
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -2008,7 +2129,8 @@
                 "owner": "msracver",
                 "repo": "Relation-Networks-for-Object-Detection",
                 "stars": 1104
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             },
             {
               "node_type": "item",
@@ -2023,7 +2145,8 @@
                 "owner": "mahyarnajibi",
                 "repo": "SNIPER",
                 "stars": 2690
-              }
+              },
+              "first_seen": "2026-08-28T12:12:41.483Z"
             }
           ],
           "description": "Large-Scale Object Detection of Images from Network Cameras in Variable Ambient Lighting Conditions\nStrong-Weak Distribution Alignment for Adaptive Object Detection\nAutoFocus: Efficient Multi-Scale Inference\nNOTE-RCNN: NOise Tolerant Ensemble RCNN for Semi-Supervised Object Detection\nSPLAT: Semantic Pixel-Level Adaptation Transforms for Detection\nGrid R-CNN\nDeformable ConvNets v2: More Deformable, Better Results\nAnchor Box Optimization for Object Detection\nEfficient Coarse-to-Fine Non-Local Module for the Detection of Small Objects\nNOTE-RCNN: NOise Tolerant Ensemble RCNN for Semi-Supervised Object Detection\nLearning RoI Transformer for Detecting Oriented Objects in Aerial Images\nIntegrated Object Detection and Tracking with Tracklet-Conditioned Detection\nDeep Regionlets: Blended Representation and Deep Learning for Generic Object Detection\nGradient Harmonized Single-stage Detector\nCFENet: Object Detection with Comprehensive Feature Enhancement Module\nDeRPN: Taking a further step toward more general object detection\nHybrid Knowledge Routed Modules for Large-scale Object Detection\n《Receptive Field Block Net for Accurate and Fast Object Detection》\nDeep Feature Pyramid Reconfiguration for Object Detection\nUnsupervised Hard Example Mining from Videos for Improved Object Detection\nAcquisition of Localization Confidence for Accurate Object Detection\nToward Scale-Invariance and Position-Sensitive Region Proposal Networks\nMetaAnchor: Learning to Detect Objects with Customized Anchors\nRelation Network for Object Detection\nQuantization Mimic: Towards Very Tiny CNN for Object Detection\nLearning Rich Features for Image Manipulation Detection\nSNIPER: Efficient Multi-Scale Training\nSoft Sampling for Robust Object Detection\nCost-effective Object Detection: Active Sample Mining with Switchable Selection Criteria",
@@ -2048,8 +2171,9 @@
             "last_commit": "2026-08-19T05:38:53Z",
             "owner": "facebookresearch",
             "repo": "detectron2",
-            "stars": 34690
-          }
+            "stars": 34692
+          },
+          "first_seen": "2026-08-28T12:12:41.483Z"
         },
         {
           "node_type": "item",
@@ -2063,8 +2187,9 @@
             "last_commit": "2024-08-21T02:01:07Z",
             "owner": "open-mmlab",
             "repo": "mmdetection",
-            "stars": 32894
-          }
+            "stars": 32893
+          },
+          "first_seen": "2026-08-28T12:12:41.483Z"
         },
         {
           "node_type": "item",
@@ -2078,8 +2203,9 @@
             "last_commit": "2023-11-20T09:13:34Z",
             "owner": "facebookresearch",
             "repo": "Detectron",
-            "stars": 26358
-          }
+            "stars": 26359
+          },
+          "first_seen": "2026-08-28T12:12:41.483Z"
         },
         {
           "node_type": "item",
@@ -2094,14 +2220,15 @@
             "owner": "facebookresearch",
             "repo": "maskrcnn-benchmark",
             "stars": 9361
-          }
+          },
+          "first_seen": "2026-08-28T12:12:41.483Z"
         }
       ],
       "title": "Detection Toolbox"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:53:01.902Z",
+    "last_updated": "2026-08-28T12:12:41.483Z",
     "original_repository_info": {
       "archived": false,
       "id": 128416044,
