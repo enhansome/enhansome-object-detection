@@ -12,12 +12,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Caffe: a fast open framework for deep learning.",
+                "homepage": "http://caffe.berkeleyvision.org/",
                 "id": 12791642,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2024-07-31T23:10:28Z",
+                "open_issues": 1175,
                 "owner": "BVLC",
                 "repo": "caffe",
-                "stars": 34556
+                "stars": 34557,
+                "topics": [
+                  "deep-learning",
+                  "machine-learning",
+                  "vision"
+                ]
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -28,12 +37,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "R-CNN: Regions with Convolutional Neural Network Features",
+                "homepage": null,
                 "id": 17728623,
                 "language": "Matlab",
+                "license": "BSD-2-Clause",
                 "last_commit": "2017-04-03T16:16:14Z",
+                "open_issues": 54,
                 "owner": "rbgirshick",
                 "repo": "rcnn",
-                "stars": 2416
+                "stars": 2416,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             }
@@ -51,12 +65,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast R-CNN",
+                "homepage": null,
                 "id": 33257846,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2018-01-23T05:59:26Z",
+                "open_issues": 117,
                 "owner": "rbgirshick",
                 "repo": "fast-rcnn",
-                "stars": 3460
+                "stars": 3460,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -67,12 +86,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast R-CNN",
+                "homepage": null,
                 "id": 33257846,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2018-01-23T05:59:26Z",
+                "open_issues": 117,
                 "owner": "rbgirshick",
                 "repo": "fast-rcnn",
-                "stars": 3460
+                "stars": 3460,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -83,12 +107,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast R-CNN",
+                "homepage": null,
                 "id": 33257846,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2018-01-23T05:59:26Z",
+                "open_issues": 117,
                 "owner": "rbgirshick",
                 "repo": "fast-rcnn",
-                "stars": 3460
+                "stars": 3460,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -99,12 +128,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Parallel Faster R-CNN implementation with MXNet.",
+                "homepage": null,
                 "id": 58936515,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2018-08-25T17:46:48Z",
+                "open_issues": 11,
                 "owner": "ijkguo",
                 "repo": "mx-rcnn",
-                "stars": 667
+                "stars": 667,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -115,12 +149,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "fast-rcnn in tensorflow!",
+                "homepage": null,
                 "id": 59176220,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2016-09-24T22:36:15Z",
+                "open_issues": 9,
                 "owner": "zplizzi",
                 "repo": "tensorflow-fast-rcnn",
-                "stars": 172
+                "stars": 172,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -131,12 +170,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast R-CNN Torch Implementation",
+                "homepage": null,
                 "id": 51098670,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2017-04-25T16:51:46Z",
+                "open_issues": 8,
                 "owner": "mahyarnajibi",
                 "repo": "fast-rcnn-torch",
-                "stars": 135
+                "stars": 135,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -147,12 +191,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Chainer's simple implementation of fast R-CNN",
+                "homepage": null,
                 "id": 61105140,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-04-16T07:04:15Z",
+                "open_issues": 2,
                 "owner": "apple2373",
                 "repo": "chainer-simple-fast-rnn",
-                "stars": 43
+                "stars": 43,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -163,12 +212,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A-Fast-RCNN (CVPR 2017)",
+                "homepage": null,
                 "id": 87662162,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2018-01-29T11:39:37Z",
+                "open_issues": 18,
                 "owner": "xiaolonw",
                 "repo": "adversarial-frcnn",
-                "stars": 479
+                "stars": 479,
+                "topics": [
+                  "adversarial-networks",
+                  "caffe",
+                  "fast-rcnn",
+                  "object-detection"
+                ]
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             }
@@ -186,12 +245,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Faster R-CNN (Python implementation) -- see https://github.com/ShaoqingRen/faster_rcnn for the official MATLAB version",
+                "homepage": null,
                 "id": 43175432,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2019-11-07T04:31:35Z",
+                "open_issues": 667,
                 "owner": "rbgirshick",
                 "repo": "py-faster-rcnn",
-                "stars": 8289
+                "stars": 8289,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -202,12 +266,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A faster pytorch implementation of faster r-cnn",
+                "homepage": null,
                 "id": 99269272,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-05-20T09:01:28Z",
+                "open_issues": 422,
                 "owner": "jwyang",
                 "repo": "faster-rcnn.pytorch",
-                "stars": 7858
+                "stars": 7858,
+                "topics": [
+                  "faster-rcnn",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -218,12 +290,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deformable Convolutional Networks",
+                "homepage": null,
                 "id": 90380009,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-09-27T01:43:43Z",
+                "open_issues": 159,
                 "owner": "msracver",
                 "repo": "Deformable-ConvNets",
-                "stars": 4121
+                "stars": 4121,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -234,12 +311,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Faster R-CNN",
+                "homepage": null,
                 "id": 40288887,
                 "language": "Matlab",
+                "license": "NOASSERTION",
                 "last_commit": "2018-07-26T04:26:32Z",
+                "open_issues": 141,
                 "owner": "ShaoqingRen",
                 "repo": "faster_rcnn",
-                "stars": 2835
+                "stars": 2835,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -250,12 +332,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Faster-RCNN in Tensorflow",
+                "homepage": null,
                 "id": 67576785,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-10-28T09:17:08Z",
+                "open_issues": 271,
                 "owner": "smallcorgi",
                 "repo": "Faster-RCNN_TF",
-                "stars": 2342
+                "stars": 2342,
+                "topics": [
+                  "detection",
+                  "faster-rcnn",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -266,12 +357,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FastER RCNN built on tensorflow",
+                "homepage": null,
                 "id": 71331311,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2018-06-07T07:45:18Z",
+                "open_issues": 102,
                 "owner": "CharlesShang",
                 "repo": "TFFRCNN",
-                "stars": 871
+                "stars": 871,
+                "topics": [
+                  "detection",
+                  "faster-rcnn",
+                  "pedestrian",
+                  "pvanet",
+                  "rcnn",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -282,12 +385,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Object Detection with Faster R-CNN in Chainer",
+                "homepage": null,
                 "id": 49789179,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2017-07-08T01:35:21Z",
+                "open_issues": 6,
                 "owner": "mitmul",
                 "repo": "chainer-faster-rcnn",
-                "stars": 288
+                "stars": 288,
+                "topics": [
+                  "chainer"
+                ]
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -298,12 +408,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ResNet Implementation for Faster-rcnn",
+                "homepage": null,
                 "id": 82448458,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2018-04-28T04:43:25Z",
+                "open_issues": 18,
                 "owner": "Eniac-Xie",
                 "repo": "faster-rcnn-resnet",
-                "stars": 209
+                "stars": 209,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -314,12 +429,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Encapsulation C++ version of FasterRCNN",
+                "homepage": null,
                 "id": 64460273,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2021-10-14T13:46:43Z",
+                "open_issues": 12,
                 "owner": "YihangLou",
                 "repo": "FasterRCNN-Encapsulation-Cplusplus",
-                "stars": 187
+                "stars": 187,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -330,12 +450,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Experimental Torch7 implementation of RCNN for Object Detection with a Region Proposal Network",
+                "homepage": null,
                 "id": 42678648,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2016-10-05T07:40:39Z",
+                "open_issues": 6,
                 "owner": "andreaskoepf",
                 "repo": "faster-rcnn.torch",
-                "stars": 122
+                "stars": 122,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -346,12 +471,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Faster-RCNN based on Densecap(deprecated)",
+                "homepage": null,
                 "id": 61836678,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2016-09-12T00:43:19Z",
+                "open_issues": 4,
                 "owner": "ruotianluo",
                 "repo": "Faster-RCNN-Densecap-torch",
-                "stars": 84
+                "stars": 84,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -362,12 +492,19 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more",
+                "homepage": "https://mxnet.apache.org",
                 "id": 34864402,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2023-10-25T21:28:33Z",
+                "open_issues": 2007,
                 "owner": "apache",
                 "repo": "mxnet",
-                "stars": 20811
+                "stars": 20811,
+                "topics": [
+                  "mxnet"
+                ]
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -378,12 +515,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tensorflow Faster RCNN for Object Detection",
+                "homepage": "https://arxiv.org/pdf/1702.02138.pdf",
                 "id": 79841608,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-09-27T10:11:10Z",
+                "open_issues": 215,
                 "owner": "endernewton",
                 "repo": "tf-faster-rcnn",
-                "stars": 3646
+                "stars": 3646,
+                "topics": [
+                  "coco",
+                  "faster-rcnn",
+                  "mobilenet",
+                  "object-detection",
+                  "resnet",
+                  "tensorboard",
+                  "tensorflow",
+                  "voc"
+                ]
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -394,12 +545,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "pytorch1.0 updated. Support cpu test and demo. (Use detectron2, it's a masterpiece)",
+                "homepage": null,
                 "id": 97850448,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2020-11-12T03:12:48Z",
+                "open_issues": 79,
                 "owner": "ruotianluo",
                 "repo": "pytorch-faster-rcnn",
-                "stars": 1811
+                "stars": 1811,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             }
@@ -417,12 +573,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet.",
+                "homepage": null,
                 "id": 105919803,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-11-20T09:13:34Z",
+                "open_issues": 331,
                 "owner": "facebookresearch",
                 "repo": "Detectron",
-                "stars": 26359
+                "stars": 26358,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -433,12 +594,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow",
+                "homepage": null,
                 "id": 107595270,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-06-07T02:36:21Z",
+                "open_issues": 2022,
                 "owner": "matterport",
                 "repo": "Mask_RCNN",
-                "stars": 25570
+                "stars": 25570,
+                "topics": [
+                  "instance-segmentation",
+                  "keras",
+                  "mask-rcnn",
+                  "object-detection",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -449,12 +621,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An MXNet implementation of Mask R-CNN",
+                "homepage": null,
                 "id": 108086514,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2018-02-28T02:51:13Z",
+                "open_issues": 54,
                 "owner": "TuSimple",
                 "repo": "mx-maskrcnn",
-                "stars": 1753
+                "stars": 1753,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -465,12 +642,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A PyTorch implementation of the architecture of Mask RCNN",
+                "homepage": null,
                 "id": 138282365,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2019-11-05T06:10:55Z",
+                "open_issues": 17,
                 "owner": "wannabeOG",
                 "repo": "Mask-RCNN",
-                "stars": 988
+                "stars": 988,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -481,12 +663,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Implementation of Mask R-CNN in Chainer",
+                "homepage": null,
                 "id": 117702949,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2018-07-24T10:44:15Z",
+                "open_issues": 0,
                 "owner": "DeNA",
                 "repo": "Chainer_Mask_R-CNN",
-                "stars": 138
+                "stars": 138,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             }
@@ -504,12 +691,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Light-Head R-CNN",
+                "homepage": null,
                 "id": 127907564,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2018-12-24T11:03:46Z",
+                "open_issues": 43,
                 "owner": "zengarden",
                 "repo": "light_head_rcnn",
-                "stars": 829
+                "stars": 829,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -520,12 +712,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deformable Convolutional Networks",
+                "homepage": null,
                 "id": 90425402,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2017-12-02T07:17:48Z",
+                "open_issues": 8,
                 "owner": "terrychenism",
                 "repo": "Deformable-ConvNets",
-                "stars": 158
+                "stars": 158,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             }
@@ -543,12 +740,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Caffe implementation of multiple popular object detection frameworks",
+                "homepage": null,
                 "id": 112993117,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2019-09-10T01:56:40Z",
+                "open_issues": 50,
                 "owner": "zhaoweicai",
                 "repo": "cascade-rcnn",
-                "stars": 1061
+                "stars": 1061,
+                "topics": [
+                  "object-detection"
+                ]
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             }
@@ -566,12 +770,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SPP_net : Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition",
+                "homepage": null,
                 "id": 24419330,
                 "language": "Matlab",
+                "license": null,
                 "last_commit": "2016-07-11T08:56:26Z",
+                "open_issues": 19,
                 "owner": "ShaoqingRen",
                 "repo": "SPP_net",
-                "stars": 366
+                "stars": 366,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -582,12 +791,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Object detection with segmentation and context in deep networks",
+                "homepage": null,
                 "id": 34492395,
                 "language": "Matlab",
+                "license": "BSD-2-Clause",
                 "last_commit": "2015-06-12T10:09:51Z",
+                "open_issues": 0,
                 "owner": "YknZhu",
                 "repo": "segDeepM",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -598,12 +812,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Object detection demo: Fine-grained search (FGS) + StructObj",
+                "homepage": "http://www.ytzhang.net/projects/fgs-obj/",
                 "id": 36891312,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2016-10-17T14:37:53Z",
+                "open_issues": 5,
                 "owner": "YutingZhang",
                 "repo": "fgs-obj",
-                "stars": 51
+                "stars": 51,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -614,12 +833,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code release for DeepBox paper in ICCV 2015",
+                "homepage": null,
                 "id": 43603907,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2016-09-30T16:07:22Z",
+                "open_issues": 9,
                 "owner": "weichengkuo",
                 "repo": "DeepBox",
-                "stars": 125
+                "stars": 125,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             }
@@ -637,12 +861,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Convolutional Neural Networks",
+                "homepage": "http://pjreddie.com/darknet/",
                 "id": 18666758,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2024-05-03T13:53:58Z",
+                "open_issues": 1976,
                 "owner": "pjreddie",
                 "repo": "darknet",
-                "stars": 26494
+                "stars": 26494,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -653,12 +882,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "tensorflow implementation of 'YOLO : Real-Time Object Detection'",
+                "homepage": null,
                 "id": 51731516,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2019-01-05T07:57:00Z",
+                "open_issues": 38,
                 "owner": "gliese581gg",
                 "repo": "YOLO_tensorflow",
-                "stars": 1708
+                "stars": 1708,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -669,12 +903,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "tensorflow implementation of 'YOLO : Real-Time Object Detection'(train and test)",
+                "homepage": null,
                 "id": 70704289,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-10-22T09:16:43Z",
+                "open_issues": 45,
                 "owner": "nilboy",
                 "repo": "tensorflow-yolo",
-                "stars": 768
+                "stars": 768,
+                "topics": [
+                  "tensorflow",
+                  "tensorflow-yolo",
+                  "yolo"
+                ]
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -685,12 +928,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "YOLO (Real-Time Object Detection) in caffe ",
+                "homepage": null,
                 "id": 59329529,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2017-01-05T06:11:59Z",
+                "open_issues": 33,
                 "owner": "xingwangsfu",
                 "repo": "caffe-yolo",
-                "stars": 515
+                "stars": 515,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -701,12 +949,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a yolo windows version(for object detection)",
+                "homepage": null,
                 "id": 56637585,
                 "language": "C",
+                "license": null,
                 "last_commit": "2017-01-18T11:15:39Z",
+                "open_issues": 8,
                 "owner": "AlexeyAB",
                 "repo": "yolo-windows",
-                "stars": 71
+                "stars": 71,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -717,12 +970,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a yolo windows version(for object detection)",
+                "homepage": null,
                 "id": 42645537,
                 "language": "C",
+                "license": null,
                 "last_commit": "2015-09-18T03:32:19Z",
+                "open_issues": 5,
                 "owner": "frischzenger",
                 "repo": "yolo-windows",
-                "stars": 50
+                "stars": 50,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -733,12 +991,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Object Detection End-to-End framework",
+                "homepage": null,
                 "id": 52648541,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2016-03-22T04:03:00Z",
+                "open_issues": 6,
                 "owner": "frankzhangrui",
                 "repo": "Darknet-Yolo",
-                "stars": 49
+                "stars": 49,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -749,12 +1012,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "object detection for 21 classes",
+                "homepage": null,
                 "id": 63007994,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2016-07-10T16:36:13Z",
+                "open_issues": 2,
                 "owner": "HeKun-NVIDIA",
                 "repo": "py-darknet-yolo",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -765,12 +1033,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A brief implementation for YOLO object detection framework",
+                "homepage": null,
                 "id": 62575741,
                 "language": "Lua",
+                "license": "Apache-2.0",
                 "last_commit": "2016-07-27T00:27:29Z",
+                "open_issues": 3,
                 "owner": "tommy-qichang",
                 "repo": "yolo.torch",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -781,12 +1054,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Translate darknet to tensorflow. Load trained weights, retrain/fine-tune using tensorflow, export constant graph def to mobile devices",
+                "homepage": null,
                 "id": 65791375,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2023-10-23T23:26:26Z",
+                "open_issues": 642,
                 "owner": "thtrieu",
                 "repo": "darkflow",
-                "stars": 6139
+                "stars": 6139,
+                "topics": [
+                  "convolutional-networks",
+                  "convolutional-neural-networks",
+                  "darknet",
+                  "deep-learning",
+                  "deep-neural-networks",
+                  "graph",
+                  "image-processing",
+                  "machine-learning",
+                  "mobile-development",
+                  "object-detection",
+                  "real-time",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -797,12 +1088,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Convolutional Neural Networks",
+                "homepage": "http://pjreddie.com/darknet/",
                 "id": 48401488,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2018-07-12T18:00:15Z",
+                "open_issues": 5,
                 "owner": "Guanghan",
                 "repo": "darknet",
-                "stars": 247
+                "stars": 247,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -813,12 +1109,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tiny YOLO for iOS implemented using CoreML but also using the new MPS graph API.",
+                "homepage": null,
                 "id": 94986293,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2019-11-19T20:19:55Z",
+                "open_issues": 27,
                 "owner": "hollance",
                 "repo": "YOLO-CoreML-MPSNNGraph",
-                "stars": 943
+                "stars": 943,
+                "topics": [
+                  "core-ml",
+                  "deep-learning",
+                  "ios",
+                  "machine-learning",
+                  "metal",
+                  "mps",
+                  "swift",
+                  "yolo"
+                ]
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -829,12 +1139,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Real-time object detection on Android using the YOLO network with TensorFlow",
+                "homepage": null,
                 "id": 75443905,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2022-10-15T11:34:11Z",
+                "open_issues": 13,
                 "owner": "natanielruiz",
                 "repo": "android-yolo",
-                "stars": 691
+                "stars": 691,
+                "topics": [
+                  "android",
+                  "android-device",
+                  "android-studio",
+                  "apk",
+                  "demo",
+                  "detection",
+                  "object-detection",
+                  "pascal-voc",
+                  "prediction",
+                  "tensorflow",
+                  "tensorflow-yolo",
+                  "yolo"
+                ]
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -845,12 +1173,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Almost Real-time Object Detection using Apple's CoreML and YOLO v1 -",
+                "homepage": "https://goo.gl/8eVso5",
                 "id": 96832943,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2018-01-16T08:44:56Z",
+                "open_issues": 0,
                 "owner": "r4ghu",
                 "repo": "iOS-CoreML-Yolo",
-                "stars": 167
+                "stars": 167,
+                "topics": [
+                  "coreml",
+                  "ios",
+                  "object-detection",
+                  "object-detection-pipelines",
+                  "yolov1"
+                ]
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             }
@@ -868,12 +1207,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "YOLOv4 / Scaled-YOLOv4 / YOLO - Neural Networks for Object Detection (Windows and Linux version of Darknet )",
+                "homepage": "http://pjreddie.com/darknet/",
                 "id": 75388965,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2025-12-15T16:10:05Z",
+                "open_issues": 5438,
                 "owner": "AlexeyAB",
                 "repo": "darknet",
-                "stars": 22153
+                "stars": 22153,
+                "topics": [
+                  "computer-vision",
+                  "deep-learning",
+                  "deep-learning-tutorial",
+                  "deep-neural-networks",
+                  "dnn",
+                  "neural-network",
+                  "object-detection",
+                  "scaled-yolov4",
+                  "scaledyolov4",
+                  "yolo",
+                  "yolov3",
+                  "yolov4"
+                ]
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -884,12 +1241,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "YAD2K: Yet Another Darknet 2 Keras",
+                "homepage": null,
                 "id": 81915026,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2020-12-16T17:18:51Z",
+                "open_issues": 125,
                 "owner": "allanzelener",
                 "repo": "YAD2K",
-                "stars": 2728
+                "stars": 2728,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -900,12 +1262,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Easy training on custom dataset. Various backends (MobileNet and SqueezeNet) supported. A YOLO demo to detect raccoon run entirely in brower is accessible at https://git.io/vF7vI (not on Windows).",
+                "homepage": null,
                 "id": 85842387,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2023-03-24T22:26:55Z",
+                "open_issues": 201,
                 "owner": "experiencor",
                 "repo": "keras-yolo2",
-                "stars": 1733
+                "stars": 1733,
+                "topics": [
+                  "convolutional-networks",
+                  "deep-learning",
+                  "realtime",
+                  "regression",
+                  "yolo2"
+                ]
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -916,12 +1289,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "YOLOv2 in PyTorch",
+                "homepage": null,
                 "id": 82934344,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-09-29T09:54:02Z",
+                "open_issues": 87,
                 "owner": "longcw",
                 "repo": "yolo2-pytorch",
-                "stars": 1560
+                "stars": 1560,
+                "topics": [
+                  "darknet",
+                  "detection",
+                  "pytorch",
+                  "yolo",
+                  "yolo2"
+                ]
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -932,12 +1316,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "YOLO9000: Better, Faster, Stronger - Real-Time Object Detection. 9000 classes!",
+                "homepage": null,
                 "id": 88320860,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2021-03-24T11:59:33Z",
+                "open_issues": 14,
                 "owner": "philipperemy",
                 "repo": "yolo-9000",
-                "stars": 1194
+                "stars": 1194,
+                "topics": [
+                  "darknet",
+                  "deep-learning",
+                  "machine-learning",
+                  "yolo",
+                  "yolo-9000",
+                  "yolo2",
+                  "yolo9000"
+                ]
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -948,12 +1345,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tensorflow implementation of YOLO, including training and test phase.",
+                "homepage": null,
                 "id": 71887725,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2019-05-22T05:22:26Z",
+                "open_issues": 54,
                 "owner": "hizhangp",
                 "repo": "yolo_tensorflow",
-                "stars": 805
+                "stars": 805,
+                "topics": [
+                  "detection",
+                  "tensorflow",
+                  "yolo"
+                ]
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -964,12 +1370,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "YOLOv2のchainerの再現実装です(darknetのchainerローダと、完全なchainer上での訓練コードを含みます)",
+                "homepage": null,
                 "id": 81318760,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-09-26T19:28:17Z",
+                "open_issues": 19,
                 "owner": "leetenki",
                 "repo": "YOLOv2",
-                "stars": 340
+                "stars": 340,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -980,12 +1391,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Caffe for YOLOv2 & YOLO9000",
+                "homepage": null,
                 "id": 83551731,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2018-07-02T07:49:40Z",
+                "open_issues": 6,
                 "owner": "choasup",
                 "repo": "caffe-yolo9000",
-                "stars": 166
+                "stars": 166,
+                "topics": [
+                  "caffe",
+                  "detection"
+                ]
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -996,12 +1415,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "这个项目是基于论文YOLO9000: Better, Faster, Stronger的keras（backend：tensorflow）实现",
+                "homepage": null,
                 "id": 105277835,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2017-10-07T14:14:14Z",
+                "open_issues": 6,
                 "owner": "yhcc",
                 "repo": "yolo2",
-                "stars": 159
+                "stars": 159,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -1012,12 +1436,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "YOLOv2检测过程的Tensorflow实现",
+                "homepage": null,
                 "id": 133791027,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-06-07T13:08:36Z",
+                "open_issues": 6,
                 "owner": "KOD-Chen",
                 "repo": "YOLOv2-Tensorflow",
-                "stars": 97
+                "stars": 97,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -1028,12 +1457,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Auxilary scripts to work with (YOLO) darknet deep learning famework. AKA -> How to generate YOLO anchors?",
+                "homepage": null,
                 "id": 88107367,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-08-09T08:32:08Z",
+                "open_issues": 19,
                 "owner": "Jumabek",
                 "repo": "darknet_scripts",
-                "stars": 222
+                "stars": 222,
+                "topics": [
+                  "anchor-box",
+                  "anchors",
+                  "generated-anchors",
+                  "object-detection-anchor",
+                  "reproduce-yolov2-anchors",
+                  "visualize-genereted-anchors"
+                ]
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -1044,12 +1485,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GUI for marking bounded boxes of objects in images for training neural network Yolo v3 and v2",
+                "homepage": "https://github.com/AlexeyAB/darknet",
                 "id": 76747577,
                 "language": "C++",
+                "license": "Unlicense",
                 "last_commit": "2020-12-11T00:29:20Z",
+                "open_issues": 146,
                 "owner": "AlexeyAB",
                 "repo": "Yolo_mark",
-                "stars": 1840
+                "stars": 1840,
+                "topics": [
+                  "darknet",
+                  "dnn",
+                  "labeling",
+                  "marking-bounded-boxes",
+                  "object-detection",
+                  "training-yolo",
+                  "yolo"
+                ]
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -1060,12 +1514,32 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "🌓 Bringing pjreddie's DarkNet out of the shadows #yolo",
+                "homepage": null,
                 "id": 111338172,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2018-10-28T16:27:14Z",
+                "open_issues": 12,
                 "owner": "explosion",
                 "repo": "lightnet",
-                "stars": 320
+                "stars": 320,
+                "topics": [
+                  "ai",
+                  "artificial-intelligence",
+                  "c",
+                  "computer-vision",
+                  "cython",
+                  "cython-wrapper",
+                  "darknet-image-classification",
+                  "image-classification",
+                  "machine-learning",
+                  "neural-network",
+                  "neural-networks",
+                  "object-detection",
+                  "python",
+                  "yolo"
+                ]
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -1076,12 +1550,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Label images and video for Computer Vision applications",
+                "homepage": null,
                 "id": 118135147,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-07-06T19:58:48Z",
+                "open_issues": 18,
                 "owner": "Cartucho",
                 "repo": "OpenLabeling",
-                "stars": 965
+                "stars": 965,
+                "topics": [
+                  "bounding-boxes",
+                  "darkflow",
+                  "darknet",
+                  "gui",
+                  "labeling-tool",
+                  "object-detection",
+                  "opencv",
+                  "pascal-voc",
+                  "training-yolo",
+                  "yolo"
+                ]
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             }
@@ -1099,12 +1589,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Convolutional Neural Networks",
+                "homepage": "http://pjreddie.com/darknet/",
                 "id": 18666758,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2024-05-03T13:53:58Z",
+                "open_issues": 1976,
                 "owner": "pjreddie",
                 "repo": "darknet",
-                "stars": 26494
+                "stars": 26494,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -1115,12 +1610,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyTorch implementation of YOLOv3, YOLOv3-SPP, and YOLOv3-tiny for real-time object detection with training, validation, inference, and multi-format export.",
+                "homepage": "https://docs.ultralytics.com/models/yolov3/",
                 "id": 146165888,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-28T11:04:58Z",
+                "open_issues": 4,
                 "owner": "ultralytics",
                 "repo": "yolov3",
-                "stars": 10598
+                "stars": 10599,
+                "topics": [
+                  "computer-vision",
+                  "coreml",
+                  "deep-learning",
+                  "edge-ai",
+                  "inference",
+                  "model-export",
+                  "model-training",
+                  "object-detection",
+                  "onnx",
+                  "pytorch",
+                  "tensorrt",
+                  "ultralytics",
+                  "yolo",
+                  "yolov3"
+                ]
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -1131,12 +1646,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Minimal PyTorch implementation of YOLOv3",
+                "homepage": null,
                 "id": 134292654,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-11-17T15:24:57Z",
+                "open_issues": 114,
                 "owner": "eriklindernoren",
                 "repo": "PyTorch-YOLOv3",
-                "stars": 7440
+                "stars": 7440,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -1147,12 +1667,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Keras implementation of YOLOv3 (Tensorflow backend)",
+                "homepage": null,
                 "id": 127846381,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-03-12T02:57:19Z",
+                "open_issues": 518,
                 "owner": "qqwweee",
                 "repo": "keras-yolo3",
-                "stars": 7114
+                "stars": 7114,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -1163,12 +1688,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A PyTorch implementation of the YOLO v3 object detection algorithm",
+                "homepage": null,
                 "id": 128474296,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-01-16T12:30:23Z",
+                "open_issues": 112,
                 "owner": "ayooshkathuria",
                 "repo": "pytorch-yolo-v3",
-                "stars": 3312
+                "stars": 3312,
+                "topics": [
+                  "object-detection",
+                  "pytorch",
+                  "yolo",
+                  "yolov3"
+                ]
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -1179,12 +1714,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Accompanying code for Paperspace tutorial series \"How to Implement YOLO v3 Object Detector from Scratch\"",
+                "homepage": "https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/",
                 "id": 129002696,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-11-17T07:09:38Z",
+                "open_issues": 53,
                 "owner": "ayooshkathuria",
                 "repo": "YOLO_v3_tutorial_from_scratch",
-                "stars": 2317
+                "stars": 2317,
+                "topics": [
+                  "object-detection",
+                  "pytorch-implmention",
+                  "pytorch-tutorial",
+                  "yolo",
+                  "yolov3"
+                ]
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -1195,12 +1741,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Training and Detecting Objects with YOLO3",
+                "homepage": null,
                 "id": 128623159,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-09-05T07:29:29Z",
+                "open_issues": 239,
                 "owner": "experiencor",
                 "repo": "keras-yolo3",
-                "stars": 1608
+                "stars": 1608,
+                "topics": [
+                  "deep-learning",
+                  "object-detection",
+                  "yolo"
+                ]
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -1211,12 +1766,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of YOLO v3 object detector in Tensorflow (TF-Slim)",
+                "homepage": "https://medium.com/@pawekapica_31302/implementing-yolo-v3-in-tensorflow-tf-slim-c3c55ff59dbe",
                 "id": 135407468,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-05-15T12:29:48Z",
+                "open_issues": 66,
                 "owner": "mystic123",
                 "repo": "tensorflow-yolo-v3",
-                "stars": 878
+                "stars": 878,
+                "topics": [
+                  "deep-learning",
+                  "detector",
+                  "object-detection",
+                  "tensorflow",
+                  "tensorflow-yolo",
+                  "yolo",
+                  "yolov3"
+                ]
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -1227,12 +1795,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Full implementation of YOLOv3 in PyTorch",
+                "homepage": null,
                 "id": 137431513,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-12-31T09:54:47Z",
+                "open_issues": 51,
                 "owner": "BobLiu20",
                 "repo": "YOLOv3_PyTorch",
-                "stars": 641
+                "stars": 641,
+                "topics": [
+                  "object-detection",
+                  "pytorch",
+                  "yolo",
+                  "yolov3"
+                ]
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -1243,12 +1821,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Implementation of YOLOv3 in PyTorch",
+                "homepage": null,
                 "id": 160483774,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2021-10-12T22:55:11Z",
+                "open_issues": 8,
                 "owner": "DeNA",
                 "repo": "PyTorch_YOLOv3",
-                "stars": 431
+                "stars": 431,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -1259,12 +1842,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Yet Another Implimentation of Pytroch 0.4.1 and YoloV3 on python3",
+                "homepage": null,
                 "id": 135674025,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2019-05-09T14:00:26Z",
+                "open_issues": 10,
                 "owner": "andy-yun",
                 "repo": "pytorch-0.4-yolov3",
-                "stars": 276
+                "stars": 276,
+                "topics": [
+                  "python3",
+                  "pytorch",
+                  "pytorch-yolo3",
+                  "pytorch-yolov3",
+                  "yolov3",
+                  "yolov3-training"
+                ]
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             }
@@ -1282,12 +1877,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "You Only Look Twice: Rapid Multi-Scale Object Detection In Satellite Imagery",
+                "homepage": null,
                 "id": 134618881,
                 "language": "C",
+                "license": "Apache-2.0",
                 "last_commit": "2019-12-09T03:46:12Z",
+                "open_issues": 15,
                 "owner": "avanetten",
                 "repo": "yolt",
-                "stars": 279
+                "stars": 279,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             }
@@ -1305,12 +1905,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A PyTorch Implementation of Single Shot MultiBox Detector",
+                "homepage": null,
                 "id": 81275248,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-12-29T03:19:26Z",
+                "open_issues": 380,
                 "owner": "amdegroot",
                 "repo": "ssd.pytorch",
-                "stars": 5221
+                "stars": 5221,
+                "topics": [
+                  "computer-vision",
+                  "deep-learning",
+                  "image-recognition",
+                  "machine-learning",
+                  "object-detection",
+                  "pytorch",
+                  "ssd",
+                  "webcam"
+                ]
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -1321,12 +1935,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Caffe: a fast open framework for deep learning.",
+                "homepage": "http://caffe.berkeleyvision.org/",
                 "id": 33213787,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2023-04-21T17:17:09Z",
+                "open_issues": 676,
                 "owner": "weiliu89",
                 "repo": "caffe",
-                "stars": 4808
+                "stars": 4808,
+                "topics": [
+                  "deep-learning",
+                  "object-detection",
+                  "real-time",
+                  "semantic-segmentation"
+                ]
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -1337,12 +1961,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Single Shot MultiBox Detector in TensorFlow",
+                "homepage": null,
                 "id": 79343907,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2021-08-12T11:13:20Z",
+                "open_issues": 295,
                 "owner": "balancap",
                 "repo": "SSD-Tensorflow",
-                "stars": 4101
+                "stars": 4101,
+                "topics": [
+                  "deep-learning",
+                  "object-detection",
+                  "ssd",
+                  "tensorflow",
+                  "yolo"
+                ]
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -1353,12 +1988,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Caffe implementation of Google MobileNet SSD detection network, with pretrained weights on VOC0712 and mAP=0.727.",
+                "homepage": null,
                 "id": 93745483,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-07-13T06:43:16Z",
+                "open_issues": 150,
                 "owner": "chuanqi305",
                 "repo": "MobileNet-SSD",
-                "stars": 2127
+                "stars": 2127,
+                "topics": [
+                  "caffe",
+                  "detection",
+                  "mobilenet",
+                  "mobilenet-ssd",
+                  "ssd"
+                ]
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -1369,12 +2015,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Port of Single Shot MultiBox Detector to Keras",
+                "homepage": null,
                 "id": 72886408,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2021-06-01T16:00:23Z",
+                "open_issues": 103,
                 "owner": "rykov8",
                 "repo": "ssd_keras",
-                "stars": 1083
+                "stars": 1083,
+                "topics": [
+                  "computer-vision",
+                  "deep-learning",
+                  "keras-models",
+                  "object-detection"
+                ]
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -1385,12 +2041,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MXNet port of SSD: Single Shot MultiBox Object Detector.  Reimplementation of https://github.com/weiliu89/caffe/tree/ssd",
+                "homepage": null,
                 "id": 69511580,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-05-16T18:17:10Z",
+                "open_issues": 95,
                 "owner": "zhreshold",
                 "repo": "mxnet-ssd",
-                "stars": 757
+                "stars": 757,
+                "topics": [
+                  "object-detection"
+                ]
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -1401,12 +2064,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "C++ object detection module for mxnet-ssd",
+                "homepage": null,
                 "id": 69612029,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2017-03-21T22:11:48Z",
+                "open_issues": 16,
                 "owner": "zhreshold",
                 "repo": "mxnet-ssd.cpp",
-                "stars": 95
+                "stars": 95,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -1417,12 +2085,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Caffe: a fast open framework for deep learning.",
+                "homepage": "http://caffe.berkeleyvision.org/",
                 "id": 33213787,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2023-04-21T17:17:09Z",
+                "open_issues": 676,
                 "owner": "weiliu89",
                 "repo": "caffe",
-                "stars": 4808
+                "stars": 4808,
+                "topics": [
+                  "deep-learning",
+                  "object-detection",
+                  "real-time",
+                  "semantic-segmentation"
+                ]
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             }
@@ -1440,12 +2118,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Caffe: a fast open framework for deep learning.",
+                "homepage": "http://caffe.berkeleyvision.org/",
                 "id": 70268153,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2017-04-11T15:56:19Z",
+                "open_issues": 22,
                 "owner": "chengyangfu",
                 "repo": "caffe",
-                "stars": 169
+                "stars": 169,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -1456,12 +2139,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An mxnet implementation of Deconvolutional SSD",
+                "homepage": null,
                 "id": 117808561,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2018-02-09T03:51:54Z",
+                "open_issues": 9,
                 "owner": "MTCloudVision",
                 "repo": "mxnet-dssd",
-                "stars": 113
+                "stars": 113,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             }
@@ -1479,12 +2167,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pelee: A Real-Time Object Detection System on Mobile Devices",
+                "homepage": null,
                 "id": 117862554,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2019-01-04T05:52:11Z",
+                "open_issues": 54,
                 "owner": "Robert-JunWang",
                 "repo": "Pelee",
-                "stars": 884
+                "stars": 884,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -1495,12 +2188,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pelee: A Real-Time Object Detection System on Mobile Devices",
+                "homepage": null,
                 "id": 117862554,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2019-01-04T05:52:11Z",
+                "open_issues": 54,
                 "owner": "Robert-JunWang",
                 "repo": "Pelee",
-                "stars": 884
+                "stars": 884,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             }
@@ -1518,12 +2216,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deformable Convolutional Networks",
+                "homepage": null,
                 "id": 90380009,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-09-27T01:43:43Z",
+                "open_issues": 159,
                 "owner": "msracver",
                 "repo": "Deformable-ConvNets",
-                "stars": 4121
+                "stars": 4121,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -1534,12 +2237,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "R-FCN: Object Detection via Region-based Fully Convolutional Networks",
+                "homepage": null,
                 "id": 61355800,
                 "language": "Matlab",
+                "license": "NOASSERTION",
                 "last_commit": "2017-05-05T15:50:59Z",
+                "open_issues": 30,
                 "owner": "daijifeng001",
                 "repo": "R-FCN",
-                "stars": 1248
+                "stars": 1248,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -1550,12 +2258,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "R-FCN with joint training and python support",
+                "homepage": null,
                 "id": 68006691,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-12-31T01:44:16Z",
+                "open_issues": 73,
                 "owner": "YuwenXiong",
                 "repo": "py-R-FCN",
-                "stars": 1043
+                "stars": 1043,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -1566,12 +2279,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RFCN implementation in TensorFlow",
+                "homepage": null,
                 "id": 83126725,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2017-12-26T17:50:11Z",
+                "open_issues": 30,
                 "owner": "RobertCsordas",
                 "repo": "RFCN-tensorflow",
-                "stars": 290
+                "stars": 290,
+                "topics": [
+                  "deep-learning",
+                  "machine-learning",
+                  "object-detection",
+                  "rfcn",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -1582,12 +2306,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 84719618,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2017-03-12T11:32:40Z",
+                "open_issues": 6,
                 "owner": "xiong-zhitong",
                 "repo": "pytorch_RFCN",
-                "stars": 276
+                "stars": 276,
+                "topics": [
+                  "detection",
+                  "pytorch",
+                  "r-fcn"
+                ]
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -1598,12 +2331,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for training py-faster-rcnn and py-R-FCN on multiple GPUs in caffe",
+                "homepage": null,
                 "id": 79877852,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2017-06-06T02:59:43Z",
+                "open_issues": 17,
                 "owner": "bharatsingh430",
                 "repo": "py-R-FCN-multiGPU",
-                "stars": 191
+                "stars": 191,
+                "topics": [
+                  "faster-rcnn",
+                  "multi-gpu",
+                  "object-detection"
+                ]
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             }
@@ -1621,12 +2363,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Accurate Single Stage Detector Using Recurrent Rolling Convolution",
+                "homepage": null,
                 "id": 87285336,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2017-05-20T08:05:51Z",
+                "open_issues": 36,
                 "owner": "xiaohaoChen",
                 "repo": "rrc_detection",
-                "stars": 358
+                "stars": 358,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -1637,12 +2384,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RON: Reverse Connection with Objectness Prior Networks for Object Detection, CVPR 2017",
+                "homepage": null,
                 "id": 96069916,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-03-22T08:23:53Z",
+                "open_issues": 5,
                 "owner": "taokong",
                 "repo": "RON",
-                "stars": 353
+                "stars": 353,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -1653,12 +2405,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code and some data for 'Recurrent Scale Approximation for Object Detection in CNN' in ICCV 2017",
+                "homepage": null,
                 "id": 99429381,
                 "language": "Matlab",
+                "license": null,
                 "last_commit": "2017-11-23T08:51:43Z",
+                "open_issues": 3,
                 "owner": "liuyuisanai",
                 "repo": "RSA-for-object-detection",
-                "stars": 236
+                "stars": 236,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             }
@@ -1676,12 +2433,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DSOD: Learning Deeply Supervised Object Detectors from Scratch. In ICCV 2017.",
+                "homepage": null,
                 "id": 99268493,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2019-12-28T19:07:04Z",
+                "open_issues": 11,
                 "owner": "szq0214",
                 "repo": "DSOD",
-                "stars": 710
+                "stars": 710,
+                "topics": [
+                  "from-scratch",
+                  "object-detection"
+                ]
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -1692,12 +2457,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reimplement DSOD: Learning Deeply Supervised Object Detectors from Scratch. ",
+                "homepage": null,
                 "id": 127497013,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-01-14T18:48:28Z",
+                "open_issues": 4,
                 "owner": "chenyuntc",
                 "repo": "dsod.pytorch",
-                "stars": 70
+                "stars": 70,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -1708,12 +2478,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DSOD算法的TF实现，已经写完原型，还没在VOC上训练完成测试，训练参数和权重分配自己调整吧。",
+                "homepage": null,
                 "id": 121726009,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-02-24T06:36:21Z",
+                "open_issues": 2,
                 "owner": "Windaway",
                 "repo": "DSOD-Tensorflow",
-                "stars": 42
+                "stars": 42,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -1724,12 +2499,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Improving Object Detection from Scratch via Gated Feature Reuse (BMVC 2019)",
+                "homepage": null,
                 "id": 112972526,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-05-09T04:26:17Z",
+                "open_issues": 5,
                 "owner": "SHI-Labs",
                 "repo": "GFR-DSOD",
-                "stars": 66
+                "stars": 66,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             }
@@ -1747,12 +2527,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Receptive Field Block Net for Accurate and Fast Object Detection, ECCV 2018",
+                "homepage": null,
                 "id": 111989231,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-11-02T18:19:57Z",
+                "open_issues": 58,
                 "owner": "GOATmessi8",
                 "repo": "RFBNet",
-                "stars": 1419
+                "stars": 1419,
+                "topics": [
+                  "detection",
+                  "mobilenet",
+                  "pytorch",
+                  "rfbnet"
+                ]
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -1763,12 +2553,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Scale Normalization for Image Pyramids",
+                "homepage": null,
                 "id": 111315563,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2018-06-19T01:44:59Z",
+                "open_issues": 1,
                 "owner": "bharatsingh430",
                 "repo": "snip",
-                "stars": 171
+                "stars": 171,
+                "topics": [
+                  "object-detection"
+                ]
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -1779,12 +2576,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A deep learning based algorithm to detect rotated object, for example, objects in remote sensing images",
+                "homepage": null,
                 "id": 112066738,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2017-12-09T13:15:02Z",
+                "open_issues": 41,
                 "owner": "liulei01",
                 "repo": "DRBox",
-                "stars": 426
+                "stars": 426,
+                "topics": [
+                  "caffe",
+                  "detection",
+                  "rotation-invariant"
+                ]
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -1795,12 +2601,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Improving Object Detection from Scratch via Gated Feature Reuse (BMVC 2019)",
+                "homepage": null,
                 "id": 112972526,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-05-09T04:26:17Z",
+                "open_issues": 5,
                 "owner": "SHI-Labs",
                 "repo": "GFR-DSOD",
-                "stars": 66
+                "stars": 66,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -1811,12 +2622,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CVPR18 Paper: Multi-scale Location-aware Kernel Representation for Object Detection",
+                "homepage": null,
                 "id": 125634953,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-06-16T01:49:13Z",
+                "open_issues": 6,
                 "owner": "Hwang64",
                 "repo": "MLKP",
-                "stars": 107
+                "stars": 107,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             }
@@ -1834,12 +2650,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Single-Shot Refinement Neural Network for Object Detection, CVPR, 2018",
+                "homepage": null,
                 "id": 111206760,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2019-03-18T12:42:45Z",
+                "open_issues": 4,
                 "owner": "sfzhang15",
                 "repo": "RefineDet",
-                "stars": 1424
+                "stars": 1424,
+                "topics": [
+                  "object-detection"
+                ]
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -1850,12 +2673,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "pytorch version of SSD and it's enhanced methods such as RFBSSD,FSSD and RefineDet",
+                "homepage": null,
                 "id": 114252768,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-03-27T10:35:05Z",
+                "open_issues": 44,
                 "owner": "lzx1413",
                 "repo": "PytorchSSD",
-                "stars": 704
+                "stars": 704,
+                "topics": [
+                  "fssd",
+                  "pytorch",
+                  "refinedet",
+                  "rfb",
+                  "ssd"
+                ]
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -1866,12 +2700,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 139938201,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-07-11T10:21:56Z",
+                "open_issues": 7,
                 "owner": "MTCloudVision",
                 "repo": "RefineDet-Mxnet",
-                "stars": 40
+                "stars": 40,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             }
@@ -1889,12 +2728,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 143365050,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2020-09-18T18:59:28Z",
+                "open_issues": 134,
                 "owner": "princeton-vl",
                 "repo": "CornerNet",
-                "stars": 2369
+                "stars": 2369,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             }
@@ -1912,12 +2756,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network",
+                "homepage": null,
                 "id": 148000383,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2019-11-14T10:21:38Z",
+                "open_issues": 72,
                 "owner": "VDIGPKU",
                 "repo": "M2Det",
-                "stars": 1438
+                "stars": 1438,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             }
@@ -1935,12 +2784,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Autoware - the world's leading open-source software project for autonomous driving",
+                "homepage": "https://www.autoware.org/",
                 "id": 41331761,
                 "language": "Dockerfile",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-24T08:19:48Z",
+                "open_issues": 72,
                 "owner": "autowarefoundation",
                 "repo": "autoware",
-                "stars": 12028
+                "stars": 12029,
+                "topics": [
+                  "autonomous-driving",
+                  "autonomous-vehicles",
+                  "autoware",
+                  "ros",
+                  "ros2"
+                ]
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             }
@@ -1958,12 +2818,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cross-Domain Weakly-Supervised Object Detection through Progressive Domain Adaptation [Inoue+, CVPR2018].",
+                "homepage": "https://naoto0804.github.io/cross_domain_detection/",
                 "id": 124737291,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-03-16T05:41:18Z",
+                "open_issues": 8,
                 "owner": "naoto0804",
                 "repo": "cross-domain-detection",
-                "stars": 437
+                "stars": 437,
+                "topics": [
+                  "chainer",
+                  "cross-domain",
+                  "domain-adaptation",
+                  "object-detection",
+                  "weakly-supervised-learning"
+                ]
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             }
@@ -1981,12 +2852,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bounding Box Regression with Uncertainty for Accurate Object Detection (CVPR'19)",
+                "homepage": "https://github.com/ethanhe42/KL-Loss",
                 "id": 149854106,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-05-02T06:40:17Z",
+                "open_issues": 1,
                 "owner": "ethanhe42",
                 "repo": "softer-NMS",
-                "stars": 366
+                "stars": 366,
+                "topics": [
+                  "object-detection"
+                ]
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             }
@@ -2004,12 +2882,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bottom-up Object Detection by Grouping Extreme and Center Points",
+                "homepage": null,
                 "id": 164359756,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2019-04-19T02:32:30Z",
+                "open_issues": 32,
                 "owner": "xingyizhou",
                 "repo": "ExtremeNet",
-                "stars": 1031
+                "stars": 1031,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -2020,12 +2903,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RetinaMask",
+                "homepage": null,
                 "id": 154896295,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2019-03-15T16:07:28Z",
+                "open_issues": 11,
                 "owner": "chengyangfu",
                 "repo": "retinamask",
-                "stars": 340
+                "stars": 340,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             }
@@ -2043,12 +2931,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Comprehensive Feature Enhancement Module for Single-Shot Object Detector",
+                "homepage": null,
                 "id": 149215657,
                 "language": null,
+                "license": null,
                 "last_commit": "2018-12-19T02:28:07Z",
+                "open_issues": 19,
                 "owner": "VDIGPKU",
                 "repo": "CFENet",
-                "stars": 197
+                "stars": 197,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -2059,12 +2952,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A novel region proposal network for more general object detection ( including scene text detection ).",
+                "homepage": null,
                 "id": 156976657,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-03-13T05:24:53Z",
+                "open_issues": 2,
                 "owner": "HCIILAB",
                 "repo": "DeRPN",
-                "stars": 155
+                "stars": 155,
+                "topics": [
+                  "detection",
+                  "object-detection",
+                  "object-proposals",
+                  "region-proposals",
+                  "rpn",
+                  "scene-text",
+                  "scene-text-detection",
+                  "text-detection"
+                ]
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -2075,12 +2982,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hybrid Knowledge Routed Module for Large-scale Object Detection (NerIPS2018)",
+                "homepage": null,
                 "id": 153102940,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-03-19T14:26:52Z",
+                "open_issues": 16,
                 "owner": "chanyn",
                 "repo": "HKRM",
-                "stars": 104
+                "stars": 104,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -2091,12 +3003,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Receptive Field Block Net for Accurate and Fast Object Detection, ECCV 2018",
+                "homepage": null,
                 "id": 111989231,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-11-02T18:19:57Z",
+                "open_issues": 58,
                 "owner": "GOATmessi8",
                 "repo": "RFBNet",
-                "stars": 1419
+                "stars": 1419,
+                "topics": [
+                  "detection",
+                  "mobilenet",
+                  "pytorch",
+                  "rfbnet"
+                ]
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -2107,12 +3029,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Precise RoI Pooling with coordinate gradient support, proposed in the paper \"Acquisition of Localization Confidence for Accurate Object Detection\" (https://arxiv.org/abs/1807.11590).",
+                "homepage": null,
                 "id": 140886938,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2022-12-12T17:54:53Z",
+                "open_issues": 25,
                 "owner": "vacancy",
                 "repo": "PreciseRoIPooling",
-                "stars": 781
+                "stars": 781,
+                "topics": [
+                  "computer-vision",
+                  "object-detection"
+                ]
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -2123,12 +3053,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Relation Networks for Object Detection",
+                "homepage": null,
                 "id": 137312864,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-09-27T04:22:40Z",
+                "open_issues": 17,
                 "owner": "msracver",
                 "repo": "Relation-Networks-for-Object-Detection",
-                "stars": 1104
+                "stars": 1104,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             },
@@ -2139,12 +3074,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SNIPER / AutoFocus is an efficient multi-scale object detection training / inference algorithm",
+                "homepage": null,
                 "id": 117351329,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2021-08-22T01:17:53Z",
+                "open_issues": 115,
                 "owner": "mahyarnajibi",
                 "repo": "SNIPER",
-                "stars": 2690
+                "stars": 2690,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
             }
@@ -2166,12 +3106,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.",
+            "homepage": "https://detectron2.readthedocs.io/en/latest/",
             "id": 206660580,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-19T05:38:53Z",
+            "open_issues": 585,
             "owner": "facebookresearch",
             "repo": "detectron2",
-            "stars": 34692
+            "stars": 34692,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:12:41.483Z"
         },
@@ -2182,12 +3127,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenMMLab Detection Toolbox and Benchmark",
+            "homepage": "https://mmdetection.readthedocs.io",
             "id": 145670234,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-08-21T02:01:07Z",
+            "open_issues": 1960,
             "owner": "open-mmlab",
             "repo": "mmdetection",
-            "stars": 32893
+            "stars": 32894,
+            "topics": [
+              "cascade-rcnn",
+              "convnext",
+              "detr",
+              "fast-rcnn",
+              "faster-rcnn",
+              "glip",
+              "grounding-dino",
+              "instance-segmentation",
+              "mask-rcnn",
+              "object-detection",
+              "panoptic-segmentation",
+              "pytorch",
+              "retinanet",
+              "rtmdet",
+              "semisupervised-learning",
+              "ssd",
+              "swin-transformer",
+              "transformer",
+              "vision-transformer",
+              "yolo"
+            ]
           },
           "first_seen": "2026-08-28T12:12:41.483Z"
         },
@@ -2198,12 +3169,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet.",
+            "homepage": null,
             "id": 105919803,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-11-20T09:13:34Z",
+            "open_issues": 331,
             "owner": "facebookresearch",
             "repo": "Detectron",
-            "stars": 26359
+            "stars": 26358,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:12:41.483Z"
         },
@@ -2214,12 +3190,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Fast, modular reference implementation of Instance Segmentation and Object Detection algorithms in PyTorch.",
+            "homepage": null,
             "id": 154542095,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-02-16T04:01:32Z",
+            "open_issues": 530,
             "owner": "facebookresearch",
             "repo": "maskrcnn-benchmark",
-            "stars": 9361
+            "stars": 9361,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:12:41.483Z"
         }
@@ -2228,15 +3209,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T12:12:41.483Z",
+    "last_updated": "2026-08-29T04:14:32.059Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome Object Detection based on handong1587 github: https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html",
+      "homepage": null,
       "id": 128416044,
       "language": null,
+      "license": null,
       "last_commit": "2022-12-17T04:28:58Z",
+      "open_issues": 7,
       "owner": "amusi",
       "repo": "awesome-object-detection",
-      "stars": 7506
+      "stars": 7506,
+      "topics": [
+        "computer-vision",
+        "deep-learning",
+        "detection",
+        "object-detection",
+        "object-localisation"
+      ]
     },
     "original_repository_sha": "6d39aede560dbd4220fe52f5241ea332c8de5e01",
     "enhanced_repository": "enhansome/enhansome-object-detection",
