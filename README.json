@@ -254,7 +254,7 @@
                 "open_issues": 667,
                 "owner": "rbgirshick",
                 "repo": "py-faster-rcnn",
-                "stars": 8289,
+                "stars": 8290,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
@@ -603,7 +603,7 @@
                 "open_issues": 2022,
                 "owner": "matterport",
                 "repo": "Mask_RCNN",
-                "stars": 25571,
+                "stars": 25572,
                 "topics": [
                   "instance-segmentation",
                   "keras",
@@ -749,7 +749,7 @@
                 "open_issues": 50,
                 "owner": "zhaoweicai",
                 "repo": "cascade-rcnn",
-                "stars": 1061,
+                "stars": 1060,
                 "topics": [
                   "object-detection"
                 ]
@@ -1216,7 +1216,7 @@
                 "open_issues": 5438,
                 "owner": "AlexeyAB",
                 "repo": "darknet",
-                "stars": 22152,
+                "stars": 22150,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -2793,7 +2793,7 @@
                 "open_issues": 72,
                 "owner": "autowarefoundation",
                 "repo": "autoware",
-                "stars": 12032,
+                "stars": 12034,
                 "topics": [
                   "autonomous-driving",
                   "autonomous-vehicles",
@@ -3112,7 +3112,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-19T05:38:53Z",
-            "open_issues": 586,
+            "open_issues": 588,
             "owner": "facebookresearch",
             "repo": "detectron2",
             "stars": 34693,
@@ -3133,7 +3133,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2024-08-21T02:01:07Z",
-            "open_issues": 1960,
+            "open_issues": 1962,
             "owner": "open-mmlab",
             "repo": "mmdetection",
             "stars": 32894,
@@ -3209,7 +3209,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T05:47:49.241Z",
+    "last_updated": "2026-08-31T06:08:51.096Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Object Detection based on handong1587 github: https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html",
