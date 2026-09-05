@@ -1271,7 +1271,7 @@
                 "open_issues": 201,
                 "owner": "experiencor",
                 "repo": "keras-yolo2",
-                "stars": 1733,
+                "stars": 1732,
                 "topics": [
                   "convolutional-networks",
                   "deep-learning",
@@ -1619,7 +1619,7 @@
                 "open_issues": 4,
                 "owner": "ultralytics",
                 "repo": "yolov3",
-                "stars": 10602,
+                "stars": 10603,
                 "topics": [
                   "computer-vision",
                   "coreml",
@@ -2789,11 +2789,11 @@
                 "id": 41331761,
                 "language": "Dockerfile",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-04T01:50:39Z",
+                "last_commit": "2026-09-04T12:42:05Z",
                 "open_issues": 70,
                 "owner": "autowarefoundation",
                 "repo": "autoware",
-                "stars": 12042,
+                "stars": 12043,
                 "topics": [
                   "autonomous-driving",
                   "autonomous-vehicles",
@@ -3112,10 +3112,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-19T05:38:53Z",
-            "open_issues": 588,
+            "open_issues": 589,
             "owner": "facebookresearch",
             "repo": "detectron2",
-            "stars": 34699,
+            "stars": 34701,
             "topics": []
           },
           "first_seen": "2026-08-28T12:12:41.483Z"
@@ -3136,7 +3136,7 @@
             "open_issues": 1962,
             "owner": "open-mmlab",
             "repo": "mmdetection",
-            "stars": 32906,
+            "stars": 32907,
             "topics": [
               "cascade-rcnn",
               "convnext",
@@ -3209,7 +3209,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T05:04:55.091Z",
+    "last_updated": "2026-09-05T04:55:42.699Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Object Detection based on handong1587 github: https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html",
