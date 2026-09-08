@@ -21,7 +21,7 @@
                 "open_issues": 1175,
                 "owner": "BVLC",
                 "repo": "caffe",
-                "stars": 34551,
+                "stars": 34553,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -501,7 +501,7 @@
                 "open_issues": 2007,
                 "owner": "apache",
                 "repo": "mxnet",
-                "stars": 20810,
+                "stars": 20809,
                 "topics": [
                   "mxnet"
                 ]
@@ -582,7 +582,7 @@
                 "open_issues": 331,
                 "owner": "facebookresearch",
                 "repo": "Detectron",
-                "stars": 26357,
+                "stars": 26356,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
@@ -603,7 +603,7 @@
                 "open_issues": 2022,
                 "owner": "matterport",
                 "repo": "Mask_RCNN",
-                "stars": 25572,
+                "stars": 25573,
                 "topics": [
                   "instance-segmentation",
                   "keras",
@@ -1216,7 +1216,7 @@
                 "open_issues": 5438,
                 "owner": "AlexeyAB",
                 "repo": "darknet",
-                "stars": 22149,
+                "stars": 22148,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -1619,7 +1619,7 @@
                 "open_issues": 4,
                 "owner": "ultralytics",
                 "repo": "yolov3",
-                "stars": 10603,
+                "stars": 10602,
                 "topics": [
                   "computer-vision",
                   "coreml",
@@ -1655,7 +1655,7 @@
                 "open_issues": 114,
                 "owner": "eriklindernoren",
                 "repo": "PyTorch-YOLOv3",
-                "stars": 7439,
+                "stars": 7438,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
@@ -1676,7 +1676,7 @@
                 "open_issues": 518,
                 "owner": "qqwweee",
                 "repo": "keras-yolo3",
-                "stars": 7114,
+                "stars": 7113,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
@@ -1851,7 +1851,7 @@
                 "open_issues": 10,
                 "owner": "andy-yun",
                 "repo": "pytorch-0.4-yolov3",
-                "stars": 276,
+                "stars": 275,
                 "topics": [
                   "python3",
                   "pytorch",
@@ -2789,11 +2789,11 @@
                 "id": 41331761,
                 "language": "Dockerfile",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-04T12:42:05Z",
-                "open_issues": 72,
+                "last_commit": "2026-09-07T09:05:01Z",
+                "open_issues": 70,
                 "owner": "autowarefoundation",
                 "repo": "autoware",
-                "stars": 12049,
+                "stars": 12052,
                 "topics": [
                   "autonomous-driving",
                   "autonomous-vehicles",
@@ -3112,10 +3112,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-19T05:38:53Z",
-            "open_issues": 589,
+            "open_issues": 590,
             "owner": "facebookresearch",
             "repo": "detectron2",
-            "stars": 34702,
+            "stars": 34703,
             "topics": []
           },
           "first_seen": "2026-08-28T12:12:41.483Z"
@@ -3136,7 +3136,7 @@
             "open_issues": 1962,
             "owner": "open-mmlab",
             "repo": "mmdetection",
-            "stars": 32912,
+            "stars": 32914,
             "topics": [
               "cascade-rcnn",
               "convnext",
@@ -3178,7 +3178,7 @@
             "open_issues": 331,
             "owner": "facebookresearch",
             "repo": "Detectron",
-            "stars": 26357,
+            "stars": 26356,
             "topics": []
           },
           "first_seen": "2026-08-28T12:12:41.483Z"
@@ -3209,7 +3209,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T05:12:34.144Z",
+    "last_updated": "2026-09-08T05:13:05.823Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Object Detection based on handong1587 github: https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html",
