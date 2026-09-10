@@ -582,7 +582,7 @@
                 "open_issues": 331,
                 "owner": "facebookresearch",
                 "repo": "Detectron",
-                "stars": 26355,
+                "stars": 26356,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
@@ -603,7 +603,7 @@
                 "open_issues": 2022,
                 "owner": "matterport",
                 "repo": "Mask_RCNN",
-                "stars": 25569,
+                "stars": 25570,
                 "topics": [
                   "instance-segmentation",
                   "keras",
@@ -2789,8 +2789,8 @@
                 "id": 41331761,
                 "language": "Dockerfile",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-08T19:24:37Z",
-                "open_issues": 70,
+                "last_commit": "2026-09-09T19:17:32Z",
+                "open_issues": 69,
                 "owner": "autowarefoundation",
                 "repo": "autoware",
                 "stars": 12050,
@@ -3115,7 +3115,7 @@
             "open_issues": 590,
             "owner": "facebookresearch",
             "repo": "detectron2",
-            "stars": 34704,
+            "stars": 34707,
             "topics": []
           },
           "first_seen": "2026-08-28T12:12:41.483Z"
@@ -3136,7 +3136,7 @@
             "open_issues": 1962,
             "owner": "open-mmlab",
             "repo": "mmdetection",
-            "stars": 32915,
+            "stars": 32917,
             "topics": [
               "cascade-rcnn",
               "convnext",
@@ -3178,7 +3178,7 @@
             "open_issues": 331,
             "owner": "facebookresearch",
             "repo": "Detectron",
-            "stars": 26355,
+            "stars": 26356,
             "topics": []
           },
           "first_seen": "2026-08-28T12:12:41.483Z"
@@ -3199,7 +3199,7 @@
             "open_issues": 530,
             "owner": "facebookresearch",
             "repo": "maskrcnn-benchmark",
-            "stars": 9359,
+            "stars": 9358,
             "topics": []
           },
           "first_seen": "2026-08-28T12:12:41.483Z"
@@ -3209,7 +3209,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T05:15:01.778Z",
+    "last_updated": "2026-09-10T05:15:25.685Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Object Detection based on handong1587 github: https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html",
