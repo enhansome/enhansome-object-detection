@@ -21,7 +21,7 @@
                 "open_issues": 1175,
                 "owner": "BVLC",
                 "repo": "caffe",
-                "stars": 34555,
+                "stars": 34553,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -71,7 +71,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2018-01-23T05:59:26Z",
-                "open_issues": 117,
+                "open_issues": 118,
                 "owner": "rbgirshick",
                 "repo": "fast-rcnn",
                 "stars": 3460,
@@ -92,7 +92,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2018-01-23T05:59:26Z",
-                "open_issues": 117,
+                "open_issues": 118,
                 "owner": "rbgirshick",
                 "repo": "fast-rcnn",
                 "stars": 3460,
@@ -113,7 +113,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2018-01-23T05:59:26Z",
-                "open_issues": 117,
+                "open_issues": 118,
                 "owner": "rbgirshick",
                 "repo": "fast-rcnn",
                 "stars": 3460,
@@ -251,7 +251,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2019-11-07T04:31:35Z",
-                "open_issues": 667,
+                "open_issues": 668,
                 "owner": "rbgirshick",
                 "repo": "py-faster-rcnn",
                 "stars": 8287,
@@ -275,7 +275,7 @@
                 "open_issues": 422,
                 "owner": "jwyang",
                 "repo": "faster-rcnn.pytorch",
-                "stars": 7856,
+                "stars": 7857,
                 "topics": [
                   "faster-rcnn",
                   "pytorch"
@@ -317,7 +317,7 @@
                 "language": "Matlab",
                 "license": "NOASSERTION",
                 "last_commit": "2018-07-26T04:26:32Z",
-                "open_issues": 141,
+                "open_issues": 142,
                 "owner": "ShaoqingRen",
                 "repo": "faster_rcnn",
                 "stars": 2833,
@@ -870,7 +870,7 @@
                 "open_issues": 1978,
                 "owner": "pjreddie",
                 "repo": "darknet",
-                "stars": 26497,
+                "stars": 26496,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
@@ -1216,7 +1216,7 @@
                 "open_issues": 5445,
                 "owner": "AlexeyAB",
                 "repo": "darknet",
-                "stars": 22147,
+                "stars": 22144,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -1598,7 +1598,7 @@
                 "open_issues": 1978,
                 "owner": "pjreddie",
                 "repo": "darknet",
-                "stars": 26497,
+                "stars": 26496,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
@@ -1619,7 +1619,7 @@
                 "open_issues": 4,
                 "owner": "ultralytics",
                 "repo": "yolov3",
-                "stars": 10605,
+                "stars": 10606,
                 "topics": [
                   "computer-vision",
                   "coreml",
@@ -2793,7 +2793,7 @@
                 "open_issues": 69,
                 "owner": "autowarefoundation",
                 "repo": "autoware",
-                "stars": 12059,
+                "stars": 12061,
                 "topics": [
                   "autonomous-driving",
                   "autonomous-vehicles",
@@ -3112,10 +3112,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-19T05:38:53Z",
-            "open_issues": 591,
+            "open_issues": 592,
             "owner": "facebookresearch",
             "repo": "detectron2",
-            "stars": 34706,
+            "stars": 34707,
             "topics": []
           },
           "first_seen": "2026-08-28T12:12:41.483Z"
@@ -3136,7 +3136,7 @@
             "open_issues": 1962,
             "owner": "open-mmlab",
             "repo": "mmdetection",
-            "stars": 32921,
+            "stars": 32923,
             "topics": [
               "cascade-rcnn",
               "convnext",
@@ -3209,7 +3209,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T05:25:53.492Z",
+    "last_updated": "2026-09-15T05:20:10.618Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Object Detection based on handong1587 github: https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html",
@@ -3221,7 +3221,7 @@
       "open_issues": 7,
       "owner": "amusi",
       "repo": "awesome-object-detection",
-      "stars": 7502,
+      "stars": 7503,
       "topics": [
         "computer-vision",
         "deep-learning",
