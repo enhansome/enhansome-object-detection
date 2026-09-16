@@ -84,7 +84,7 @@ Based on handong1587's github: <https://handong1587.github.io/deep_learning/2015
 **Rich feature hierarchies for accurate object detection and semantic segmentation**
 
 * caffe-pr("Make R-CNN the Caffe detection example"): <https://github.com/BVLC/caffe/pull/482> ⭐ 34,553 | 🐛 1,175 | 🌐 C++ | 📅 2024-07-31
-* github: <https://github.com/rbgirshick/rcnn> ⭐ 2,414 | 🐛 54 | 🌐 Matlab | 📅 2017-04-03
+* github: <https://github.com/rbgirshick/rcnn> ⭐ 2,414 | 🐛 55 | 🌐 Matlab | 📅 2017-04-03
 * intro: R-CNN
 * arxiv: <http://arxiv.org/abs/1311.2524>
 * supp: <http://people.eecs.berkeley.edu/~rbg/papers/r-cnn-cvpr-supp.pdf>
@@ -250,7 +250,7 @@ Based on handong1587's github: <https://handong1587.github.io/deep_learning/2015
 
 [![img](https://camo.githubusercontent.com/e69d4118b20a42de4e23b9549f9a6ec6dbbb0814/687474703a2f2f706a7265646469652e636f6d2f6d656469612f66696c65732f6461726b6e65742d626c61636b2d736d616c6c2e706e67)](https://camo.githubusercontent.com/e69d4118b20a42de4e23b9549f9a6ec6dbbb0814/687474703a2f2f706a7265646469652e636f6d2f6d656469612f66696c65732f6461726b6e65742d626c61636b2d736d616c6c2e706e67)
 
-* github: <https://github.com/pjreddie/darknet> ⭐ 26,496 | 🐛 1,978 | 🌐 C | 📅 2024-05-03
+* github: <https://github.com/pjreddie/darknet> ⭐ 26,497 | 🐛 1,978 | 🌐 C | 📅 2024-05-03
 * github: <https://github.com/gliese581gg/YOLO_tensorflow> ⭐ 1,708 | 🐛 38 | 🌐 Python | 📅 2019-01-05
 * github: <https://github.com/nilboy/tensorflow-yolo> ⭐ 768 | 🐛 45 | 🌐 Python | 📅 2018-10-22
 * github: <https://github.com/xingwangsfu/caffe-yolo> ⭐ 515 | 🐛 33 | 🌐 Python | 📅 2017-01-05
@@ -298,10 +298,10 @@ Based on handong1587's github: <https://handong1587.github.io/deep_learning/2015
 
 **YOLO9000: Better, Faster, Stronger**
 
-* github(Windows): <https://github.com/AlexeyAB/darknet> ⭐ 22,144 | 🐛 5,445 | 🌐 C | 📅 2025-12-15
+* github(Windows): <https://github.com/AlexeyAB/darknet> ⭐ 22,146 | 🐛 5,445 | 🌐 C | 📅 2025-12-15
 * github(Keras): <https://github.com/allanzelener/YAD2K> ⭐ 2,729 | 🐛 126 | 🌐 Python | 📅 2020-12-16
 * github(Keras): <https://github.com/experiencor/keras-yolo2> ⭐ 1,732 | 🐛 201 | 🌐 Jupyter Notebook | 📅 2023-03-24
-* github(PyTorch): <https://github.com/longcw/yolo2-pytorch> ⭐ 1,560 | 🐛 87 | 🌐 Python | 📅 2021-09-29
+* github(PyTorch): <https://github.com/longcw/yolo2-pytorch> ⭐ 1,561 | 🐛 87 | 🌐 Python | 📅 2021-09-29
 * github: <https://github.com/philipperemy/yolo-9000> ⭐ 1,194 | 🐛 14 | 📅 2021-03-24
 * github(Tensorflow): <https://github.com/hizhangp/yolo_tensorflow> ⭐ 805 | 🐛 54 | 🌐 Python | 📅 2019-05-22
 * github(Chainer): <https://github.com/leetenki/YOLOv2> ⭐ 338 | 🐛 19 | 🌐 Python | 📅 2022-09-26
@@ -355,7 +355,7 @@ Based on handong1587's github: <https://handong1587.github.io/deep_learning/2015
 
 **YOLOv3: An Incremental Improvement**
 
-* github(Official):<https://github.com/pjreddie/darknet> ⭐ 26,496 | 🐛 1,978 | 🌐 C | 📅 2024-05-03
+* github(Official):<https://github.com/pjreddie/darknet> ⭐ 26,497 | 🐛 1,978 | 🌐 C | 📅 2024-05-03
 * github:<https://github.com/ultralytics/yolov3> ⭐ 10,606 | 🐛 4 | 🌐 Python | 📅 2026-09-10
 * github:<https://github.com/eriklindernoren/PyTorch-YOLOv3> ⭐ 7,438 | 🐛 114 | 🌐 Python | 📅 2024-11-17
 * github:<https://github.com/qqwweee/keras-yolo3> ⭐ 7,113 | 🐛 519 | 🌐 Python | 📅 2023-03-12
@@ -848,7 +848,7 @@ Based on handong1587's github: <https://handong1587.github.io/deep_learning/2015
 
 **LMNet: Real-time Multiclass Object Detection on CPU using 3D LiDARs**
 
-* github: <https://github.com/CPFL/Autoware/tree/feature/cnn_lidar_detection> ⭐ 12,061 | 🐛 69 | 🌐 Dockerfile | 📅 2026-09-09
+* github: <https://github.com/CPFL/Autoware/tree/feature/cnn_lidar_detection> ⭐ 12,062 | 🐛 69 | 🌐 Dockerfile | 📅 2026-09-16
 * arxiv: <https://arxiv.org/abs/1805.04902>
 
 ## ZSD（Zero-Shot Object Detection）
@@ -1116,11 +1116,11 @@ RepMet: Representative-based metric learning for classification and one-shot obj
 
 # Detection Toolbox
 
-* [Detectron2](https://github.com/facebookresearch/detectron2) ⭐ 34,707 | 🐛 592 | 🌐 Python | 📅 2026-08-19: Detectron2 is FAIR's next-generation research platform for object detection and segmentation.
-* [mmdetection(SenseTime\&CUHK)](https://github.com/open-mmlab/mmdetection) ⭐ 32,923 | 🐛 1,962 | 🌐 Python | 📅 2024-08-21: mmdetection is an open source object detection toolbox based on PyTorch. It is a part of the open-mmlab project developed by [Multimedia Laboratory, CUHK](http://mmlab.ie.cuhk.edu.hk/).
+* [Detectron2](https://github.com/facebookresearch/detectron2) ⭐ 34,709 | 🐛 591 | 🌐 Python | 📅 2026-08-19: Detectron2 is FAIR's next-generation research platform for object detection and segmentation.
+* [mmdetection(SenseTime\&CUHK)](https://github.com/open-mmlab/mmdetection) ⭐ 32,926 | 🐛 1,962 | 🌐 Python | 📅 2024-08-21: mmdetection is an open source object detection toolbox based on PyTorch. It is a part of the open-mmlab project developed by [Multimedia Laboratory, CUHK](http://mmlab.ie.cuhk.edu.hk/).
 * [Detectron(FAIR)](https://github.com/facebookresearch/Detectron) ⚠️ Archived: Detectron is Facebook AI Research's software system that implements state-of-the-art object detection algorithms, including [Mask R-CNN](https://arxiv.org/abs/1703.06870). It is written in Python and powered by the [Caffe2](https://github.com/caffe2/caffe2) ⚠️ Archived deep learning framework.
 * [maskrcnn-benchmark(FAIR)](https://github.com/facebookresearch/maskrcnn-benchmark) ⚠️ Archived: Fast, modular reference implementation of Instance Segmentation and Object Detection algorithms in PyTorch.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
