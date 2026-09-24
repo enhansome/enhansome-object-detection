@@ -21,7 +21,7 @@
                 "open_issues": 1175,
                 "owner": "BVLC",
                 "repo": "caffe",
-                "stars": 34551,
+                "stars": 34552,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -43,7 +43,7 @@
                 "language": "Matlab",
                 "license": "BSD-2-Clause",
                 "last_commit": "2017-04-03T16:16:14Z",
-                "open_issues": 55,
+                "open_issues": 54,
                 "owner": "rbgirshick",
                 "repo": "rcnn",
                 "stars": 2415,
@@ -2793,7 +2793,7 @@
                 "open_issues": 71,
                 "owner": "autowarefoundation",
                 "repo": "autoware",
-                "stars": 12083,
+                "stars": 12085,
                 "topics": [
                   "autonomous-driving",
                   "autonomous-vehicles",
@@ -3115,7 +3115,7 @@
             "open_issues": 591,
             "owner": "facebookresearch",
             "repo": "detectron2",
-            "stars": 34725,
+            "stars": 34728,
             "topics": []
           },
           "first_seen": "2026-08-28T12:12:41.483Z"
@@ -3136,7 +3136,7 @@
             "open_issues": 1963,
             "owner": "open-mmlab",
             "repo": "mmdetection",
-            "stars": 32954,
+            "stars": 32955,
             "topics": [
               "cascade-rcnn",
               "convnext",
@@ -3209,7 +3209,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T05:09:34.703Z",
+    "last_updated": "2026-09-24T05:23:13.918Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Object Detection based on handong1587 github: https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html",
