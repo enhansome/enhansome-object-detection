@@ -21,7 +21,7 @@
                 "open_issues": 1175,
                 "owner": "BVLC",
                 "repo": "caffe",
-                "stars": 34552,
+                "stars": 34551,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -299,7 +299,7 @@
                 "open_issues": 159,
                 "owner": "msracver",
                 "repo": "Deformable-ConvNets",
-                "stars": 4120,
+                "stars": 4121,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
@@ -582,7 +582,7 @@
                 "open_issues": 331,
                 "owner": "facebookresearch",
                 "repo": "Detectron",
-                "stars": 26354,
+                "stars": 26352,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
@@ -1298,7 +1298,7 @@
                 "open_issues": 87,
                 "owner": "longcw",
                 "repo": "yolo2-pytorch",
-                "stars": 1562,
+                "stars": 1561,
                 "topics": [
                   "darknet",
                   "detection",
@@ -1619,7 +1619,7 @@
                 "open_issues": 4,
                 "owner": "ultralytics",
                 "repo": "yolov3",
-                "stars": 10610,
+                "stars": 10609,
                 "topics": [
                   "computer-vision",
                   "coreml",
@@ -1655,7 +1655,7 @@
                 "open_issues": 114,
                 "owner": "eriklindernoren",
                 "repo": "PyTorch-YOLOv3",
-                "stars": 7438,
+                "stars": 7439,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
@@ -2225,7 +2225,7 @@
                 "open_issues": 159,
                 "owner": "msracver",
                 "repo": "Deformable-ConvNets",
-                "stars": 4120,
+                "stars": 4121,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
@@ -2793,7 +2793,7 @@
                 "open_issues": 71,
                 "owner": "autowarefoundation",
                 "repo": "autoware",
-                "stars": 12085,
+                "stars": 12089,
                 "topics": [
                   "autonomous-driving",
                   "autonomous-vehicles",
@@ -3115,7 +3115,7 @@
             "open_issues": 591,
             "owner": "facebookresearch",
             "repo": "detectron2",
-            "stars": 34728,
+            "stars": 34731,
             "topics": []
           },
           "first_seen": "2026-08-28T12:12:41.483Z"
@@ -3136,7 +3136,7 @@
             "open_issues": 1963,
             "owner": "open-mmlab",
             "repo": "mmdetection",
-            "stars": 32955,
+            "stars": 32957,
             "topics": [
               "cascade-rcnn",
               "convnext",
@@ -3178,7 +3178,7 @@
             "open_issues": 331,
             "owner": "facebookresearch",
             "repo": "Detectron",
-            "stars": 26354,
+            "stars": 26352,
             "topics": []
           },
           "first_seen": "2026-08-28T12:12:41.483Z"
@@ -3209,7 +3209,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T05:23:13.918Z",
+    "last_updated": "2026-09-25T05:23:17.738Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Object Detection based on handong1587 github: https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html",
