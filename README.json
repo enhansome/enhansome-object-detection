@@ -21,7 +21,7 @@
                 "open_issues": 1175,
                 "owner": "BVLC",
                 "repo": "caffe",
-                "stars": 34551,
+                "stars": 34552,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -74,7 +74,7 @@
                 "open_issues": 118,
                 "owner": "rbgirshick",
                 "repo": "fast-rcnn",
-                "stars": 3462,
+                "stars": 3463,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
@@ -95,7 +95,7 @@
                 "open_issues": 118,
                 "owner": "rbgirshick",
                 "repo": "fast-rcnn",
-                "stars": 3462,
+                "stars": 3463,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
@@ -116,7 +116,7 @@
                 "open_issues": 118,
                 "owner": "rbgirshick",
                 "repo": "fast-rcnn",
-                "stars": 3462,
+                "stars": 3463,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
@@ -870,7 +870,7 @@
                 "open_issues": 1978,
                 "owner": "pjreddie",
                 "repo": "darknet",
-                "stars": 26506,
+                "stars": 26507,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
@@ -1216,7 +1216,7 @@
                 "open_issues": 5446,
                 "owner": "AlexeyAB",
                 "repo": "darknet",
-                "stars": 22147,
+                "stars": 22145,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -1598,7 +1598,7 @@
                 "open_issues": 1978,
                 "owner": "pjreddie",
                 "repo": "darknet",
-                "stars": 26506,
+                "stars": 26507,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
@@ -3115,7 +3115,7 @@
             "open_issues": 591,
             "owner": "facebookresearch",
             "repo": "detectron2",
-            "stars": 34732,
+            "stars": 34735,
             "topics": []
           },
           "first_seen": "2026-08-28T12:12:41.483Z"
@@ -3136,7 +3136,7 @@
             "open_issues": 1963,
             "owner": "open-mmlab",
             "repo": "mmdetection",
-            "stars": 32958,
+            "stars": 32960,
             "topics": [
               "cascade-rcnn",
               "convnext",
@@ -3209,7 +3209,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T05:27:20.047Z",
+    "last_updated": "2026-09-27T05:44:18.966Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Object Detection based on handong1587 github: https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html",
