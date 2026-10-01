@@ -275,7 +275,7 @@
                 "open_issues": 422,
                 "owner": "jwyang",
                 "repo": "faster-rcnn.pytorch",
-                "stars": 7858,
+                "stars": 7859,
                 "topics": [
                   "faster-rcnn",
                   "pytorch"
@@ -603,7 +603,7 @@
                 "open_issues": 2022,
                 "owner": "matterport",
                 "repo": "Mask_RCNN",
-                "stars": 25575,
+                "stars": 25576,
                 "topics": [
                   "instance-segmentation",
                   "keras",
@@ -870,7 +870,7 @@
                 "open_issues": 1978,
                 "owner": "pjreddie",
                 "repo": "darknet",
-                "stars": 26509,
+                "stars": 26508,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
@@ -1598,7 +1598,7 @@
                 "open_issues": 1978,
                 "owner": "pjreddie",
                 "repo": "darknet",
-                "stars": 26509,
+                "stars": 26508,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
@@ -1615,8 +1615,8 @@
                 "id": 146165888,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-10T05:47:45Z",
-                "open_issues": 4,
+                "last_commit": "2026-10-01T04:04:45Z",
+                "open_issues": 10,
                 "owner": "ultralytics",
                 "repo": "yolov3",
                 "stars": 10612,
@@ -2793,7 +2793,7 @@
                 "open_issues": 72,
                 "owner": "autowarefoundation",
                 "repo": "autoware",
-                "stars": 12103,
+                "stars": 12134,
                 "topics": [
                   "autonomous-driving",
                   "autonomous-vehicles",
@@ -3083,7 +3083,7 @@
                 "open_issues": 115,
                 "owner": "mahyarnajibi",
                 "repo": "SNIPER",
-                "stars": 2690,
+                "stars": 2691,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
@@ -3111,11 +3111,11 @@
             "id": 206660580,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-29T00:26:07Z",
+            "last_commit": "2026-09-30T06:02:30Z",
             "open_issues": 594,
             "owner": "facebookresearch",
             "repo": "detectron2",
-            "stars": 34738,
+            "stars": 34743,
             "topics": []
           },
           "first_seen": "2026-08-28T12:12:41.483Z"
@@ -3136,7 +3136,7 @@
             "open_issues": 1963,
             "owner": "open-mmlab",
             "repo": "mmdetection",
-            "stars": 32968,
+            "stars": 32971,
             "topics": [
               "cascade-rcnn",
               "convnext",
@@ -3209,7 +3209,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T05:57:58.633Z",
+    "last_updated": "2026-10-01T06:32:01.743Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Object Detection based on handong1587 github: https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html",
