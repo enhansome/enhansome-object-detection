@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "caffe-pr(\"Make R-CNN the Caffe detection example\"): https://github.com/BVLC/caffe/pull/482",
-              "description": null,
+              "description": "BVLC/caffe",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -21,7 +21,7 @@
                 "open_issues": 1175,
                 "owner": "BVLC",
                 "repo": "caffe",
-                "stars": 34549,
+                "stars": 34550,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -33,7 +33,7 @@
             {
               "node_type": "item",
               "title": "github: https://github.com/rbgirshick/rcnn",
-              "description": null,
+              "description": "rbgirshick/rcnn",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -46,7 +46,7 @@
                 "open_issues": 54,
                 "owner": "rbgirshick",
                 "repo": "rcnn",
-                "stars": 2417,
+                "stars": 2418,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
@@ -61,7 +61,7 @@
             {
               "node_type": "item",
               "title": "github: https://github.com/rbgirshick/fast-rcnn",
-              "description": null,
+              "description": "rbgirshick/fast-rcnn",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -82,7 +82,7 @@
             {
               "node_type": "item",
               "title": "github(COCO-branch): https://github.com/rbgirshick/fast-rcnn/tree/coco",
-              "description": null,
+              "description": "rbgirshick/fast-rcnn",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -103,7 +103,7 @@
             {
               "node_type": "item",
               "title": "webcam demo: https://github.com/rbgirshick/fast-rcnn/pull/29",
-              "description": null,
+              "description": "rbgirshick/fast-rcnn",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -124,7 +124,7 @@
             {
               "node_type": "item",
               "title": "github(\"Fast R-CNN in MXNet\"): https://github.com/precedenceguo/mx-rcnn",
-              "description": null,
+              "description": "ijkguo/mx-rcnn",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -145,7 +145,7 @@
             {
               "node_type": "item",
               "title": "github: https://github.com/zplizzi/tensorflow-fast-rcnn",
-              "description": null,
+              "description": "zplizzi/tensorflow-fast-rcnn",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -166,7 +166,7 @@
             {
               "node_type": "item",
               "title": "github: https://github.com/mahyarnajibi/fast-rcnn-torch",
-              "description": null,
+              "description": "mahyarnajibi/fast-rcnn-torch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -187,7 +187,7 @@
             {
               "node_type": "item",
               "title": "github: https://github.com/apple2373/chainer-simple-fast-rnn",
-              "description": null,
+              "description": "apple2373/chainer-simple-fast-rnn",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -208,7 +208,7 @@
             {
               "node_type": "item",
               "title": "github(Caffe): https://github.com/xiaolonw/adversarial-frcnn",
-              "description": null,
+              "description": "xiaolonw/adversarial-frcnn",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -241,7 +241,7 @@
             {
               "node_type": "item",
               "title": "github(Caffe): https://github.com/rbgirshick/py-faster-rcnn",
-              "description": null,
+              "description": "rbgirshick/py-faster-rcnn",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -262,7 +262,7 @@
             {
               "node_type": "item",
               "title": "github(PyTorch--recommend): https://github.com//jwyang/faster-rcnn.pytorch",
-              "description": null,
+              "description": "jwyang/faster-rcnn.pytorch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -286,7 +286,7 @@
             {
               "node_type": "item",
               "title": "github(MXNet): https://github.com/msracver/Deformable-ConvNets/tree/master/faster_rcnn",
-              "description": null,
+              "description": "msracver/Deformable-ConvNets",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -307,7 +307,7 @@
             {
               "node_type": "item",
               "title": "github(official, Matlab): https://github.com/ShaoqingRen/faster_rcnn",
-              "description": null,
+              "description": "ShaoqingRen/faster_rcnn",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -320,7 +320,7 @@
                 "open_issues": 142,
                 "owner": "ShaoqingRen",
                 "repo": "faster_rcnn",
-                "stars": 2835,
+                "stars": 2836,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
@@ -328,7 +328,7 @@
             {
               "node_type": "item",
               "title": "github(TensorFlow): https://github.com/smallcorgi/Faster-RCNN_TF",
-              "description": null,
+              "description": "smallcorgi/Faster-RCNN_TF",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -353,7 +353,7 @@
             {
               "node_type": "item",
               "title": "github(TensorFlow): https://github.com/CharlesShang/TFFRCNN",
-              "description": null,
+              "description": "CharlesShang/TFFRCNN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -381,7 +381,7 @@
             {
               "node_type": "item",
               "title": "github: https://github.com/mitmul/chainer-faster-rcnn",
-              "description": null,
+              "description": "mitmul/chainer-faster-rcnn",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -404,7 +404,7 @@
             {
               "node_type": "item",
               "title": "github: https://github.com/Eniac-Xie/faster-rcnn-resnet",
-              "description": null,
+              "description": "Eniac-Xie/faster-rcnn-resnet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -425,7 +425,7 @@
             {
               "node_type": "item",
               "title": "github(C++ demo): https://github.com/YihangLou/FasterRCNN-Encapsulation-Cplusplus",
-              "description": null,
+              "description": "YihangLou/FasterRCNN-Encapsulation-Cplusplus",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -446,7 +446,7 @@
             {
               "node_type": "item",
               "title": "github(Torch):: https://github.com/andreaskoepf/faster-rcnn.torch",
-              "description": null,
+              "description": "andreaskoepf/faster-rcnn.torch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -467,7 +467,7 @@
             {
               "node_type": "item",
               "title": "github(Torch):: https://github.com/ruotianluo/Faster-RCNN-Densecap-torch",
-              "description": null,
+              "description": "ruotianluo/Faster-RCNN-Densecap-torch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -488,7 +488,7 @@
             {
               "node_type": "item",
               "title": "github: https://github.com/dmlc/mxnet/tree/master/example/rcnn",
-              "description": null,
+              "description": "apache/mxnet",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -511,7 +511,7 @@
             {
               "node_type": "item",
               "title": "github: https://github.com/endernewton/tf-faster-rcnn",
-              "description": null,
+              "description": "endernewton/tf-faster-rcnn",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -541,7 +541,7 @@
             {
               "node_type": "item",
               "title": "github: https://github.com/ruotianluo/pytorch-faster-rcnn",
-              "description": null,
+              "description": "ruotianluo/pytorch-faster-rcnn",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -569,7 +569,7 @@
             {
               "node_type": "item",
               "title": "github(Caffe2): https://github.com/facebookresearch/Detectron",
-              "description": null,
+              "description": "facebookresearch/Detectron",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -582,7 +582,7 @@
                 "open_issues": 331,
                 "owner": "facebookresearch",
                 "repo": "Detectron",
-                "stars": 26353,
+                "stars": 26351,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
@@ -590,7 +590,7 @@
             {
               "node_type": "item",
               "title": "github(Keras): https://github.com/matterport/Mask_RCNN",
-              "description": null,
+              "description": "matterport/Mask_RCNN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -617,7 +617,7 @@
             {
               "node_type": "item",
               "title": "github(MXNet): https://github.com/TuSimple/mx-maskrcnn",
-              "description": null,
+              "description": "TuSimple/mx-maskrcnn",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -630,7 +630,7 @@
                 "open_issues": 54,
                 "owner": "TuSimple",
                 "repo": "mx-maskrcnn",
-                "stars": 1753,
+                "stars": 1752,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
@@ -638,7 +638,7 @@
             {
               "node_type": "item",
               "title": "github(Pytorch): https://github.com/wannabeOG/Mask-RCNN",
-              "description": null,
+              "description": "wannabeOG/Mask-RCNN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -659,7 +659,7 @@
             {
               "node_type": "item",
               "title": "github(Chainer): https://github.com/DeNA/Chainer_Mask_R-CNN",
-              "description": null,
+              "description": "DeNA/Chainer_Mask_R-CNN",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -687,7 +687,7 @@
             {
               "node_type": "item",
               "title": "github(offical): https://github.com/zengarden/light_head_rcnn",
-              "description": null,
+              "description": "zengarden/light_head_rcnn",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -708,7 +708,7 @@
             {
               "node_type": "item",
               "title": "github: https://github.com/terrychenism/Deformable-ConvNets/blob/master/rfcn/symbols/resnet_v1_101_rfcn_light.py#L784",
-              "description": null,
+              "description": "terrychenism/Deformable-ConvNets",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -736,7 +736,7 @@
             {
               "node_type": "item",
               "title": "github: https://github.com/zhaoweicai/cascade-rcnn",
-              "description": null,
+              "description": "zhaoweicai/cascade-rcnn",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -766,7 +766,7 @@
             {
               "node_type": "item",
               "title": "github: https://github.com/ShaoqingRen/SPP_net",
-              "description": null,
+              "description": "ShaoqingRen/SPP_net",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -787,7 +787,7 @@
             {
               "node_type": "item",
               "title": "github: https://github.com/YknZhu/segDeepM",
-              "description": null,
+              "description": "YknZhu/segDeepM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -808,7 +808,7 @@
             {
               "node_type": "item",
               "title": "github: https://github.com/YutingZhang/fgs-obj",
-              "description": null,
+              "description": "YutingZhang/fgs-obj",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -829,7 +829,7 @@
             {
               "node_type": "item",
               "title": "github: https://github.com/weichengkuo/DeepBox",
-              "description": null,
+              "description": "weichengkuo/DeepBox",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -857,7 +857,7 @@
             {
               "node_type": "item",
               "title": "github: https://github.com/pjreddie/darknet",
-              "description": null,
+              "description": "pjreddie/darknet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -870,7 +870,7 @@
                 "open_issues": 1978,
                 "owner": "pjreddie",
                 "repo": "darknet",
-                "stars": 26510,
+                "stars": 26509,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
@@ -878,7 +878,7 @@
             {
               "node_type": "item",
               "title": "github: https://github.com/gliese581gg/YOLO_tensorflow",
-              "description": null,
+              "description": "gliese581gg/YOLO_tensorflow",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -899,7 +899,7 @@
             {
               "node_type": "item",
               "title": "github: https://github.com/nilboy/tensorflow-yolo",
-              "description": null,
+              "description": "nilboy/tensorflow-yolo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -924,7 +924,7 @@
             {
               "node_type": "item",
               "title": "github: https://github.com/xingwangsfu/caffe-yolo",
-              "description": null,
+              "description": "xingwangsfu/caffe-yolo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -945,7 +945,7 @@
             {
               "node_type": "item",
               "title": "github: https://github.com/AlexeyAB/yolo-windows",
-              "description": null,
+              "description": "AlexeyAB/yolo-windows",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -966,7 +966,7 @@
             {
               "node_type": "item",
               "title": "github: https://github.com/frischzenger/yolo-windows",
-              "description": null,
+              "description": "frischzenger/yolo-windows",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -987,7 +987,7 @@
             {
               "node_type": "item",
               "title": "github: https://github.com/frankzhangrui/Darknet-Yolo",
-              "description": null,
+              "description": "frankzhangrui/Darknet-Yolo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1008,7 +1008,7 @@
             {
               "node_type": "item",
               "title": "github: https://github.com/BriSkyHekun/py-darknet-yolo",
-              "description": null,
+              "description": "HeKun-NVIDIA/py-darknet-yolo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1029,7 +1029,7 @@
             {
               "node_type": "item",
               "title": "github: https://github.com/tommy-qichang/yolo.torch",
-              "description": null,
+              "description": "tommy-qichang/yolo.torch",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1050,7 +1050,7 @@
             {
               "node_type": "item",
               "title": "github: https://github.com/thtrieu/darkflow",
-              "description": null,
+              "description": "thtrieu/darkflow",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1084,7 +1084,7 @@
             {
               "node_type": "item",
               "title": "github: https://github.com/Guanghan/darknet",
-              "description": null,
+              "description": "Guanghan/darknet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1105,7 +1105,7 @@
             {
               "node_type": "item",
               "title": "github: https://github.com/hollance/YOLO-CoreML-MPSNNGraph",
-              "description": null,
+              "description": "hollance/YOLO-CoreML-MPSNNGraph",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1135,7 +1135,7 @@
             {
               "node_type": "item",
               "title": "github: https://github.com/natanielruiz/android-yolo",
-              "description": null,
+              "description": "natanielruiz/android-yolo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1169,7 +1169,7 @@
             {
               "node_type": "item",
               "title": "github:https://github.com/r4ghu/iOS-CoreML-Yolo",
-              "description": null,
+              "description": "r4ghu/iOS-CoreML-Yolo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1203,7 +1203,7 @@
             {
               "node_type": "item",
               "title": "github(Windows): https://github.com/AlexeyAB/darknet",
-              "description": null,
+              "description": "AlexeyAB/darknet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1216,7 +1216,7 @@
                 "open_issues": 5446,
                 "owner": "AlexeyAB",
                 "repo": "darknet",
-                "stars": 22145,
+                "stars": 22146,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -1237,7 +1237,7 @@
             {
               "node_type": "item",
               "title": "github(Keras): https://github.com/allanzelener/YAD2K",
-              "description": null,
+              "description": "allanzelener/YAD2K",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1258,7 +1258,7 @@
             {
               "node_type": "item",
               "title": "github(Keras): https://github.com/experiencor/keras-yolo2",
-              "description": null,
+              "description": "experiencor/keras-yolo2",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1285,7 +1285,7 @@
             {
               "node_type": "item",
               "title": "github(PyTorch): https://github.com/longcw/yolo2-pytorch",
-              "description": null,
+              "description": "longcw/yolo2-pytorch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1312,7 +1312,7 @@
             {
               "node_type": "item",
               "title": "github: https://github.com/philipperemy/yolo-9000",
-              "description": null,
+              "description": "philipperemy/yolo-9000",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1341,7 +1341,7 @@
             {
               "node_type": "item",
               "title": "github(Tensorflow): https://github.com/hizhangp/yolo_tensorflow",
-              "description": null,
+              "description": "hizhangp/yolo_tensorflow",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1366,7 +1366,7 @@
             {
               "node_type": "item",
               "title": "github(Chainer): https://github.com/leetenki/YOLOv2",
-              "description": null,
+              "description": "leetenki/YOLOv2",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1387,7 +1387,7 @@
             {
               "node_type": "item",
               "title": "github: https://github.com/choasUp/caffe-yolo9000",
-              "description": null,
+              "description": "choasup/caffe-yolo9000",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1411,7 +1411,7 @@
             {
               "node_type": "item",
               "title": "github(Keras): https://github.com/yhcc/yolo2",
-              "description": null,
+              "description": "yhcc/yolo2",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1432,7 +1432,7 @@
             {
               "node_type": "item",
               "title": "github(TensorFlow): https://github.com/KOD-Chen/YOLOv2-Tensorflow",
-              "description": null,
+              "description": "KOD-Chen/YOLOv2-Tensorflow",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1453,7 +1453,7 @@
             {
               "node_type": "item",
               "title": "github: https://github.com/Jumabek/darknet_scripts",
-              "description": null,
+              "description": "Jumabek/darknet_scripts",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1481,7 +1481,7 @@
             {
               "node_type": "item",
               "title": "github: https://github.com/AlexeyAB/Yolo_mark",
-              "description": null,
+              "description": "AlexeyAB/Yolo_mark",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1510,7 +1510,7 @@
             {
               "node_type": "item",
               "title": "explosion/lightnet",
-              "description": null,
+              "description": "explosion/lightnet",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1546,7 +1546,7 @@
             {
               "node_type": "item",
               "title": "github: https://github.com/Cartucho/yolo-boundingbox-labeler-GUI",
-              "description": null,
+              "description": "Cartucho/OpenLabeling",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1585,7 +1585,7 @@
             {
               "node_type": "item",
               "title": "github(Official):https://github.com/pjreddie/darknet",
-              "description": null,
+              "description": "pjreddie/darknet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1598,7 +1598,7 @@
                 "open_issues": 1978,
                 "owner": "pjreddie",
                 "repo": "darknet",
-                "stars": 26510,
+                "stars": 26509,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
@@ -1606,7 +1606,7 @@
             {
               "node_type": "item",
               "title": "github:https://github.com/ultralytics/yolov3",
-              "description": null,
+              "description": "ultralytics/yolov3",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1619,7 +1619,7 @@
                 "open_issues": 1,
                 "owner": "ultralytics",
                 "repo": "yolov3",
-                "stars": 10613,
+                "stars": 10612,
                 "topics": [
                   "computer-vision",
                   "coreml",
@@ -1642,7 +1642,7 @@
             {
               "node_type": "item",
               "title": "github:https://github.com/eriklindernoren/PyTorch-YOLOv3",
-              "description": null,
+              "description": "eriklindernoren/PyTorch-YOLOv3",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1663,7 +1663,7 @@
             {
               "node_type": "item",
               "title": "github:https://github.com/qqwweee/keras-yolo3",
-              "description": null,
+              "description": "qqwweee/keras-yolo3",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1684,7 +1684,7 @@
             {
               "node_type": "item",
               "title": "github:https://github.com/ayooshkathuria/pytorch-yolo-v3",
-              "description": null,
+              "description": "ayooshkathuria/pytorch-yolo-v3",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1710,7 +1710,7 @@
             {
               "node_type": "item",
               "title": "github:https://github.com/ayooshkathuria/YOLO_v3_tutorial_from_scratch",
-              "description": null,
+              "description": "ayooshkathuria/YOLO_v3_tutorial_from_scratch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1737,7 +1737,7 @@
             {
               "node_type": "item",
               "title": "github:https://github.com/experiencor/keras-yolo3",
-              "description": null,
+              "description": "experiencor/keras-yolo3",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1762,7 +1762,7 @@
             {
               "node_type": "item",
               "title": "github:https://github.com/mystic123/tensorflow-yolo-v3",
-              "description": null,
+              "description": "mystic123/tensorflow-yolo-v3",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1791,7 +1791,7 @@
             {
               "node_type": "item",
               "title": "github:https://github.com/BobLiu20/YOLOv3_PyTorch",
-              "description": null,
+              "description": "BobLiu20/YOLOv3_PyTorch",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1817,7 +1817,7 @@
             {
               "node_type": "item",
               "title": "github:https://github.com/DeNA/PyTorch_YOLOv3",
-              "description": null,
+              "description": "DeNA/PyTorch_YOLOv3",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1838,7 +1838,7 @@
             {
               "node_type": "item",
               "title": "github:https://github.com/andy-yun/pytorch-0.4-yolov3",
-              "description": null,
+              "description": "andy-yun/pytorch-0.4-yolov3",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1873,7 +1873,7 @@
             {
               "node_type": "item",
               "title": "github:https://github.com/avanetten/yolt",
-              "description": null,
+              "description": "avanetten/yolt",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1886,7 +1886,7 @@
                 "open_issues": 15,
                 "owner": "avanetten",
                 "repo": "yolt",
-                "stars": 279,
+                "stars": 278,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
@@ -1901,7 +1901,7 @@
             {
               "node_type": "item",
               "title": "github: https://github.com/amdegroot/ssd.pytorch",
-              "description": null,
+              "description": "amdegroot/ssd.pytorch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1931,7 +1931,7 @@
             {
               "node_type": "item",
               "title": "github(Official): https://github.com/weiliu89/caffe/tree/ssd",
-              "description": null,
+              "description": "weiliu89/caffe",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1944,7 +1944,7 @@
                 "open_issues": 676,
                 "owner": "weiliu89",
                 "repo": "caffe",
-                "stars": 4807,
+                "stars": 4808,
                 "topics": [
                   "deep-learning",
                   "object-detection",
@@ -1957,7 +1957,7 @@
             {
               "node_type": "item",
               "title": "github: https://github.com/balancap/SSD-Tensorflow",
-              "description": null,
+              "description": "balancap/SSD-Tensorflow",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1984,7 +1984,7 @@
             {
               "node_type": "item",
               "title": "github(Caffe): https://github.com/chuanqi305/MobileNet-SSD",
-              "description": null,
+              "description": "chuanqi305/MobileNet-SSD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2011,7 +2011,7 @@
             {
               "node_type": "item",
               "title": "github: https://github.com/rykov8/ssd_keras",
-              "description": null,
+              "description": "rykov8/ssd_keras",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2037,7 +2037,7 @@
             {
               "node_type": "item",
               "title": "github: https://github.com/zhreshold/mxnet-ssd",
-              "description": null,
+              "description": "zhreshold/mxnet-ssd",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2060,7 +2060,7 @@
             {
               "node_type": "item",
               "title": "github: https://github.com/zhreshold/mxnet-ssd.cpp",
-              "description": null,
+              "description": "zhreshold/mxnet-ssd.cpp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2081,7 +2081,7 @@
             {
               "node_type": "item",
               "title": "weiliu89/caffe",
-              "description": null,
+              "description": "weiliu89/caffe",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2094,7 +2094,7 @@
                 "open_issues": 676,
                 "owner": "weiliu89",
                 "repo": "caffe",
-                "stars": 4807,
+                "stars": 4808,
                 "topics": [
                   "deep-learning",
                   "object-detection",
@@ -2114,7 +2114,7 @@
             {
               "node_type": "item",
               "title": "github: https://github.com/chengyangfu/caffe/tree/dssd",
-              "description": null,
+              "description": "chengyangfu/caffe",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2135,7 +2135,7 @@
             {
               "node_type": "item",
               "title": "github: https://github.com/MTCloudVision/mxnet-dssd",
-              "description": null,
+              "description": "MTCloudVision/mxnet-dssd",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2163,7 +2163,7 @@
             {
               "node_type": "item",
               "title": "Robert-JunWang/Pelee",
-              "description": null,
+              "description": "Robert-JunWang/Pelee",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2184,7 +2184,7 @@
             {
               "node_type": "item",
               "title": "github: https://github.com/Robert-JunWang/Pelee",
-              "description": null,
+              "description": "Robert-JunWang/Pelee",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2212,7 +2212,7 @@
             {
               "node_type": "item",
               "title": "github(MXNet): https://github.com/msracver/Deformable-ConvNets/tree/master/rfcn",
-              "description": null,
+              "description": "msracver/Deformable-ConvNets",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2233,7 +2233,7 @@
             {
               "node_type": "item",
               "title": "github: https://github.com/daijifeng001/R-FCN",
-              "description": null,
+              "description": "daijifeng001/R-FCN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2254,7 +2254,7 @@
             {
               "node_type": "item",
               "title": "github: https://github.com/Orpine/py-R-FCN",
-              "description": null,
+              "description": "YuwenXiong/py-R-FCN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2275,7 +2275,7 @@
             {
               "node_type": "item",
               "title": "github: https://github.com/xdever/RFCN-tensorflow",
-              "description": null,
+              "description": "RobertCsordas/RFCN-tensorflow",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2302,7 +2302,7 @@
             {
               "node_type": "item",
               "title": "github: https://github.com/PureDiors/pytorch_RFCN",
-              "description": null,
+              "description": "xiong-zhitong/pytorch_RFCN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2327,7 +2327,7 @@
             {
               "node_type": "item",
               "title": "github: https://github.com/bharatsingh430/py-R-FCN-multiGPU",
-              "description": null,
+              "description": "bharatsingh430/py-R-FCN-multiGPU",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2359,7 +2359,7 @@
             {
               "node_type": "item",
               "title": "github: https://github.com/xiaohaoChen/rrc_detection",
-              "description": null,
+              "description": "xiaohaoChen/rrc_detection",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2380,7 +2380,7 @@
             {
               "node_type": "item",
               "title": "github: https://github.com/taokong/RON",
-              "description": null,
+              "description": "taokong/RON",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2401,7 +2401,7 @@
             {
               "node_type": "item",
               "title": "github: https://github.com/sciencefans/RSA-for-object-detection",
-              "description": null,
+              "description": "liuyuisanai/RSA-for-object-detection",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2429,7 +2429,7 @@
             {
               "node_type": "item",
               "title": "github: https://github.com/szq0214/DSOD",
-              "description": null,
+              "description": "szq0214/DSOD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2453,7 +2453,7 @@
             {
               "node_type": "item",
               "title": "github:https://github.com/chenyuntc/dsod.pytorch",
-              "description": null,
+              "description": "chenyuntc/dsod.pytorch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2474,7 +2474,7 @@
             {
               "node_type": "item",
               "title": "github:https://github.com/Windaway/DSOD-Tensorflow",
-              "description": null,
+              "description": "Windaway/DSOD-Tensorflow",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2495,7 +2495,7 @@
             {
               "node_type": "item",
               "title": "github:https://github.com/szq0214/GRP-DSOD",
-              "description": null,
+              "description": "SHI-Labs/GFR-DSOD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2523,7 +2523,7 @@
             {
               "node_type": "item",
               "title": "github: https://github.com//ruinmessi/RFBNet",
-              "description": null,
+              "description": "GOATmessi8/RFBNet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2549,7 +2549,7 @@
             {
               "node_type": "item",
               "title": "github: https://github.com/bharatsingh430/snip",
-              "description": null,
+              "description": "bharatsingh430/snip",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2572,7 +2572,7 @@
             {
               "node_type": "item",
               "title": "github: https://github.com/liulei01/DRBox",
-              "description": null,
+              "description": "liulei01/DRBox",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2597,7 +2597,7 @@
             {
               "node_type": "item",
               "title": "github: https://github.com/szq0214/GRP-DSOD",
-              "description": null,
+              "description": "SHI-Labs/GFR-DSOD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2618,7 +2618,7 @@
             {
               "node_type": "item",
               "title": "github: https://github.com/Hwang64/MLKP",
-              "description": null,
+              "description": "Hwang64/MLKP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2646,7 +2646,7 @@
             {
               "node_type": "item",
               "title": "github: https://github.com/sfzhang15/RefineDet",
-              "description": null,
+              "description": "sfzhang15/RefineDet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2669,7 +2669,7 @@
             {
               "node_type": "item",
               "title": "github: https://github.com/lzx1413/PytorchSSD",
-              "description": null,
+              "description": "lzx1413/PytorchSSD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2696,7 +2696,7 @@
             {
               "node_type": "item",
               "title": "github: https://github.com/MTCloudVision/RefineDet-Mxnet",
-              "description": null,
+              "description": "MTCloudVision/RefineDet-Mxnet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2724,7 +2724,7 @@
             {
               "node_type": "item",
               "title": "github: https://github.com/umich-vl/CornerNet",
-              "description": null,
+              "description": "princeton-vl/CornerNet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2752,7 +2752,7 @@
             {
               "node_type": "item",
               "title": "github: https://github.com/qijiezhao/M2Det",
-              "description": null,
+              "description": "VDIGPKU/M2Det",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2780,7 +2780,7 @@
             {
               "node_type": "item",
               "title": "github: https://github.com/CPFL/Autoware/tree/feature/cnn_lidar_detection",
-              "description": null,
+              "description": "autowarefoundation/autoware",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2814,7 +2814,7 @@
             {
               "node_type": "item",
               "title": "github: https://github.com/naoto0804/cross-domain-detection",
-              "description": null,
+              "description": "naoto0804/cross-domain-detection",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2848,7 +2848,7 @@
             {
               "node_type": "item",
               "title": "github: https://github.com/yihui-he/softer-NMS",
-              "description": null,
+              "description": "ethanhe42/softer-NMS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2878,7 +2878,7 @@
             {
               "node_type": "item",
               "title": "github: https://github.com/xingyizhou/ExtremeNet",
-              "description": null,
+              "description": "xingyizhou/ExtremeNet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2899,7 +2899,7 @@
             {
               "node_type": "item",
               "title": "github: https://github.com/chengyangfu/retinamask",
-              "description": null,
+              "description": "chengyangfu/retinamask",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2927,7 +2927,7 @@
             {
               "node_type": "item",
               "title": "github: https://github.com/qijiezhao/CFENet",
-              "description": null,
+              "description": "VDIGPKU/CFENet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2948,7 +2948,7 @@
             {
               "node_type": "item",
               "title": "github: https://github.com/HCIILAB/DeRPN",
-              "description": null,
+              "description": "HCIILAB/DeRPN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2978,7 +2978,7 @@
             {
               "node_type": "item",
               "title": "github: https://github.com/chanyn/HKRM",
-              "description": null,
+              "description": "chanyn/HKRM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2999,7 +2999,7 @@
             {
               "node_type": "item",
               "title": "github: https://github.com/ruinmessi/RFBNet",
-              "description": null,
+              "description": "GOATmessi8/RFBNet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3025,7 +3025,7 @@
             {
               "node_type": "item",
               "title": "github: https://github.com/vacancy/PreciseRoIPooling",
-              "description": null,
+              "description": "vacancy/PreciseRoIPooling",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3049,7 +3049,7 @@
             {
               "node_type": "item",
               "title": "github:https://github.com/msracver/Relation-Networks-for-Object-Detection",
-              "description": null,
+              "description": "msracver/Relation-Networks-for-Object-Detection",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3070,7 +3070,7 @@
             {
               "node_type": "item",
               "title": "github:https://github.com/mahyarnajibi/SNIPER",
-              "description": null,
+              "description": "mahyarnajibi/SNIPER",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3115,7 +3115,7 @@
             "open_issues": 594,
             "owner": "facebookresearch",
             "repo": "detectron2",
-            "stars": 34748,
+            "stars": 34753,
             "topics": []
           },
           "first_seen": "2026-08-28T12:12:41.483Z"
@@ -3136,7 +3136,7 @@
             "open_issues": 1963,
             "owner": "open-mmlab",
             "repo": "mmdetection",
-            "stars": 32972,
+            "stars": 32975,
             "topics": [
               "cascade-rcnn",
               "convnext",
@@ -3178,7 +3178,7 @@
             "open_issues": 331,
             "owner": "facebookresearch",
             "repo": "Detectron",
-            "stars": 26353,
+            "stars": 26351,
             "topics": []
           },
           "first_seen": "2026-08-28T12:12:41.483Z"
@@ -3209,7 +3209,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T06:10:51.643Z",
+    "last_updated": "2026-10-03T04:58:15.178Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Object Detection based on handong1587 github: https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html",
