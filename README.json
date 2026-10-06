@@ -254,7 +254,7 @@
                 "open_issues": 667,
                 "owner": "rbgirshick",
                 "repo": "py-faster-rcnn",
-                "stars": 8292,
+                "stars": 8291,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
@@ -320,7 +320,7 @@
                 "open_issues": 142,
                 "owner": "ShaoqingRen",
                 "repo": "faster_rcnn",
-                "stars": 2836,
+                "stars": 2835,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
@@ -501,7 +501,7 @@
                 "open_issues": 2007,
                 "owner": "apache",
                 "repo": "mxnet",
-                "stars": 20805,
+                "stars": 20804,
                 "topics": [
                   "mxnet"
                 ]
@@ -870,7 +870,7 @@
                 "open_issues": 1978,
                 "owner": "pjreddie",
                 "repo": "darknet",
-                "stars": 26509,
+                "stars": 26511,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
@@ -1216,7 +1216,7 @@
                 "open_issues": 5446,
                 "owner": "AlexeyAB",
                 "repo": "darknet",
-                "stars": 22146,
+                "stars": 22145,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -1598,7 +1598,7 @@
                 "open_issues": 1978,
                 "owner": "pjreddie",
                 "repo": "darknet",
-                "stars": 26509,
+                "stars": 26511,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
@@ -1619,7 +1619,7 @@
                 "open_issues": 1,
                 "owner": "ultralytics",
                 "repo": "yolov3",
-                "stars": 10614,
+                "stars": 10615,
                 "topics": [
                   "computer-vision",
                   "coreml",
@@ -1676,7 +1676,7 @@
                 "open_issues": 519,
                 "owner": "qqwweee",
                 "repo": "keras-yolo3",
-                "stars": 7113,
+                "stars": 7112,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
@@ -2790,7 +2790,7 @@
                 "language": "Dockerfile",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-29T15:44:54Z",
-                "open_issues": 72,
+                "open_issues": 73,
                 "owner": "autowarefoundation",
                 "repo": "autoware",
                 "stars": 12141,
@@ -2891,7 +2891,7 @@
                 "open_issues": 32,
                 "owner": "xingyizhou",
                 "repo": "ExtremeNet",
-                "stars": 1030,
+                "stars": 1029,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
@@ -3115,7 +3115,7 @@
             "open_issues": 595,
             "owner": "facebookresearch",
             "repo": "detectron2",
-            "stars": 34756,
+            "stars": 34758,
             "topics": []
           },
           "first_seen": "2026-08-28T12:12:41.483Z"
@@ -3136,7 +3136,7 @@
             "open_issues": 1963,
             "owner": "open-mmlab",
             "repo": "mmdetection",
-            "stars": 32981,
+            "stars": 32980,
             "topics": [
               "cascade-rcnn",
               "convnext",
@@ -3209,7 +3209,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T06:12:12.826Z",
+    "last_updated": "2026-10-06T06:50:44.167Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Object Detection based on handong1587 github: https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html",
@@ -3221,7 +3221,7 @@
       "open_issues": 7,
       "owner": "amusi",
       "repo": "awesome-object-detection",
-      "stars": 7509,
+      "stars": 7508,
       "topics": [
         "computer-vision",
         "deep-learning",
