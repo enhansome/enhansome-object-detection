@@ -21,7 +21,7 @@
                 "open_issues": 1175,
                 "owner": "BVLC",
                 "repo": "caffe",
-                "stars": 34551,
+                "stars": 34549,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -501,7 +501,7 @@
                 "open_issues": 2007,
                 "owner": "apache",
                 "repo": "mxnet",
-                "stars": 20804,
+                "stars": 20803,
                 "topics": [
                   "mxnet"
                 ]
@@ -867,10 +867,10 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2024-05-03T13:53:58Z",
-                "open_issues": 1978,
+                "open_issues": 1979,
                 "owner": "pjreddie",
                 "repo": "darknet",
-                "stars": 26512,
+                "stars": 26513,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
@@ -1216,7 +1216,7 @@
                 "open_issues": 5446,
                 "owner": "AlexeyAB",
                 "repo": "darknet",
-                "stars": 22143,
+                "stars": 22141,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -1595,10 +1595,10 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2024-05-03T13:53:58Z",
-                "open_issues": 1978,
+                "open_issues": 1979,
                 "owner": "pjreddie",
                 "repo": "darknet",
-                "stars": 26512,
+                "stars": 26513,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
@@ -1851,7 +1851,7 @@
                 "open_issues": 10,
                 "owner": "andy-yun",
                 "repo": "pytorch-0.4-yolov3",
-                "stars": 275,
+                "stars": 276,
                 "topics": [
                   "python3",
                   "pytorch",
@@ -2765,7 +2765,7 @@
                 "open_issues": 72,
                 "owner": "VDIGPKU",
                 "repo": "M2Det",
-                "stars": 1438,
+                "stars": 1437,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
@@ -2793,7 +2793,7 @@
                 "open_issues": 73,
                 "owner": "autowarefoundation",
                 "repo": "autoware",
-                "stars": 12142,
+                "stars": 12141,
                 "topics": [
                   "autonomous-driving",
                   "autonomous-vehicles",
@@ -3115,7 +3115,7 @@
             "open_issues": 594,
             "owner": "facebookresearch",
             "repo": "detectron2",
-            "stars": 34761,
+            "stars": 34764,
             "topics": []
           },
           "first_seen": "2026-08-28T12:12:41.483Z"
@@ -3199,7 +3199,7 @@
             "open_issues": 530,
             "owner": "facebookresearch",
             "repo": "maskrcnn-benchmark",
-            "stars": 9359,
+            "stars": 9360,
             "topics": []
           },
           "first_seen": "2026-08-28T12:12:41.483Z"
@@ -3209,7 +3209,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T06:26:54.068Z",
+    "last_updated": "2026-10-08T06:38:10.186Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Object Detection based on handong1587 github: https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html",
@@ -3221,7 +3221,7 @@
       "open_issues": 7,
       "owner": "amusi",
       "repo": "awesome-object-detection",
-      "stars": 7507,
+      "stars": 7508,
       "topics": [
         "computer-vision",
         "deep-learning",
