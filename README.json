@@ -21,7 +21,7 @@
                 "open_issues": 1175,
                 "owner": "BVLC",
                 "repo": "caffe",
-                "stars": 34551,
+                "stars": 34548,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -275,7 +275,7 @@
                 "open_issues": 422,
                 "owner": "jwyang",
                 "repo": "faster-rcnn.pytorch",
-                "stars": 7861,
+                "stars": 7860,
                 "topics": [
                   "faster-rcnn",
                   "pytorch"
@@ -320,7 +320,7 @@
                 "open_issues": 142,
                 "owner": "ShaoqingRen",
                 "repo": "faster_rcnn",
-                "stars": 2836,
+                "stars": 2835,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
@@ -1676,7 +1676,7 @@
                 "open_issues": 519,
                 "owner": "qqwweee",
                 "repo": "keras-yolo3",
-                "stars": 7112,
+                "stars": 7111,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
@@ -1944,7 +1944,7 @@
                 "open_issues": 676,
                 "owner": "weiliu89",
                 "repo": "caffe",
-                "stars": 4808,
+                "stars": 4809,
                 "topics": [
                   "deep-learning",
                   "object-detection",
@@ -1970,7 +1970,7 @@
                 "open_issues": 295,
                 "owner": "balancap",
                 "repo": "SSD-Tensorflow",
-                "stars": 4101,
+                "stars": 4102,
                 "topics": [
                   "deep-learning",
                   "object-detection",
@@ -1997,7 +1997,7 @@
                 "open_issues": 150,
                 "owner": "chuanqi305",
                 "repo": "MobileNet-SSD",
-                "stars": 2126,
+                "stars": 2127,
                 "topics": [
                   "caffe",
                   "detection",
@@ -2094,7 +2094,7 @@
                 "open_issues": 676,
                 "owner": "weiliu89",
                 "repo": "caffe",
-                "stars": 4808,
+                "stars": 4809,
                 "topics": [
                   "deep-learning",
                   "object-detection",
@@ -2682,7 +2682,7 @@
                 "open_issues": 44,
                 "owner": "lzx1413",
                 "repo": "PytorchSSD",
-                "stars": 704,
+                "stars": 703,
                 "topics": [
                   "fssd",
                   "pytorch",
@@ -2789,11 +2789,11 @@
                 "id": 41331761,
                 "language": "Dockerfile",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-29T15:44:54Z",
-                "open_issues": 73,
+                "last_commit": "2026-10-11T04:34:16Z",
+                "open_issues": 74,
                 "owner": "autowarefoundation",
                 "repo": "autoware",
-                "stars": 12147,
+                "stars": 12148,
                 "topics": [
                   "autonomous-driving",
                   "autonomous-vehicles",
@@ -3115,7 +3115,7 @@
             "open_issues": 594,
             "owner": "facebookresearch",
             "repo": "detectron2",
-            "stars": 34861,
+            "stars": 34884,
             "topics": []
           },
           "first_seen": "2026-08-28T12:12:41.483Z"
@@ -3136,7 +3136,7 @@
             "open_issues": 1964,
             "owner": "open-mmlab",
             "repo": "mmdetection",
-            "stars": 32984,
+            "stars": 32986,
             "topics": [
               "cascade-rcnn",
               "convnext",
@@ -3209,7 +3209,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T06:22:27.840Z",
+    "last_updated": "2026-10-11T06:25:30.309Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Object Detection based on handong1587 github: https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html",
