@@ -21,7 +21,7 @@
                 "open_issues": 1175,
                 "owner": "BVLC",
                 "repo": "caffe",
-                "stars": 34549,
+                "stars": 34552,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -46,7 +46,7 @@
                 "open_issues": 54,
                 "owner": "rbgirshick",
                 "repo": "rcnn",
-                "stars": 2418,
+                "stars": 2416,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
@@ -254,7 +254,7 @@
                 "open_issues": 667,
                 "owner": "rbgirshick",
                 "repo": "py-faster-rcnn",
-                "stars": 8290,
+                "stars": 8289,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
@@ -582,7 +582,7 @@
                 "open_issues": 331,
                 "owner": "facebookresearch",
                 "repo": "Detectron",
-                "stars": 26352,
+                "stars": 26350,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
@@ -603,7 +603,7 @@
                 "open_issues": 2022,
                 "owner": "matterport",
                 "repo": "Mask_RCNN",
-                "stars": 25578,
+                "stars": 25576,
                 "topics": [
                   "instance-segmentation",
                   "keras",
@@ -1216,7 +1216,7 @@
                 "open_issues": 5446,
                 "owner": "AlexeyAB",
                 "repo": "darknet",
-                "stars": 22140,
+                "stars": 22138,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -1268,7 +1268,7 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2023-03-24T22:26:55Z",
-                "open_issues": 201,
+                "open_issues": 199,
                 "owner": "experiencor",
                 "repo": "keras-yolo2",
                 "stars": 1731,
@@ -1914,7 +1914,7 @@
                 "open_issues": 380,
                 "owner": "amdegroot",
                 "repo": "ssd.pytorch",
-                "stars": 5223,
+                "stars": 5222,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -1944,7 +1944,7 @@
                 "open_issues": 676,
                 "owner": "weiliu89",
                 "repo": "caffe",
-                "stars": 4809,
+                "stars": 4808,
                 "topics": [
                   "deep-learning",
                   "object-detection",
@@ -2094,7 +2094,7 @@
                 "open_issues": 676,
                 "owner": "weiliu89",
                 "repo": "caffe",
-                "stars": 4809,
+                "stars": 4808,
                 "topics": [
                   "deep-learning",
                   "object-detection",
@@ -2659,7 +2659,7 @@
                 "open_issues": 4,
                 "owner": "sfzhang15",
                 "repo": "RefineDet",
-                "stars": 1421,
+                "stars": 1420,
                 "topics": [
                   "object-detection"
                 ]
@@ -2682,7 +2682,7 @@
                 "open_issues": 44,
                 "owner": "lzx1413",
                 "repo": "PytorchSSD",
-                "stars": 703,
+                "stars": 702,
                 "topics": [
                   "fssd",
                   "pytorch",
@@ -2765,7 +2765,7 @@
                 "open_issues": 72,
                 "owner": "VDIGPKU",
                 "repo": "M2Det",
-                "stars": 1437,
+                "stars": 1436,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
@@ -2789,11 +2789,11 @@
                 "id": 41331761,
                 "language": "Dockerfile",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-14T00:39:57Z",
-                "open_issues": 74,
+                "last_commit": "2026-10-14T16:07:59Z",
+                "open_issues": 78,
                 "owner": "autowarefoundation",
                 "repo": "autoware",
-                "stars": 12156,
+                "stars": 12158,
                 "topics": [
                   "autonomous-driving",
                   "autonomous-vehicles",
@@ -3136,7 +3136,7 @@
             "open_issues": 1965,
             "owner": "open-mmlab",
             "repo": "mmdetection",
-            "stars": 32991,
+            "stars": 32990,
             "topics": [
               "cascade-rcnn",
               "convnext",
@@ -3178,7 +3178,7 @@
             "open_issues": 331,
             "owner": "facebookresearch",
             "repo": "Detectron",
-            "stars": 26352,
+            "stars": 26350,
             "topics": []
           },
           "first_seen": "2026-08-28T12:12:41.483Z"
@@ -3199,7 +3199,7 @@
             "open_issues": 530,
             "owner": "facebookresearch",
             "repo": "maskrcnn-benchmark",
-            "stars": 9361,
+            "stars": 9360,
             "topics": []
           },
           "first_seen": "2026-08-28T12:12:41.483Z"
@@ -3209,7 +3209,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T05:22:08.453Z",
+    "last_updated": "2026-10-15T05:10:21.832Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Object Detection based on handong1587 github: https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html",
@@ -3221,7 +3221,7 @@
       "open_issues": 7,
       "owner": "amusi",
       "repo": "awesome-object-detection",
-      "stars": 7510,
+      "stars": 7508,
       "topics": [
         "computer-vision",
         "deep-learning",
