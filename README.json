@@ -21,7 +21,7 @@
                 "open_issues": 1176,
                 "owner": "BVLC",
                 "repo": "caffe",
-                "stars": 34554,
+                "stars": 34555,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -46,7 +46,7 @@
                 "open_issues": 54,
                 "owner": "rbgirshick",
                 "repo": "rcnn",
-                "stars": 2416,
+                "stars": 2417,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
@@ -74,7 +74,7 @@
                 "open_issues": 118,
                 "owner": "rbgirshick",
                 "repo": "fast-rcnn",
-                "stars": 3467,
+                "stars": 3468,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
@@ -95,7 +95,7 @@
                 "open_issues": 118,
                 "owner": "rbgirshick",
                 "repo": "fast-rcnn",
-                "stars": 3467,
+                "stars": 3468,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
@@ -116,7 +116,7 @@
                 "open_issues": 118,
                 "owner": "rbgirshick",
                 "repo": "fast-rcnn",
-                "stars": 3467,
+                "stars": 3468,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
@@ -254,7 +254,7 @@
                 "open_issues": 667,
                 "owner": "rbgirshick",
                 "repo": "py-faster-rcnn",
-                "stars": 8291,
+                "stars": 8292,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
@@ -299,7 +299,7 @@
                 "open_issues": 159,
                 "owner": "msracver",
                 "repo": "Deformable-ConvNets",
-                "stars": 4124,
+                "stars": 4123,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
@@ -582,7 +582,7 @@
                 "open_issues": 331,
                 "owner": "facebookresearch",
                 "repo": "Detectron",
-                "stars": 26341,
+                "stars": 26340,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
@@ -870,7 +870,7 @@
                 "open_issues": 1977,
                 "owner": "pjreddie",
                 "repo": "darknet",
-                "stars": 26512,
+                "stars": 26509,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
@@ -1063,7 +1063,7 @@
                 "open_issues": 641,
                 "owner": "thtrieu",
                 "repo": "darkflow",
-                "stars": 6138,
+                "stars": 6139,
                 "topics": [
                   "convolutional-networks",
                   "convolutional-neural-networks",
@@ -1494,7 +1494,7 @@
                 "open_issues": 146,
                 "owner": "AlexeyAB",
                 "repo": "Yolo_mark",
-                "stars": 1843,
+                "stars": 1842,
                 "topics": [
                   "darknet",
                   "dnn",
@@ -1598,7 +1598,7 @@
                 "open_issues": 1977,
                 "owner": "pjreddie",
                 "repo": "darknet",
-                "stars": 26512,
+                "stars": 26509,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
@@ -1619,7 +1619,7 @@
                 "open_issues": 1,
                 "owner": "ultralytics",
                 "repo": "yolov3",
-                "stars": 10634,
+                "stars": 10633,
                 "topics": [
                   "computer-vision",
                   "coreml",
@@ -1655,7 +1655,7 @@
                 "open_issues": 114,
                 "owner": "eriklindernoren",
                 "repo": "PyTorch-YOLOv3",
-                "stars": 7434,
+                "stars": 7433,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
@@ -1676,7 +1676,7 @@
                 "open_issues": 518,
                 "owner": "qqwweee",
                 "repo": "keras-yolo3",
-                "stars": 7108,
+                "stars": 7109,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
@@ -1830,7 +1830,7 @@
                 "open_issues": 8,
                 "owner": "DeNA",
                 "repo": "PyTorch_YOLOv3",
-                "stars": 430,
+                "stars": 429,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
@@ -2225,7 +2225,7 @@
                 "open_issues": 159,
                 "owner": "msracver",
                 "repo": "Deformable-ConvNets",
-                "stars": 4124,
+                "stars": 4123,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
@@ -2536,7 +2536,7 @@
                 "open_issues": 58,
                 "owner": "GOATmessi8",
                 "repo": "RFBNet",
-                "stars": 1416,
+                "stars": 1415,
                 "topics": [
                   "detection",
                   "mobilenet",
@@ -2737,7 +2737,7 @@
                 "open_issues": 134,
                 "owner": "princeton-vl",
                 "repo": "CornerNet",
-                "stars": 2372,
+                "stars": 2371,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
@@ -2789,11 +2789,11 @@
                 "id": 41331761,
                 "language": "Dockerfile",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-03T19:08:30Z",
-                "open_issues": 72,
+                "last_commit": "2026-11-04T13:54:54Z",
+                "open_issues": 74,
                 "owner": "autowarefoundation",
                 "repo": "autoware",
-                "stars": 12213,
+                "stars": 12216,
                 "topics": [
                   "autonomous-driving",
                   "autonomous-vehicles",
@@ -2827,7 +2827,7 @@
                 "open_issues": 8,
                 "owner": "naoto0804",
                 "repo": "cross-domain-detection",
-                "stars": 437,
+                "stars": 436,
                 "topics": [
                   "chainer",
                   "cross-domain",
@@ -3012,7 +3012,7 @@
                 "open_issues": 58,
                 "owner": "GOATmessi8",
                 "repo": "RFBNet",
-                "stars": 1416,
+                "stars": 1415,
                 "topics": [
                   "detection",
                   "mobilenet",
@@ -3178,7 +3178,7 @@
             "open_issues": 331,
             "owner": "facebookresearch",
             "repo": "Detectron",
-            "stars": 26341,
+            "stars": 26340,
             "topics": []
           },
           "first_seen": "2026-08-28T12:12:41.483Z"
@@ -3209,7 +3209,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T06:57:45.949Z",
+    "last_updated": "2026-11-05T07:22:45.365Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Object Detection based on handong1587 github: https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html",
@@ -3221,7 +3221,7 @@
       "open_issues": 7,
       "owner": "amusi",
       "repo": "awesome-object-detection",
-      "stars": 7513,
+      "stars": 7514,
       "topics": [
         "computer-vision",
         "deep-learning",
