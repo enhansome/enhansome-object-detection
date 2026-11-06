@@ -21,7 +21,7 @@
                 "open_issues": 1176,
                 "owner": "BVLC",
                 "repo": "caffe",
-                "stars": 34555,
+                "stars": 34558,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -320,7 +320,7 @@
                 "open_issues": 142,
                 "owner": "ShaoqingRen",
                 "repo": "faster_rcnn",
-                "stars": 2835,
+                "stars": 2836,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
@@ -438,7 +438,7 @@
                 "open_issues": 12,
                 "owner": "YihangLou",
                 "repo": "FasterRCNN-Encapsulation-Cplusplus",
-                "stars": 188,
+                "stars": 187,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
@@ -603,7 +603,7 @@
                 "open_issues": 2020,
                 "owner": "matterport",
                 "repo": "Mask_RCNN",
-                "stars": 25575,
+                "stars": 25576,
                 "topics": [
                   "instance-segmentation",
                   "keras",
@@ -870,7 +870,7 @@
                 "open_issues": 1977,
                 "owner": "pjreddie",
                 "repo": "darknet",
-                "stars": 26509,
+                "stars": 26512,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
@@ -1216,7 +1216,7 @@
                 "open_issues": 5449,
                 "owner": "AlexeyAB",
                 "repo": "darknet",
-                "stars": 22136,
+                "stars": 22137,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -1559,7 +1559,7 @@
                 "open_issues": 18,
                 "owner": "Cartucho",
                 "repo": "OpenLabeling",
-                "stars": 967,
+                "stars": 965,
                 "topics": [
                   "bounding-boxes",
                   "darkflow",
@@ -1598,7 +1598,7 @@
                 "open_issues": 1977,
                 "owner": "pjreddie",
                 "repo": "darknet",
-                "stars": 26509,
+                "stars": 26512,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
@@ -1619,7 +1619,7 @@
                 "open_issues": 1,
                 "owner": "ultralytics",
                 "repo": "yolov3",
-                "stars": 10633,
+                "stars": 10632,
                 "topics": [
                   "computer-vision",
                   "coreml",
@@ -2793,7 +2793,7 @@
                 "open_issues": 74,
                 "owner": "autowarefoundation",
                 "repo": "autoware",
-                "stars": 12216,
+                "stars": 12220,
                 "topics": [
                   "autonomous-driving",
                   "autonomous-vehicles",
@@ -3115,7 +3115,7 @@
             "open_issues": 598,
             "owner": "facebookresearch",
             "repo": "detectron2",
-            "stars": 34967,
+            "stars": 34970,
             "topics": []
           },
           "first_seen": "2026-08-28T12:12:41.483Z"
@@ -3209,7 +3209,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T07:22:45.365Z",
+    "last_updated": "2026-11-06T07:23:03.137Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Object Detection based on handong1587 github: https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html",
