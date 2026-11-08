@@ -173,7 +173,7 @@ Based on handong1587's github: <https://handong1587.github.io/deep_learning/2015
 ## Mask R-CNN
 
 * github(Caffe2): <https://github.com/facebookresearch/Detectron> ⚠️ Archived
-* github(Keras): <https://github.com/matterport/Mask_RCNN> ⭐ 25,574 | 🐛 2,020 | 🌐 Python | 📅 2024-06-07
+* github(Keras): <https://github.com/matterport/Mask_RCNN> ⭐ 25,575 | 🐛 2,020 | 🌐 Python | 📅 2024-06-07
 * github(MXNet): <https://github.com/TuSimple/mx-maskrcnn> ⭐ 1,752 | 🐛 54 | 🌐 Python | 📅 2018-02-28
 * github(Pytorch): <https://github.com/wannabeOG/Mask-RCNN> ⭐ 989 | 🐛 17 | 🌐 Python | 📅 2019-11-05
 * github(Chainer): <https://github.com/DeNA/Chainer_Mask_R-CNN> ⚠️ Archived
@@ -298,7 +298,7 @@ Based on handong1587's github: <https://handong1587.github.io/deep_learning/2015
 
 **YOLO9000: Better, Faster, Stronger**
 
-* github(Windows): <https://github.com/AlexeyAB/darknet> ⭐ 22,135 | 🐛 5,449 | 🌐 C | 📅 2025-12-15
+* github(Windows): <https://github.com/AlexeyAB/darknet> ⭐ 22,134 | 🐛 5,449 | 🌐 C | 📅 2025-12-15
 * github(Keras): <https://github.com/allanzelener/YAD2K> ⭐ 2,729 | 🐛 126 | 🌐 Python | 📅 2020-12-16
 * github(Keras): <https://github.com/experiencor/keras-yolo2> ⭐ 1,732 | 🐛 199 | 🌐 Jupyter Notebook | 📅 2023-03-24
 * github(PyTorch): <https://github.com/longcw/yolo2-pytorch> ⭐ 1,561 | 🐛 87 | 🌐 Python | 📅 2021-09-29
@@ -356,9 +356,9 @@ Based on handong1587's github: <https://handong1587.github.io/deep_learning/2015
 **YOLOv3: An Incremental Improvement**
 
 * github(Official):<https://github.com/pjreddie/darknet> ⭐ 26,508 | 🐛 1,977 | 🌐 C | 📅 2024-05-03
-* github:<https://github.com/ultralytics/yolov3> ⭐ 10,632 | 🐛 1 | 🌐 Python | 📅 2026-11-04
+* github:<https://github.com/ultralytics/yolov3> ⭐ 10,632 | 🐛 1 | 🌐 Python | 📅 2026-11-07
 * github:<https://github.com/eriklindernoren/PyTorch-YOLOv3> ⭐ 7,434 | 🐛 114 | 🌐 Python | 📅 2026-10-27
-* github:<https://github.com/qqwweee/keras-yolo3> ⭐ 7,109 | 🐛 518 | 🌐 Python | 📅 2023-03-12
+* github:<https://github.com/qqwweee/keras-yolo3> ⭐ 7,108 | 🐛 518 | 🌐 Python | 📅 2023-03-12
 * github:<https://github.com/ayooshkathuria/pytorch-yolo-v3> ⭐ 3,314 | 🐛 112 | 🌐 Python | 📅 2024-01-16
 * github:<https://github.com/ayooshkathuria/YOLO_v3_tutorial_from_scratch> ⭐ 2,314 | 🐛 53 | 🌐 Python | 📅 2019-11-17
 * github:<https://github.com/experiencor/keras-yolo3> ⭐ 1,609 | 🐛 237 | 🌐 Python | 📅 2023-09-05
@@ -544,7 +544,7 @@ Based on handong1587's github: <https://handong1587.github.io/deep_learning/2015
 
 **Accurate Single Stage Detector Using Recurrent Rolling Convolution**
 
-* github: <https://github.com/xiaohaoChen/rrc_detection> ⭐ 358 | 🐛 36 | 🌐 C++ | 📅 2017-05-20
+* github: <https://github.com/xiaohaoChen/rrc_detection> ⭐ 359 | 🐛 36 | 🌐 C++ | 📅 2017-05-20
 * intro: CVPR 2017. SenseTime
 * keywords: Recurrent Rolling Convolution (RRC)
 * arxiv: <https://arxiv.org/abs/1704.05776>
@@ -848,7 +848,7 @@ Based on handong1587's github: <https://handong1587.github.io/deep_learning/2015
 
 **LMNet: Real-time Multiclass Object Detection on CPU using 3D LiDARs**
 
-* github: <https://github.com/CPFL/Autoware/tree/feature/cnn_lidar_detection> ⭐ 12,225 | 🐛 74 | 🌐 Dockerfile | 📅 2026-11-06
+* github: <https://github.com/CPFL/Autoware/tree/feature/cnn_lidar_detection> ⭐ 12,226 | 🐛 73 | 🌐 Dockerfile | 📅 2026-11-08
 * arxiv: <https://arxiv.org/abs/1805.04902>
 
 ## ZSD（Zero-Shot Object Detection）
@@ -1123,4 +1123,4 @@ RepMet: Representative-based metric learning for classification and one-shot obj
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
