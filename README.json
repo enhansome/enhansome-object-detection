@@ -21,7 +21,7 @@
                 "open_issues": 1176,
                 "owner": "BVLC",
                 "repo": "caffe",
-                "stars": 34557,
+                "stars": 34555,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -603,7 +603,7 @@
                 "open_issues": 2020,
                 "owner": "matterport",
                 "repo": "Mask_RCNN",
-                "stars": 25575,
+                "stars": 25573,
                 "topics": [
                   "instance-segmentation",
                   "keras",
@@ -1216,7 +1216,7 @@
                 "open_issues": 5449,
                 "owner": "AlexeyAB",
                 "repo": "darknet",
-                "stars": 22134,
+                "stars": 22132,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -1523,7 +1523,7 @@
                 "open_issues": 12,
                 "owner": "explosion",
                 "repo": "lightnet",
-                "stars": 320,
+                "stars": 321,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -1619,7 +1619,7 @@
                 "open_issues": 1,
                 "owner": "ultralytics",
                 "repo": "yolov3",
-                "stars": 10634,
+                "stars": 10636,
                 "topics": [
                   "computer-vision",
                   "coreml",
@@ -2789,11 +2789,11 @@
                 "id": 41331761,
                 "language": "Dockerfile",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-08T15:22:02Z",
-                "open_issues": 73,
+                "last_commit": "2026-11-09T22:45:31Z",
+                "open_issues": 70,
                 "owner": "autowarefoundation",
                 "repo": "autoware",
-                "stars": 12228,
+                "stars": 12230,
                 "topics": [
                   "autonomous-driving",
                   "autonomous-vehicles",
@@ -3112,10 +3112,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-27T09:21:49Z",
-            "open_issues": 598,
+            "open_issues": 599,
             "owner": "facebookresearch",
             "repo": "detectron2",
-            "stars": 34979,
+            "stars": 34980,
             "topics": []
           },
           "first_seen": "2026-08-28T12:12:41.483Z"
@@ -3136,7 +3136,7 @@
             "open_issues": 1967,
             "owner": "open-mmlab",
             "repo": "mmdetection",
-            "stars": 33028,
+            "stars": 33032,
             "topics": [
               "cascade-rcnn",
               "convnext",
@@ -3199,7 +3199,7 @@
             "open_issues": 530,
             "owner": "facebookresearch",
             "repo": "maskrcnn-benchmark",
-            "stars": 9360,
+            "stars": 9358,
             "topics": []
           },
           "first_seen": "2026-08-28T12:12:41.483Z"
@@ -3209,7 +3209,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T07:10:07.004Z",
+    "last_updated": "2026-11-10T07:43:34.029Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Object Detection based on handong1587 github: https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html",
