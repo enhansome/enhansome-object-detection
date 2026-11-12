@@ -83,7 +83,7 @@ Based on handong1587's github: <https://handong1587.github.io/deep_learning/2015
 
 **Rich feature hierarchies for accurate object detection and semantic segmentation**
 
-* caffe-pr("Make R-CNN the Caffe detection example"): <https://github.com/BVLC/caffe/pull/482> ⭐ 34,556 | 🐛 1,176 | 🌐 C++ | 📅 2024-07-31
+* caffe-pr("Make R-CNN the Caffe detection example"): <https://github.com/BVLC/caffe/pull/482> ⭐ 34,555 | 🐛 1,176 | 🌐 C++ | 📅 2024-07-31
 * github: <https://github.com/rbgirshick/rcnn> ⭐ 2,418 | 🐛 54 | 🌐 Matlab | 📅 2017-04-03
 * intro: R-CNN
 * arxiv: <http://arxiv.org/abs/1311.2524>
@@ -110,7 +110,7 @@ Based on handong1587's github: <https://handong1587.github.io/deep_learning/2015
 
 **A-Fast-RCNN: Hard Positive Generation via Adversary for Object Detection**
 
-* github(Caffe): <https://github.com/xiaolonw/adversarial-frcnn> ⭐ 479 | 🐛 18 | 🌐 Python | 📅 2018-01-29
+* github(Caffe): <https://github.com/xiaolonw/adversarial-frcnn> ⭐ 478 | 🐛 18 | 🌐 Python | 📅 2018-01-29
 * intro: CVPR 2017
 * arxiv: <https://arxiv.org/abs/1704.03414>
 * paper: <http://abhinavsh.info/papers/pdfs/adversarial_object_detection.pdf>
@@ -121,7 +121,7 @@ Based on handong1587's github: <https://handong1587.github.io/deep_learning/2015
 
 * github(Caffe): <https://github.com/rbgirshick/py-faster-rcnn> ⭐ 8,293 | 🐛 667 | 🌐 Python | 📅 2019-11-07
 * github(PyTorch--recommend): <https://github.com//jwyang/faster-rcnn.pytorch> ⭐ 7,860 | 🐛 422 | 🌐 Python | 📅 2022-05-20
-* github(MXNet): <https://github.com/msracver/Deformable-ConvNets/tree/master/faster_rcnn> ⭐ 4,123 | 🐛 159 | 🌐 Python | 📅 2021-09-27
+* github(MXNet): <https://github.com/msracver/Deformable-ConvNets/tree/master/faster_rcnn> ⭐ 4,122 | 🐛 159 | 🌐 Python | 📅 2021-09-27
 * github(official, Matlab): <https://github.com/ShaoqingRen/faster_rcnn> ⭐ 2,837 | 🐛 142 | 🌐 Matlab | 📅 2018-07-26
 * github(TensorFlow): <https://github.com/smallcorgi/Faster-RCNN_TF> ⭐ 2,343 | 🐛 271 | 🌐 Python | 📅 2021-10-28
 * github(TensorFlow): <https://github.com/CharlesShang/TFFRCNN> ⭐ 871 | 🐛 102 | 🌐 Python | 📅 2018-06-07
@@ -154,8 +154,8 @@ Based on handong1587's github: <https://handong1587.github.io/deep_learning/2015
 
 **An Implementation of Faster RCNN with Study for Region Sampling**
 
-* github: <https://github.com/endernewton/tf-faster-rcnn> ⭐ 3,648 | 🐛 215 | 🌐 Python | 📅 2021-09-27
-* github: <https://github.com/ruotianluo/pytorch-faster-rcnn> ⭐ 1,807 | 🐛 79 | 🌐 Jupyter Notebook | 📅 2020-11-12
+* github: <https://github.com/endernewton/tf-faster-rcnn> ⭐ 3,647 | 🐛 215 | 🌐 Python | 📅 2021-09-27
+* github: <https://github.com/ruotianluo/pytorch-faster-rcnn> ⭐ 1,806 | 🐛 79 | 🌐 Jupyter Notebook | 📅 2020-11-12
 * intro: Technical Report, 3 pages. CMU
 * arxiv: <https://arxiv.org/abs/1702.02138>
 
@@ -173,7 +173,7 @@ Based on handong1587's github: <https://handong1587.github.io/deep_learning/2015
 ## Mask R-CNN
 
 * github(Caffe2): <https://github.com/facebookresearch/Detectron> ⚠️ Archived
-* github(Keras): <https://github.com/matterport/Mask_RCNN> ⭐ 25,575 | 🐛 2,020 | 🌐 Python | 📅 2024-06-07
+* github(Keras): <https://github.com/matterport/Mask_RCNN> ⭐ 25,576 | 🐛 2,020 | 🌐 Python | 📅 2024-06-07
 * github(MXNet): <https://github.com/TuSimple/mx-maskrcnn> ⭐ 1,752 | 🐛 54 | 🌐 Python | 📅 2018-02-28
 * github(Pytorch): <https://github.com/wannabeOG/Mask-RCNN> ⭐ 989 | 🐛 17 | 🌐 Python | 📅 2019-11-05
 * github(Chainer): <https://github.com/DeNA/Chainer_Mask_R-CNN> ⚠️ Archived
@@ -250,10 +250,10 @@ Based on handong1587's github: <https://handong1587.github.io/deep_learning/2015
 
 [![img](https://camo.githubusercontent.com/e69d4118b20a42de4e23b9549f9a6ec6dbbb0814/687474703a2f2f706a7265646469652e636f6d2f6d656469612f66696c65732f6461726b6e65742d626c61636b2d736d616c6c2e706e67)](https://camo.githubusercontent.com/e69d4118b20a42de4e23b9549f9a6ec6dbbb0814/687474703a2f2f706a7265646469652e636f6d2f6d656469612f66696c65732f6461726b6e65742d626c61636b2d736d616c6c2e706e67)
 
-* github: <https://github.com/pjreddie/darknet> ⭐ 26,513 | 🐛 1,977 | 🌐 C | 📅 2024-05-03
+* github: <https://github.com/pjreddie/darknet> ⭐ 26,512 | 🐛 1,977 | 🌐 C | 📅 2024-05-03
 * github: <https://github.com/gliese581gg/YOLO_tensorflow> ⭐ 1,707 | 🐛 38 | 🌐 Python | 📅 2019-01-05
 * github: <https://github.com/nilboy/tensorflow-yolo> ⭐ 768 | 🐛 45 | 🌐 Python | 📅 2018-10-22
-* github: <https://github.com/xingwangsfu/caffe-yolo> ⭐ 514 | 🐛 33 | 🌐 Python | 📅 2017-01-05
+* github: <https://github.com/xingwangsfu/caffe-yolo> ⭐ 513 | 🐛 33 | 🌐 Python | 📅 2017-01-05
 * github: <https://github.com/AlexeyAB/yolo-windows> ⭐ 71 | 🐛 8 | 🌐 C | 📅 2017-01-18
 * github: <https://github.com/frischzenger/yolo-windows> ⭐ 50 | 🐛 5 | 🌐 C | 📅 2015-09-18
 * github: <https://github.com/frankzhangrui/Darknet-Yolo> ⭐ 49 | 🐛 6 | 🌐 C | 📅 2016-03-22
@@ -267,7 +267,7 @@ Based on handong1587's github: <https://handong1587.github.io/deep_learning/2015
 
 **darkflow - translate darknet to tensorflow. Load trained weights, retrain/fine-tune them using tensorflow, export constant graph def to C++**
 
-* github: <https://github.com/thtrieu/darkflow> ⭐ 6,139 | 🐛 641 | 🌐 Python | 📅 2023-10-23
+* github: <https://github.com/thtrieu/darkflow> ⭐ 6,138 | 🐛 641 | 🌐 Python | 📅 2023-10-23
 * blog: <https://thtrieu.github.io/notes/yolo-tensorflow-graph-buffer-cpp>
 
 **Start Training YOLO with Our Own Data**
@@ -298,8 +298,8 @@ Based on handong1587's github: <https://handong1587.github.io/deep_learning/2015
 
 **YOLO9000: Better, Faster, Stronger**
 
-* github(Windows): <https://github.com/AlexeyAB/darknet> ⭐ 22,134 | 🐛 5,449 | 🌐 C | 📅 2025-12-15
-* github(Keras): <https://github.com/allanzelener/YAD2K> ⭐ 2,729 | 🐛 126 | 🌐 Python | 📅 2020-12-16
+* github(Windows): <https://github.com/AlexeyAB/darknet> ⭐ 22,135 | 🐛 5,449 | 🌐 C | 📅 2025-12-15
+* github(Keras): <https://github.com/allanzelener/YAD2K> ⭐ 2,728 | 🐛 126 | 🌐 Python | 📅 2020-12-16
 * github(Keras): <https://github.com/experiencor/keras-yolo2> ⭐ 1,732 | 🐛 199 | 🌐 Jupyter Notebook | 📅 2023-03-24
 * github(PyTorch): <https://github.com/longcw/yolo2-pytorch> ⭐ 1,561 | 🐛 87 | 🌐 Python | 📅 2021-09-29
 * github: <https://github.com/philipperemy/yolo-9000> ⭐ 1,195 | 🐛 14 | 📅 2021-03-24
@@ -355,8 +355,8 @@ Based on handong1587's github: <https://handong1587.github.io/deep_learning/2015
 
 **YOLOv3: An Incremental Improvement**
 
-* github(Official):<https://github.com/pjreddie/darknet> ⭐ 26,513 | 🐛 1,977 | 🌐 C | 📅 2024-05-03
-* github:<https://github.com/ultralytics/yolov3> ⭐ 10,637 | 🐛 1 | 🌐 Python | 📅 2026-11-07
+* github(Official):<https://github.com/pjreddie/darknet> ⭐ 26,512 | 🐛 1,977 | 🌐 C | 📅 2024-05-03
+* github:<https://github.com/ultralytics/yolov3> ⭐ 10,638 | 🐛 1 | 🌐 Python | 📅 2026-11-07
 * github:<https://github.com/eriklindernoren/PyTorch-YOLOv3> ⭐ 7,435 | 🐛 114 | 🌐 Python | 📅 2026-10-27
 * github:<https://github.com/qqwweee/keras-yolo3> ⭐ 7,109 | 🐛 518 | 🌐 Python | 📅 2023-03-12
 * github:<https://github.com/ayooshkathuria/pytorch-yolo-v3> ⭐ 3,314 | 🐛 112 | 🌐 Python | 📅 2024-01-16
@@ -388,8 +388,8 @@ Based on handong1587's github: <https://handong1587.github.io/deep_learning/2015
 [![img](https://camo.githubusercontent.com/ad9b147ed3a5f48ffb7c3540711c15aa04ce49c6/687474703a2f2f7777772e63732e756e632e6564752f7e776c69752f7061706572732f7373642e706e67)](https://camo.githubusercontent.com/ad9b147ed3a5f48ffb7c3540711c15aa04ce49c6/687474703a2f2f7777772e63732e756e632e6564752f7e776c69752f7061706572732f7373642e706e67)
 
 * github: <https://github.com/amdegroot/ssd.pytorch> ⭐ 5,227 | 🐛 380 | 🌐 Python | 📅 2021-12-29
-* github(Official): <https://github.com/weiliu89/caffe/tree/ssd> ⭐ 4,808 | 🐛 676 | 🌐 C++ | 📅 2023-04-21
-* github: <https://github.com/balancap/SSD-Tensorflow> ⭐ 4,103 | 🐛 295 | 🌐 Jupyter Notebook | 📅 2021-08-12
+* github(Official): <https://github.com/weiliu89/caffe/tree/ssd> ⭐ 4,807 | 🐛 676 | 🌐 C++ | 📅 2023-04-21
+* github: <https://github.com/balancap/SSD-Tensorflow> ⭐ 4,101 | 🐛 295 | 🌐 Jupyter Notebook | 📅 2021-08-12
 * github(Caffe): <https://github.com/chuanqi305/MobileNet-SSD> ⭐ 2,125 | 🐛 150 | 🌐 Python | 📅 2025-07-13
 * github: <https://github.com/rykov8/ssd_keras> ⚠️ Archived
 * github: <https://github.com/zhreshold/mxnet-ssd> ⭐ 756 | 🐛 95 | 🌐 Python | 📅 2024-05-16
@@ -402,7 +402,7 @@ Based on handong1587's github: <https://handong1587.github.io/deep_learning/2015
 
 **What's the diffience in performance between this new code you pushed and the previous code? #327**
 
-<https://github.com/weiliu89/caffe/issues/327> ⭐ 4,808 | 🐛 676 | 🌐 C++ | 📅 2023-04-21
+<https://github.com/weiliu89/caffe/issues/327> ⭐ 4,807 | 🐛 676 | 🌐 C++ | 📅 2023-04-21
 
 ## DSSD
 
@@ -480,8 +480,8 @@ Based on handong1587's github: <https://handong1587.github.io/deep_learning/2015
 
 **R-FCN: Object Detection via Region-based Fully Convolutional Networks**
 
-* github(MXNet): <https://github.com/msracver/Deformable-ConvNets/tree/master/rfcn> ⭐ 4,123 | 🐛 159 | 🌐 Python | 📅 2021-09-27
-* github: <https://github.com/daijifeng001/R-FCN> ⭐ 1,249 | 🐛 30 | 🌐 Matlab | 📅 2017-05-05
+* github(MXNet): <https://github.com/msracver/Deformable-ConvNets/tree/master/rfcn> ⭐ 4,122 | 🐛 159 | 🌐 Python | 📅 2021-09-27
+* github: <https://github.com/daijifeng001/R-FCN> ⭐ 1,248 | 🐛 30 | 🌐 Matlab | 📅 2017-05-05
 * github: <https://github.com/Orpine/py-R-FCN> ⭐ 1,045 | 🐛 73 | 🌐 Python | 📅 2020-12-31
 * github: <https://github.com/xdever/RFCN-tensorflow> ⭐ 291 | 🐛 30 | 🌐 Python | 📅 2017-12-26
 * github: <https://github.com/PureDiors/pytorch_RFCN> ⭐ 276 | 🐛 6 | 🌐 Python | 📅 2017-03-12
@@ -702,7 +702,7 @@ Based on handong1587's github: <https://handong1587.github.io/deep_learning/2015
 
 **Learning a Rotation Invariant Detector with Rotatable Bounding Box**
 
-* github: <https://github.com/liulei01/DRBox> ⭐ 426 | 🐛 41 | 🌐 C++ | 📅 2017-12-09
+* github: <https://github.com/liulei01/DRBox> ⭐ 425 | 🐛 41 | 🌐 C++ | 📅 2017-12-09
 * arxiv: <https://arxiv.org/abs/1711.09405>
 
 **Scalable Object Detection for Stylized Objects**
@@ -848,7 +848,7 @@ Based on handong1587's github: <https://handong1587.github.io/deep_learning/2015
 
 **LMNet: Real-time Multiclass Object Detection on CPU using 3D LiDARs**
 
-* github: <https://github.com/CPFL/Autoware/tree/feature/cnn_lidar_detection> ⭐ 12,235 | 🐛 70 | 🌐 Dockerfile | 📅 2026-11-09
+* github: <https://github.com/CPFL/Autoware/tree/feature/cnn_lidar_detection> ⭐ 12,241 | 🐛 71 | 🌐 Dockerfile | 📅 2026-11-09
 * arxiv: <https://arxiv.org/abs/1805.04902>
 
 ## ZSD（Zero-Shot Object Detection）
@@ -1116,11 +1116,11 @@ RepMet: Representative-based metric learning for classification and one-shot obj
 
 # Detection Toolbox
 
-* [Detectron2](https://github.com/facebookresearch/detectron2) ⭐ 34,982 | 🐛 599 | 🌐 Python | 📅 2026-10-27: Detectron2 is FAIR's next-generation research platform for object detection and segmentation.
-* [mmdetection(SenseTime\&CUHK)](https://github.com/open-mmlab/mmdetection) ⭐ 33,035 | 🐛 1,967 | 🌐 Python | 📅 2024-08-21: mmdetection is an open source object detection toolbox based on PyTorch. It is a part of the open-mmlab project developed by [Multimedia Laboratory, CUHK](http://mmlab.ie.cuhk.edu.hk/).
+* [Detectron2](https://github.com/facebookresearch/detectron2) ⭐ 34,985 | 🐛 599 | 🌐 Python | 📅 2026-10-27: Detectron2 is FAIR's next-generation research platform for object detection and segmentation.
+* [mmdetection(SenseTime\&CUHK)](https://github.com/open-mmlab/mmdetection) ⭐ 33,039 | 🐛 1,967 | 🌐 Python | 📅 2024-08-21: mmdetection is an open source object detection toolbox based on PyTorch. It is a part of the open-mmlab project developed by [Multimedia Laboratory, CUHK](http://mmlab.ie.cuhk.edu.hk/).
 * [Detectron(FAIR)](https://github.com/facebookresearch/Detectron) ⚠️ Archived: Detectron is Facebook AI Research's software system that implements state-of-the-art object detection algorithms, including [Mask R-CNN](https://arxiv.org/abs/1703.06870). It is written in Python and powered by the [Caffe2](https://github.com/caffe2/caffe2) ⚠️ Archived deep learning framework.
 * [maskrcnn-benchmark(FAIR)](https://github.com/facebookresearch/maskrcnn-benchmark) ⚠️ Archived: Fast, modular reference implementation of Instance Segmentation and Object Detection algorithms in PyTorch.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
