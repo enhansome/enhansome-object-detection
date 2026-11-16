@@ -320,7 +320,7 @@
                 "open_issues": 142,
                 "owner": "ShaoqingRen",
                 "repo": "faster_rcnn",
-                "stars": 2837,
+                "stars": 2836,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
@@ -582,7 +582,7 @@
                 "open_issues": 331,
                 "owner": "facebookresearch",
                 "repo": "Detectron",
-                "stars": 26335,
+                "stars": 26333,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
@@ -1216,7 +1216,7 @@
                 "open_issues": 5449,
                 "owner": "AlexeyAB",
                 "repo": "darknet",
-                "stars": 22135,
+                "stars": 22134,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -1619,7 +1619,7 @@
                 "open_issues": 1,
                 "owner": "ultralytics",
                 "repo": "yolov3",
-                "stars": 10639,
+                "stars": 10640,
                 "topics": [
                   "computer-vision",
                   "coreml",
@@ -1747,7 +1747,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2023-09-05T07:29:29Z",
-                "open_issues": 237,
+                "open_issues": 236,
                 "owner": "experiencor",
                 "repo": "keras-yolo3",
                 "stars": 1609,
@@ -2793,7 +2793,7 @@
                 "open_issues": 72,
                 "owner": "autowarefoundation",
                 "repo": "autoware",
-                "stars": 12251,
+                "stars": 12252,
                 "topics": [
                   "autonomous-driving",
                   "autonomous-vehicles",
@@ -3136,7 +3136,7 @@
             "open_issues": 1967,
             "owner": "open-mmlab",
             "repo": "mmdetection",
-            "stars": 33035,
+            "stars": 33037,
             "topics": [
               "cascade-rcnn",
               "convnext",
@@ -3178,7 +3178,7 @@
             "open_issues": 331,
             "owner": "facebookresearch",
             "repo": "Detectron",
-            "stars": 26335,
+            "stars": 26333,
             "topics": []
           },
           "first_seen": "2026-08-28T12:12:41.483Z"
@@ -3209,7 +3209,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T07:10:04.129Z",
+    "last_updated": "2026-11-16T07:15:02.690Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Object Detection based on handong1587 github: https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html",
