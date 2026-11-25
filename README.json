@@ -21,7 +21,7 @@
                 "open_issues": 1176,
                 "owner": "BVLC",
                 "repo": "caffe",
-                "stars": 34553,
+                "stars": 34552,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -74,7 +74,7 @@
                 "open_issues": 118,
                 "owner": "rbgirshick",
                 "repo": "fast-rcnn",
-                "stars": 3466,
+                "stars": 3467,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
@@ -95,7 +95,7 @@
                 "open_issues": 118,
                 "owner": "rbgirshick",
                 "repo": "fast-rcnn",
-                "stars": 3466,
+                "stars": 3467,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
@@ -116,7 +116,7 @@
                 "open_issues": 118,
                 "owner": "rbgirshick",
                 "repo": "fast-rcnn",
-                "stars": 3466,
+                "stars": 3467,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
@@ -501,7 +501,7 @@
                 "open_issues": 2006,
                 "owner": "apache",
                 "repo": "mxnet",
-                "stars": 20791,
+                "stars": 20790,
                 "topics": [
                   "mxnet"
                 ]
@@ -582,7 +582,7 @@
                 "open_issues": 331,
                 "owner": "facebookresearch",
                 "repo": "Detectron",
-                "stars": 26332,
+                "stars": 26331,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
@@ -870,7 +870,7 @@
                 "open_issues": 1977,
                 "owner": "pjreddie",
                 "repo": "darknet",
-                "stars": 26521,
+                "stars": 26522,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
@@ -1216,7 +1216,7 @@
                 "open_issues": 5449,
                 "owner": "AlexeyAB",
                 "repo": "darknet",
-                "stars": 22137,
+                "stars": 22138,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -1598,7 +1598,7 @@
                 "open_issues": 1977,
                 "owner": "pjreddie",
                 "repo": "darknet",
-                "stars": 26521,
+                "stars": 26522,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
@@ -1619,7 +1619,7 @@
                 "open_issues": 1,
                 "owner": "ultralytics",
                 "repo": "yolov3",
-                "stars": 10649,
+                "stars": 10650,
                 "topics": [
                   "computer-vision",
                   "coreml",
@@ -1944,7 +1944,7 @@
                 "open_issues": 676,
                 "owner": "weiliu89",
                 "repo": "caffe",
-                "stars": 4808,
+                "stars": 4809,
                 "topics": [
                   "deep-learning",
                   "object-detection",
@@ -2094,7 +2094,7 @@
                 "open_issues": 676,
                 "owner": "weiliu89",
                 "repo": "caffe",
-                "stars": 4808,
+                "stars": 4809,
                 "topics": [
                   "deep-learning",
                   "object-detection",
@@ -2246,7 +2246,7 @@
                 "open_issues": 30,
                 "owner": "daijifeng001",
                 "repo": "R-FCN",
-                "stars": 1245,
+                "stars": 1246,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
@@ -2789,11 +2789,11 @@
                 "id": 41331761,
                 "language": "Dockerfile",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-20T22:19:02Z",
-                "open_issues": 75,
+                "last_commit": "2026-11-25T01:35:51Z",
+                "open_issues": 74,
                 "owner": "autowarefoundation",
                 "repo": "autoware",
-                "stars": 12273,
+                "stars": 12274,
                 "topics": [
                   "autonomous-driving",
                   "autonomous-vehicles",
@@ -3115,7 +3115,7 @@
             "open_issues": 599,
             "owner": "facebookresearch",
             "repo": "detectron2",
-            "stars": 35005,
+            "stars": 35008,
             "topics": []
           },
           "first_seen": "2026-08-28T12:12:41.483Z"
@@ -3178,7 +3178,7 @@
             "open_issues": 331,
             "owner": "facebookresearch",
             "repo": "Detectron",
-            "stars": 26332,
+            "stars": 26331,
             "topics": []
           },
           "first_seen": "2026-08-28T12:12:41.483Z"
@@ -3209,7 +3209,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T10:25:00.481Z",
+    "last_updated": "2026-11-25T09:07:57.860Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Object Detection based on handong1587 github: https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html",
