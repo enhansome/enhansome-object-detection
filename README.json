@@ -21,7 +21,7 @@
                 "open_issues": 1176,
                 "owner": "BVLC",
                 "repo": "caffe",
-                "stars": 34553,
+                "stars": 34548,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -254,7 +254,7 @@
                 "open_issues": 667,
                 "owner": "rbgirshick",
                 "repo": "py-faster-rcnn",
-                "stars": 8289,
+                "stars": 8288,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
@@ -341,7 +341,7 @@
                 "open_issues": 271,
                 "owner": "smallcorgi",
                 "repo": "Faster-RCNN_TF",
-                "stars": 2342,
+                "stars": 2341,
                 "topics": [
                   "detection",
                   "faster-rcnn",
@@ -501,7 +501,7 @@
                 "open_issues": 2006,
                 "owner": "apache",
                 "repo": "mxnet",
-                "stars": 20790,
+                "stars": 20788,
                 "topics": [
                   "mxnet"
                 ]
@@ -582,7 +582,7 @@
                 "open_issues": 331,
                 "owner": "facebookresearch",
                 "repo": "Detectron",
-                "stars": 26331,
+                "stars": 26330,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
@@ -603,7 +603,7 @@
                 "open_issues": 2020,
                 "owner": "matterport",
                 "repo": "Mask_RCNN",
-                "stars": 25580,
+                "stars": 25578,
                 "topics": [
                   "instance-segmentation",
                   "keras",
@@ -870,7 +870,7 @@
                 "open_issues": 1977,
                 "owner": "pjreddie",
                 "repo": "darknet",
-                "stars": 26522,
+                "stars": 26524,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
@@ -1216,7 +1216,7 @@
                 "open_issues": 5449,
                 "owner": "AlexeyAB",
                 "repo": "darknet",
-                "stars": 22139,
+                "stars": 22141,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -1598,7 +1598,7 @@
                 "open_issues": 1977,
                 "owner": "pjreddie",
                 "repo": "darknet",
-                "stars": 26522,
+                "stars": 26524,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
@@ -2585,7 +2585,7 @@
                 "open_issues": 41,
                 "owner": "liulei01",
                 "repo": "DRBox",
-                "stars": 426,
+                "stars": 425,
                 "topics": [
                   "caffe",
                   "detection",
@@ -2789,11 +2789,11 @@
                 "id": 41331761,
                 "language": "Dockerfile",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-25T01:35:51Z",
-                "open_issues": 74,
+                "last_commit": "2026-11-26T15:58:52Z",
+                "open_issues": 75,
                 "owner": "autowarefoundation",
                 "repo": "autoware",
-                "stars": 12277,
+                "stars": 12282,
                 "topics": [
                   "autonomous-driving",
                   "autonomous-vehicles",
@@ -3178,7 +3178,7 @@
             "open_issues": 331,
             "owner": "facebookresearch",
             "repo": "Detectron",
-            "stars": 26331,
+            "stars": 26330,
             "topics": []
           },
           "first_seen": "2026-08-28T12:12:41.483Z"
@@ -3209,7 +3209,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T08:52:55.621Z",
+    "last_updated": "2026-11-27T09:03:37.976Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Object Detection based on handong1587 github: https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html",
