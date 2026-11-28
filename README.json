@@ -299,7 +299,7 @@
                 "open_issues": 159,
                 "owner": "msracver",
                 "repo": "Deformable-ConvNets",
-                "stars": 4121,
+                "stars": 4120,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
@@ -501,7 +501,7 @@
                 "open_issues": 2006,
                 "owner": "apache",
                 "repo": "mxnet",
-                "stars": 20788,
+                "stars": 20787,
                 "topics": [
                   "mxnet"
                 ]
@@ -603,7 +603,7 @@
                 "open_issues": 2020,
                 "owner": "matterport",
                 "repo": "Mask_RCNN",
-                "stars": 25578,
+                "stars": 25579,
                 "topics": [
                   "instance-segmentation",
                   "keras",
@@ -1216,7 +1216,7 @@
                 "open_issues": 5449,
                 "owner": "AlexeyAB",
                 "repo": "darknet",
-                "stars": 22141,
+                "stars": 22143,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -1655,7 +1655,7 @@
                 "open_issues": 113,
                 "owner": "eriklindernoren",
                 "repo": "PyTorch-YOLOv3",
-                "stars": 7435,
+                "stars": 7436,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
@@ -2225,7 +2225,7 @@
                 "open_issues": 159,
                 "owner": "msracver",
                 "repo": "Deformable-ConvNets",
-                "stars": 4121,
+                "stars": 4120,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:12:41.483Z"
@@ -2789,11 +2789,11 @@
                 "id": 41331761,
                 "language": "Dockerfile",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-26T15:58:52Z",
+                "last_commit": "2026-11-27T12:48:34Z",
                 "open_issues": 75,
                 "owner": "autowarefoundation",
                 "repo": "autoware",
-                "stars": 12282,
+                "stars": 12284,
                 "topics": [
                   "autonomous-driving",
                   "autonomous-vehicles",
@@ -3112,10 +3112,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-27T09:21:49Z",
-            "open_issues": 599,
+            "open_issues": 600,
             "owner": "facebookresearch",
             "repo": "detectron2",
-            "stars": 35012,
+            "stars": 35014,
             "topics": []
           },
           "first_seen": "2026-08-28T12:12:41.483Z"
@@ -3136,7 +3136,7 @@
             "open_issues": 1967,
             "owner": "open-mmlab",
             "repo": "mmdetection",
-            "stars": 33054,
+            "stars": 33058,
             "topics": [
               "cascade-rcnn",
               "convnext",
@@ -3209,7 +3209,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T09:03:37.976Z",
+    "last_updated": "2026-11-28T08:25:22.942Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Object Detection based on handong1587 github: https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html",
